@@ -1,0 +1,501 @@
+restaurant_id,restaurant_name,location,cuisine_type,menu_item,price,cost,rating,review_count,staff_count,opening_hours,closing_hours,delivery_available,takeaway_available,reservation_required,seating_capacity,owner_name,contact_number,email,website
+1,Restaurant 1,Kano,Nigerian,Akara,36.61,19.33,1.5,927,18,9:00 AM,11:00 PM,No,Yes,No,59,Aisha Ojo,2.35E+12,emeka.ahmed@gmail.com,www.OsmxoWg.com
+2,Restaurant 2,Port Harcourt,Nigerian,Fried Rice,30.57,29.53,2.7,683,6,9:00 AM,10:00 PM,Yes,Yes,Yes,35,Adebayo Adeniyi,2.35E+12,musa.adeniyi@gmail.com,www.QuHpiDg.com
+3,Restaurant 3,Abuja,Intercontinental,Akara,31.33,28.49,1.4,601,30,10:00 AM,11:00 PM,No,No,Yes,37,Fatima Okafor,2.35E+12,aisha.eze@yahoo.com,www.SgfBzzu.com
+4,Restaurant 4,Abeokuta,Nigerian,Moi Moi,22.07,26.84,2.5,201,33,6:00 AM,9:00 PM,Yes,No,No,60,Obinna Onyeka,2.35E+12,tolu.ibrahim@gmail.com,www.IngKTWw.com
+5,Restaurant 5,Lagos,Nigerian,Spaghetti Bolognese,32.58,5.78,3.2,634,21,10:00 AM,11:00 PM,Yes,Yes,No,97,Musa Abubakar,2.35E+12,ngozi.ahmed@yahoo.com,www.nYeJJeg.com
+6,Restaurant 6,Kano,Nigerian,Pizza,43.27,14.08,1.4,993,26,7:00 AM,11:00 PM,No,No,No,60,Ngozi Ahmed,2.35E+12,uche.onyeka@outlook.com,www.EQNOGfv.com
+7,Restaurant 7,Kano,Intercontinental,Fried Rice,41.37,27.99,1.6,969,22,10:00 AM,9:00 PM,Yes,Yes,No,33,Uche Nwosu,2.35E+12,chinedu.ibrahim@yahoo.com,www.JoExfdm.com
+8,Restaurant 8,Benin City,Nigerian,Fried Chicken,34.19,26.53,1.3,927,15,8:00 AM,8:00 PM,Yes,Yes,Yes,31,Aisha Balogun,2.35E+12,emeka.adeniyi@outlook.com,www.TZBmwwQ.com
+9,Restaurant 9,Abeokuta,Intercontinental,Pounded Yam,12.45,29.01,2.9,982,11,8:00 AM,11:00 PM,Yes,Yes,Yes,71,Uche Onyeka,2.35E+12,emeka.adeniyi@yahoo.com,www.TAgXpQN.com
+10,Restaurant 10,Enugu,Intercontinental,Spaghetti Bolognese,19.86,17.53,2.8,698,28,6:00 AM,8:00 PM,No,Yes,No,83,Emeka Ahmed,2.35E+12,ngozi.abubakar@hotmail.com,www.oQWGVek.com
+11,Restaurant 11,Benin City,Intercontinental,Fried Chicken,24.2,7.42,5,164,5,8:00 AM,9:00 PM,No,Yes,No,39,Ngozi Adeniyi,2.35E+12,uche.balogun@hotmail.com,www.qUbupoD.com
+12,Restaurant 12,Kaduna,Nigerian,Fried Chicken,10.4,5.26,2.4,89,27,6:00 AM,8:00 PM,Yes,Yes,No,26,Ngozi Balogun,2.35E+12,ngozi.adeniyi@outlook.com,www.MaJOYVV.com
+13,Restaurant 13,Ibadan,Nigerian,Grilled Fish,32.13,21.14,3,149,41,10:00 AM,10:00 PM,Yes,No,Yes,41,Musa Okafor,2.35E+12,musa.ibrahim@gmail.com,www.HfSxaCF.com
+14,Restaurant 14,Abuja,Intercontinental,Caesar Salad,42.05,6.88,3.6,469,29,7:00 AM,10:00 PM,Yes,Yes,Yes,74,Fatima Eze,2.35E+12,emeka.onyeka@outlook.com,www.JCioXWp.com
+15,Restaurant 15,Kaduna,Intercontinental,Efo Riro,15.85,27.46,2.7,913,29,6:00 AM,9:00 PM,No,Yes,Yes,20,Ngozi Ibrahim,2.35E+12,fatima.eze@hotmail.com,www.pLfgXmt.com
+16,Restaurant 16,Kano,Intercontinental,Burger,16.51,28.22,4.4,209,29,9:00 AM,11:00 PM,No,Yes,Yes,72,Ngozi Ojo,2.35E+12,aisha.adeniyi@hotmail.com,www.DNqVyDb.com
+17,Restaurant 17,Ibadan,Nigerian,Suya,19.64,5.24,3.2,954,17,8:00 AM,10:00 PM,No,Yes,Yes,24,Tolu Okafor,2.35E+12,musa.abubakar@outlook.com,www.bALbtCz.com
+18,Restaurant 18,Jos,Intercontinental,Burger,10.41,7.39,1.9,607,38,9:00 AM,9:00 PM,Yes,Yes,No,70,Fatima Ibrahim,2.35E+12,uche.ahmed@outlook.com,www.EitNzNu.com
+19,Restaurant 19,Abuja,Intercontinental,Ofada Rice,32.3,5.44,2,96,36,10:00 AM,8:00 PM,No,No,Yes,89,Uche Balogun,2.35E+12,emeka.onyeka@yahoo.com,www.nJbywho.com
+20,Restaurant 20,Port Harcourt,Nigerian,Suya,11.53,13.45,4.2,447,32,6:00 AM,10:00 PM,Yes,Yes,No,75,Adebayo Ojo,2.35E+12,tolu.adeniyi@gmail.com,www.orPgZpY.com
+21,Restaurant 21,Abeokuta,Intercontinental,Akara,30.44,24.66,1.5,491,20,7:00 AM,8:00 PM,Yes,No,No,41,Ngozi Adeniyi,2.35E+12,ngozi.ibrahim@outlook.com,www.DjPwzFL.com
+22,Restaurant 22,Enugu,Intercontinental,Pizza,32.81,19.49,4.3,322,10,10:00 AM,8:00 PM,Yes,Yes,Yes,30,Uche Ojo,2.35E+12,obinna.onyeka@outlook.com,www.PkaipwO.com
+23,Restaurant 23,Jos,Nigerian,Pepper Soup,26.49,17.72,3.9,812,36,8:00 AM,9:00 PM,Yes,Yes,Yes,88,Tolu Onyeka,2.35E+12,tolu.balogun@yahoo.com,www.AZpvxsD.com
+24,Restaurant 24,Lagos,Nigerian,Caesar Salad,32.29,21.23,1.6,129,30,8:00 AM,8:00 PM,No,Yes,No,88,Chinedu Onyeka,2.35E+12,aisha.onyeka@outlook.com,www.dPUpXNW.com
+25,Restaurant 25,Port Harcourt,Nigerian,Jollof Rice,26.24,19.68,4.5,960,33,6:00 AM,10:00 PM,Yes,No,Yes,89,Obinna Balogun,2.35E+12,tolu.nwosu@hotmail.com,www.AtJHtVn.com
+26,Restaurant 26,Ibadan,Intercontinental,Pepper Soup,8.02,14.87,1.2,868,10,10:00 AM,11:00 PM,Yes,No,Yes,34,Musa Okafor,2.35E+12,obinna.ojo@yahoo.com,www.oyBnhqJ.com
+27,Restaurant 27,Port Harcourt,Nigerian,Fried Chicken,28.31,9.9,3.3,460,50,6:00 AM,9:00 PM,No,Yes,No,87,Chinedu Balogun,2.35E+12,tolu.balogun@gmail.com,www.AagmLEl.com
+28,Restaurant 28,Jos,Intercontinental,Fried Rice,14.26,11.09,4.5,103,27,10:00 AM,8:00 PM,Yes,Yes,No,94,Emeka Abubakar,2.35E+12,obinna.ibrahim@hotmail.com,www.fgmmhEB.com
+29,Restaurant 29,Benin City,Nigerian,Jollof Rice,30.06,21.42,1.4,336,37,8:00 AM,10:00 PM,No,Yes,No,79,Chinedu Eze,2.35E+12,aisha.ojo@hotmail.com,www.Onxgojy.com
+30,Restaurant 30,Jos,Intercontinental,Pasta Carbonara,28.87,10.38,3.4,922,48,10:00 AM,10:00 PM,No,No,No,20,Chinedu Ojo,2.35E+12,uche.abubakar@outlook.com,www.xuXlKHz.com
+31,Restaurant 31,Kano,Nigerian,Efo Riro,6.9,25.15,3.7,376,17,7:00 AM,10:00 PM,No,Yes,Yes,73,Musa Adeniyi,2.35E+12,fatima.eze@outlook.com,www.YvVrfVl.com
+32,Restaurant 32,Kaduna,Nigerian,Akara,31.88,14.12,1.9,993,46,9:00 AM,10:00 PM,No,Yes,No,92,Musa Nwosu,2.35E+12,emeka.eze@yahoo.com,www.kMaRWRb.com
+33,Restaurant 33,Ibadan,Intercontinental,Efo Riro,19.56,3.37,1.3,810,31,9:00 AM,9:00 PM,No,Yes,Yes,55,Adebayo Adeniyi,2.35E+12,musa.adeniyi@outlook.com,www.NeiidmH.com
+34,Restaurant 34,Kaduna,Intercontinental,Fried Chicken,16.97,6.84,2,227,43,10:00 AM,9:00 PM,No,No,Yes,75,Emeka Ojo,2.35E+12,tolu.ahmed@hotmail.com,www.KguoNMv.com
+35,Restaurant 35,Benin City,Intercontinental,Pepper Soup,9.56,3.51,4.8,814,27,6:00 AM,9:00 PM,No,No,No,91,Adebayo Nwosu,2.35E+12,emeka.ahmed@yahoo.com,www.UOhQJXP.com
+36,Restaurant 36,Jos,Intercontinental,Sushi,13.96,27.7,2.1,883,31,6:00 AM,11:00 PM,No,No,Yes,52,Chinedu Abubakar,2.35E+12,chinedu.onyeka@hotmail.com,www.xbOEQIC.com
+37,Restaurant 37,Lagos,Nigerian,Pounded Yam,45.4,17.58,2.4,870,7,7:00 AM,9:00 PM,No,No,Yes,49,Tolu Onyeka,2.35E+12,adebayo.onyeka@gmail.com,www.aXrPAgF.com
+38,Restaurant 38,Kaduna,Intercontinental,Egusi Soup,46.18,9.98,2.1,626,7,6:00 AM,10:00 PM,No,No,No,72,Chinedu Nwosu,2.35E+12,chinedu.onyeka@outlook.com,www.klqdVjk.com
+39,Restaurant 39,Kaduna,Nigerian,Grilled Fish,21.57,7.87,3.1,457,45,9:00 AM,9:00 PM,No,No,No,52,Ngozi Ahmed,2.35E+12,uche.ojo@gmail.com,www.alnJyTJ.com
+40,Restaurant 40,Port Harcourt,Intercontinental,Efo Riro,29.52,27.3,2.6,412,5,10:00 AM,10:00 PM,Yes,Yes,Yes,88,Adebayo Ahmed,2.35E+12,musa.ibrahim@gmail.com,www.xdQAKXs.com
+41,Restaurant 41,Lagos,Intercontinental,Jollof Rice,34.45,5.42,4.1,868,31,10:00 AM,10:00 PM,No,Yes,Yes,26,Obinna Onyeka,2.35E+12,aisha.nwosu@gmail.com,www.GwyDYwp.com
+42,Restaurant 42,Jos,Nigerian,Grilled Fish,19.87,23.57,3.8,127,11,6:00 AM,11:00 PM,No,No,No,58,Adebayo Ahmed,2.35E+12,fatima.balogun@hotmail.com,www.SNfbThh.com
+43,Restaurant 43,Ibadan,Nigerian,Pasta Carbonara,38.18,24.29,1.3,40,31,6:00 AM,11:00 PM,Yes,Yes,No,87,Musa Onyeka,2.35E+12,tolu.nwosu@yahoo.com,www.siYUMSp.com
+44,Restaurant 44,Benin City,Nigerian,Egusi Soup,28.75,25.96,2.5,661,35,9:00 AM,9:00 PM,Yes,No,Yes,95,Musa Balogun,2.35E+12,adebayo.ibrahim@yahoo.com,www.UZFMijg.com
+45,Restaurant 45,Abuja,Intercontinental,Akara,22,12.25,3.3,298,41,7:00 AM,9:00 PM,Yes,Yes,No,21,Fatima Okafor,2.35E+12,obinna.nwosu@yahoo.com,www.kWTGWMs.com
+46,Restaurant 46,Abeokuta,Nigerian,Moi Moi,46.4,9.76,4.7,88,39,6:00 AM,8:00 PM,No,Yes,No,31,Tolu Ojo,2.35E+12,tolu.ojo@yahoo.com,www.WPySXce.com
+47,Restaurant 47,Enugu,Intercontinental,Burger,39.31,27.84,4.9,694,21,7:00 AM,8:00 PM,No,Yes,Yes,54,Uche Ojo,2.35E+12,uche.eze@hotmail.com,www.owetEJC.com
+48,Restaurant 48,Lagos,Intercontinental,Burger,43.84,10.88,3.9,713,36,9:00 AM,9:00 PM,Yes,No,Yes,26,Ngozi Okafor,2.35E+12,adebayo.abubakar@hotmail.com,www.nclkAYc.com
+49,Restaurant 49,Enugu,Intercontinental,Steak,40.94,5.69,4.3,748,28,6:00 AM,9:00 PM,Yes,No,No,56,Musa Onyeka,2.35E+12,fatima.eze@yahoo.com,www.oNeJORc.com
+50,Restaurant 50,Benin City,Intercontinental,Pepper Soup,15.73,8.45,4.4,475,37,8:00 AM,8:00 PM,Yes,No,Yes,71,Emeka Ojo,2.35E+12,obinna.ahmed@gmail.com,www.Hcopzwd.com
+51,Restaurant 51,Kaduna,Nigerian,Egusi Soup,25.34,22.24,3.8,298,35,9:00 AM,8:00 PM,Yes,Yes,No,26,Uche Adeniyi,2.35E+12,obinna.eze@hotmail.com,www.LNwplnl.com
+52,Restaurant 52,Enugu,Nigerian,Akara,32.36,8.62,3.5,968,13,8:00 AM,9:00 PM,Yes,No,No,25,Fatima Nwosu,2.35E+12,ngozi.okafor@hotmail.com,www.wcyrPYA.com
+53,Restaurant 53,Abuja,Nigerian,Caesar Salad,18.15,5.67,4.6,217,13,7:00 AM,9:00 PM,No,Yes,No,57,Emeka Eze,2.35E+12,obinna.okafor@gmail.com,www.wwPxFbj.com
+54,Restaurant 54,Abuja,Nigerian,Egusi Soup,47.08,10.05,2.4,777,20,9:00 AM,9:00 PM,Yes,No,No,35,Emeka Eze,2.35E+12,fatima.eze@gmail.com,www.LTlotfQ.com
+55,Restaurant 55,Lagos,Nigerian,Steak,21.91,5.13,3.2,496,34,10:00 AM,11:00 PM,Yes,No,No,55,Obinna Ahmed,2.35E+12,tolu.ahmed@gmail.com,www.JYXwchN.com
+56,Restaurant 56,Enugu,Intercontinental,Fried Rice,48.86,25.44,2.5,651,20,7:00 AM,10:00 PM,Yes,No,No,26,Adebayo Nwosu,2.35E+12,aisha.eze@gmail.com,www.UUeIhNK.com
+57,Restaurant 57,Port Harcourt,Nigerian,Caesar Salad,42.23,3.59,2.9,152,26,10:00 AM,8:00 PM,Yes,Yes,Yes,90,Obinna Ojo,2.35E+12,chinedu.onyeka@hotmail.com,www.ZkZxuEW.com
+58,Restaurant 58,Kano,Intercontinental,Burger,32.59,28.59,3.1,975,18,7:00 AM,9:00 PM,No,Yes,No,29,Chinedu Onyeka,2.35E+12,ngozi.onyeka@gmail.com,www.AglahwD.com
+59,Restaurant 59,Ibadan,Nigerian,Spaghetti Bolognese,37.74,20.84,2.3,971,6,7:00 AM,8:00 PM,Yes,Yes,No,96,Fatima Adeniyi,2.35E+12,ngozi.ojo@outlook.com,www.hyTrKok.com
+60,Restaurant 60,Lagos,Intercontinental,Fried Chicken,6.34,26.98,2.1,380,33,6:00 AM,10:00 PM,No,No,Yes,25,Musa Ibrahim,2.35E+12,aisha.nwosu@yahoo.com,www.oOWTSkv.com
+61,Restaurant 61,Kano,Intercontinental,Sushi,23.11,14.51,1.6,287,13,8:00 AM,8:00 PM,No,No,No,29,Ngozi Adeniyi,2.35E+12,fatima.ahmed@outlook.com,www.sYFqtjX.com
+62,Restaurant 62,Lagos,Nigerian,Steak,27.61,18.91,4.6,901,37,10:00 AM,9:00 PM,Yes,No,No,63,Ngozi Abubakar,2.35E+12,emeka.eze@hotmail.com,www.xCiAmZb.com
+63,Restaurant 63,Enugu,Intercontinental,Jollof Rice,35.36,25.97,1.6,268,24,7:00 AM,10:00 PM,Yes,No,Yes,91,Emeka Ahmed,2.35E+12,obinna.ojo@yahoo.com,www.uQDlEbd.com
+64,Restaurant 64,Port Harcourt,Intercontinental,Fried Chicken,10.3,28.04,2.5,424,49,8:00 AM,9:00 PM,Yes,No,No,60,Tolu Eze,2.35E+12,uche.abubakar@yahoo.com,www.YAAXWnA.com
+65,Restaurant 65,Ibadan,Intercontinental,Pizza,14.4,12.01,4.6,290,34,7:00 AM,10:00 PM,No,Yes,Yes,79,Chinedu Adeniyi,2.35E+12,fatima.adeniyi@hotmail.com,www.eqJCoSb.com
+66,Restaurant 66,Ibadan,Nigerian,Chicken Wings,11.02,13.3,4.9,225,13,6:00 AM,11:00 PM,No,No,No,91,Obinna Balogun,2.35E+12,fatima.adeniyi@outlook.com,www.unzoBIF.com
+67,Restaurant 67,Jos,Intercontinental,Egusi Soup,8.42,11.37,1.3,824,38,9:00 AM,8:00 PM,No,No,No,86,Aisha Abubakar,2.35E+12,adebayo.adeniyi@hotmail.com,www.ojhsnLF.com
+68,Restaurant 68,Jos,Intercontinental,Akara,15.39,27.04,4.3,506,32,10:00 AM,8:00 PM,No,No,No,98,Musa Adeniyi,2.35E+12,fatima.ahmed@outlook.com,www.SLFDzTI.com
+69,Restaurant 69,Kaduna,Intercontinental,Pepper Soup,27.76,15.57,4,929,24,6:00 AM,11:00 PM,Yes,No,Yes,33,Emeka Nwosu,2.35E+12,uche.ahmed@yahoo.com,www.PBIFbwl.com
+70,Restaurant 70,Kaduna,Intercontinental,Pounded Yam,28.75,7.24,2.8,315,34,10:00 AM,9:00 PM,Yes,Yes,No,61,Aisha Onyeka,2.35E+12,adebayo.nwosu@gmail.com,www.wPIqUBz.com
+71,Restaurant 71,Abeokuta,Nigerian,Steak,30.11,21.11,3.5,629,40,9:00 AM,9:00 PM,No,No,Yes,38,Tolu Ojo,2.35E+12,aisha.nwosu@outlook.com,www.DkgXDTn.com
+72,Restaurant 72,Benin City,Nigerian,Pounded Yam,12.87,27.33,3.5,347,13,7:00 AM,9:00 PM,No,Yes,No,75,Chinedu Okafor,2.35E+12,adebayo.eze@yahoo.com,www.BjgeTlk.com
+73,Restaurant 73,Benin City,Nigerian,Jollof Rice,48.84,14.67,3.2,24,37,10:00 AM,11:00 PM,Yes,Yes,No,94,Adebayo Eze,2.35E+12,emeka.balogun@hotmail.com,www.tlnYHgK.com
+74,Restaurant 74,Benin City,Intercontinental,Spaghetti Bolognese,38.24,7.62,1.9,862,22,7:00 AM,8:00 PM,No,Yes,Yes,53,Chinedu Adeniyi,2.35E+12,fatima.okafor@hotmail.com,www.vYhzqZT.com
+75,Restaurant 75,Ibadan,Intercontinental,Chicken Wings,12.02,19.01,1.2,949,9,9:00 AM,8:00 PM,Yes,No,Yes,37,Tolu Onyeka,2.35E+12,uche.nwosu@gmail.com,www.AYLgdss.com
+76,Restaurant 76,Kaduna,Nigerian,Fried Chicken,38.14,8.34,1,500,33,8:00 AM,10:00 PM,Yes,Yes,Yes,36,Emeka Onyeka,2.35E+12,ngozi.ojo@outlook.com,www.xtGGxru.com
+77,Restaurant 77,Kano,Intercontinental,Grilled Fish,27.99,23.08,1.6,284,20,6:00 AM,9:00 PM,Yes,No,No,50,Aisha Eze,2.35E+12,fatima.eze@yahoo.com,www.SIzkjGZ.com
+78,Restaurant 78,Jos,Nigerian,Pasta Carbonara,13.42,21.37,2.3,816,39,7:00 AM,8:00 PM,No,No,No,31,Uche Balogun,2.35E+12,uche.eze@hotmail.com,www.xuDDkPT.com
+79,Restaurant 79,Lagos,Nigerian,Akara,30.49,21.3,1.1,861,6,6:00 AM,11:00 PM,No,No,Yes,49,Uche Balogun,2.35E+12,adebayo.ojo@yahoo.com,www.xiyyWGI.com
+80,Restaurant 80,Port Harcourt,Intercontinental,Pizza,33.85,6.68,4,51,47,8:00 AM,9:00 PM,Yes,Yes,Yes,61,Adebayo Nwosu,2.35E+12,musa.eze@hotmail.com,www.TWcVUoY.com
+81,Restaurant 81,Enugu,Nigerian,Spaghetti Bolognese,5.6,21.77,3.9,855,16,10:00 AM,9:00 PM,Yes,No,Yes,96,Tolu Okafor,2.35E+12,tolu.balogun@gmail.com,www.lHrMYaT.com
+82,Restaurant 82,Lagos,Nigerian,Pizza,9.42,22.36,2.6,273,10,8:00 AM,10:00 PM,No,No,No,94,Emeka Ahmed,2.35E+12,emeka.abubakar@gmail.com,www.FkhTyCf.com
+83,Restaurant 83,Jos,Intercontinental,Grilled Fish,29.38,5.56,2.8,503,36,10:00 AM,10:00 PM,Yes,Yes,Yes,36,Uche Balogun,2.35E+12,chinedu.nwosu@yahoo.com,www.OliCsbW.com
+84,Restaurant 84,Enugu,Intercontinental,Spaghetti Bolognese,17.07,3.17,3.8,128,11,9:00 AM,8:00 PM,Yes,No,Yes,67,Chinedu Ahmed,2.35E+12,obinna.eze@gmail.com,www.pNkSQNb.com
+85,Restaurant 85,Kano,Nigerian,Ofada Rice,6.28,22.9,4.3,53,7,9:00 AM,9:00 PM,No,No,No,55,Chinedu Nwosu,2.35E+12,adebayo.eze@hotmail.com,www.aHATBNS.com
+86,Restaurant 86,Kano,Nigerian,Sushi,45.17,24.51,4.2,885,21,7:00 AM,9:00 PM,No,Yes,No,28,Ngozi Ibrahim,2.35E+12,aisha.balogun@yahoo.com,www.jmOroLh.com
+87,Restaurant 87,Jos,Intercontinental,Pounded Yam,39.31,29.79,3.2,815,43,8:00 AM,10:00 PM,Yes,No,Yes,43,Ngozi Ibrahim,2.35E+12,uche.adeniyi@gmail.com,www.gSATBJL.com
+88,Restaurant 88,Ibadan,Intercontinental,Pounded Yam,38.77,19.37,3.2,168,31,10:00 AM,11:00 PM,Yes,Yes,No,90,Emeka Ahmed,2.35E+12,uche.adeniyi@gmail.com,www.PKwGrOX.com
+89,Restaurant 89,Jos,Intercontinental,Jollof Rice,5.43,8.85,3.8,760,25,9:00 AM,8:00 PM,Yes,No,No,45,Adebayo Adeniyi,2.35E+12,chinedu.okafor@yahoo.com,www.LjFuWce.com
+90,Restaurant 90,Lagos,Nigerian,Burger,10.13,24.67,4.9,310,15,7:00 AM,8:00 PM,Yes,Yes,No,66,Tolu Balogun,2.35E+12,aisha.ahmed@yahoo.com,www.gyTZWlE.com
+91,Restaurant 91,Benin City,Nigerian,Fried Chicken,35.19,15.05,4.9,283,13,10:00 AM,8:00 PM,Yes,Yes,Yes,30,Obinna Ibrahim,2.35E+12,obinna.balogun@gmail.com,www.ONFmZyc.com
+92,Restaurant 92,Lagos,Intercontinental,Moi Moi,48.28,11.5,1.1,65,22,9:00 AM,10:00 PM,Yes,No,No,78,Adebayo Eze,2.35E+12,aisha.ojo@outlook.com,www.KVlmMOX.com
+93,Restaurant 93,Kano,Intercontinental,Jollof Rice,11.93,17.89,2.5,987,39,8:00 AM,11:00 PM,No,No,Yes,37,Tolu Balogun,2.35E+12,ngozi.ojo@gmail.com,www.gYPYLbL.com
+94,Restaurant 94,Abeokuta,Intercontinental,Burger,25.61,17.35,4.6,953,15,6:00 AM,9:00 PM,Yes,No,No,51,Tolu Balogun,2.35E+12,emeka.abubakar@yahoo.com,www.sJUiiBW.com
+95,Restaurant 95,Kaduna,Intercontinental,Burger,31.27,23.36,2.2,881,24,10:00 AM,8:00 PM,Yes,Yes,No,76,Tolu Adeniyi,2.35E+12,uche.balogun@outlook.com,www.GBxTJPe.com
+96,Restaurant 96,Benin City,Nigerian,Efo Riro,25.31,19.75,3.3,819,18,6:00 AM,10:00 PM,Yes,No,No,61,Fatima Balogun,2.35E+12,chinedu.onyeka@yahoo.com,www.JioKKUJ.com
+97,Restaurant 97,Port Harcourt,Nigerian,Fried Chicken,37.37,29.42,3.4,697,17,8:00 AM,8:00 PM,Yes,Yes,No,96,Chinedu Ojo,2.35E+12,uche.balogun@gmail.com,www.TEfcCur.com
+98,Restaurant 98,Kano,Nigerian,Steak,48.69,13.86,4.4,760,22,6:00 AM,9:00 PM,Yes,Yes,Yes,23,Chinedu Adeniyi,2.35E+12,aisha.eze@outlook.com,www.IfnKDdA.com
+99,Restaurant 99,Port Harcourt,Nigerian,Moi Moi,6.86,11.52,4.2,512,43,8:00 AM,11:00 PM,No,No,Yes,38,Fatima Ojo,2.35E+12,musa.eze@gmail.com,www.iEFNxuL.com
+100,Restaurant 100,Kaduna,Intercontinental,Pasta Carbonara,44.19,25.95,1.5,460,30,7:00 AM,9:00 PM,Yes,Yes,Yes,92,Musa Eze,2.35E+12,aisha.balogun@yahoo.com,www.IswZyDO.com
+101,Restaurant 101,Abeokuta,Nigerian,Moi Moi,23.8,3.68,2.2,770,39,10:00 AM,8:00 PM,Yes,No,No,96,Aisha Balogun,2.35E+12,uche.ojo@hotmail.com,www.EXtdSLf.com
+102,Restaurant 102,Enugu,Intercontinental,Pasta Carbonara,47.17,22.49,1.3,75,23,6:00 AM,8:00 PM,Yes,Yes,Yes,38,Emeka Ojo,2.35E+12,uche.onyeka@outlook.com,www.EnhcDUP.com
+103,Restaurant 103,Kaduna,Nigerian,Spaghetti Bolognese,41.09,7.34,4.4,683,34,7:00 AM,9:00 PM,Yes,No,Yes,31,Chinedu Ojo,2.35E+12,tolu.onyeka@yahoo.com,www.iJfbDvj.com
+104,Restaurant 104,Kaduna,Nigerian,Akara,42.39,24.57,2.6,384,20,8:00 AM,8:00 PM,Yes,Yes,Yes,72,Emeka Onyeka,2.35E+12,fatima.ibrahim@yahoo.com,www.ywBnNIO.com
+105,Restaurant 105,Enugu,Intercontinental,Sushi,5.09,10.28,4.1,110,20,9:00 AM,8:00 PM,No,Yes,Yes,22,Ngozi Eze,2.35E+12,fatima.ojo@outlook.com,www.ORammfX.com
+106,Restaurant 106,Benin City,Intercontinental,Spaghetti Bolognese,41.82,22.41,3.9,476,31,10:00 AM,11:00 PM,No,No,Yes,44,Obinna Eze,2.35E+12,tolu.adeniyi@outlook.com,www.zGXNYaa.com
+107,Restaurant 107,Lagos,Nigerian,Egusi Soup,5.37,11.59,3.8,286,19,8:00 AM,10:00 PM,Yes,Yes,Yes,91,Uche Nwosu,2.35E+12,fatima.abubakar@hotmail.com,www.iRGsENZ.com
+108,Restaurant 108,Kaduna,Nigerian,Steak,46.11,16.98,1.3,526,12,9:00 AM,11:00 PM,Yes,No,No,55,Emeka Okafor,2.35E+12,ngozi.abubakar@outlook.com,www.hkpFjTr.com
+109,Restaurant 109,Abuja,Nigerian,Suya,24.11,4.93,4.1,113,12,6:00 AM,10:00 PM,No,Yes,Yes,45,Ngozi Adeniyi,2.35E+12,adebayo.balogun@yahoo.com,www.xgudBVu.com
+110,Restaurant 110,Enugu,Nigerian,Chicken Wings,40.59,12.94,4.5,474,50,8:00 AM,10:00 PM,Yes,No,Yes,71,Emeka Abubakar,2.35E+12,uche.balogun@gmail.com,www.ZrVfDXw.com
+111,Restaurant 111,Abeokuta,Nigerian,Burger,11.28,26.54,3.9,27,20,8:00 AM,8:00 PM,No,Yes,Yes,72,Ngozi Ibrahim,2.35E+12,obinna.nwosu@gmail.com,www.ZLpQUew.com
+112,Restaurant 112,Abuja,Nigerian,Steak,10.11,21.08,1.5,997,37,7:00 AM,11:00 PM,Yes,Yes,No,45,Chinedu Ibrahim,2.35E+12,tolu.adeniyi@outlook.com,www.UDNlZUz.com
+113,Restaurant 113,Enugu,Intercontinental,Ofada Rice,24.44,27.66,2.9,274,31,9:00 AM,10:00 PM,Yes,No,No,83,Adebayo Eze,2.35E+12,fatima.ahmed@gmail.com,www.cVRDHKj.com
+114,Restaurant 114,Enugu,Intercontinental,Pasta Carbonara,12.38,23.25,4.1,347,16,8:00 AM,8:00 PM,Yes,Yes,No,34,Fatima Ahmed,2.35E+12,emeka.okafor@gmail.com,www.PPyGTiO.com
+115,Restaurant 115,Jos,Intercontinental,Chicken Wings,35.03,12.68,1.6,332,29,9:00 AM,8:00 PM,No,Yes,Yes,97,Adebayo Ahmed,2.35E+12,fatima.onyeka@yahoo.com,www.OOKzlYh.com
+116,Restaurant 116,Port Harcourt,Intercontinental,Pizza,17.82,22.85,3.6,621,12,8:00 AM,8:00 PM,No,No,No,93,Obinna Ahmed,2.35E+12,tolu.eze@hotmail.com,www.xLRPnKS.com
+117,Restaurant 117,Kano,Intercontinental,Pasta Carbonara,18.27,12.97,3,620,6,9:00 AM,11:00 PM,Yes,No,Yes,87,Tolu Onyeka,2.35E+12,fatima.balogun@yahoo.com,www.metDGWL.com
+118,Restaurant 118,Lagos,Intercontinental,Fried Rice,10.47,5.14,4.2,746,45,10:00 AM,10:00 PM,No,No,No,57,Fatima Onyeka,2.35E+12,chinedu.ahmed@hotmail.com,www.agfwtqW.com
+119,Restaurant 119,Enugu,Nigerian,Pepper Soup,28.76,13.57,1.5,662,50,9:00 AM,11:00 PM,No,Yes,No,41,Uche Adeniyi,2.35E+12,emeka.ojo@outlook.com,www.DBbqbMg.com
+120,Restaurant 120,Enugu,Intercontinental,Steak,24.32,9.54,3.1,638,43,6:00 AM,8:00 PM,No,No,No,24,Chinedu Abubakar,2.35E+12,chinedu.abubakar@yahoo.com,www.ogltxwF.com
+121,Restaurant 121,Abeokuta,Intercontinental,Pasta Carbonara,48.85,11.7,1,201,20,8:00 AM,9:00 PM,No,Yes,Yes,33,Obinna Eze,2.35E+12,obinna.nwosu@gmail.com,www.DmhUATk.com
+122,Restaurant 122,Lagos,Intercontinental,Suya,8.46,12.35,1.5,616,38,9:00 AM,11:00 PM,No,No,No,42,Uche Nwosu,2.35E+12,musa.balogun@outlook.com,www.NsiSTdw.com
+123,Restaurant 123,Lagos,Nigerian,Jollof Rice,22.27,10.72,4.1,97,5,6:00 AM,9:00 PM,No,No,Yes,77,Ngozi Eze,2.35E+12,musa.ojo@outlook.com,www.TsBCZUw.com
+124,Restaurant 124,Kano,Nigerian,Akara,21.47,8.9,1.7,658,13,7:00 AM,10:00 PM,No,Yes,No,22,Fatima Balogun,2.35E+12,musa.onyeka@gmail.com,www.ZdQnznI.com
+125,Restaurant 125,Abeokuta,Intercontinental,Sushi,8.63,9.14,4.9,70,33,8:00 AM,10:00 PM,No,Yes,No,47,Fatima Abubakar,2.35E+12,obinna.ibrahim@outlook.com,www.BOnWqRx.com
+126,Restaurant 126,Jos,Nigerian,Egusi Soup,29.07,23.18,1.2,959,14,10:00 AM,10:00 PM,No,Yes,No,41,Musa Ahmed,2.35E+12,tolu.onyeka@outlook.com,www.fpFtYVV.com
+127,Restaurant 127,Ibadan,Intercontinental,Akara,41.65,6.68,4.3,170,19,6:00 AM,9:00 PM,No,No,No,95,Aisha Eze,2.35E+12,adebayo.abubakar@hotmail.com,www.ErIDOwF.com
+128,Restaurant 128,Benin City,Intercontinental,Pizza,42.51,25.92,4.8,622,44,7:00 AM,10:00 PM,No,Yes,No,89,Chinedu Eze,2.35E+12,fatima.eze@yahoo.com,www.ABrYAQz.com
+129,Restaurant 129,Kaduna,Nigerian,Jollof Rice,39,4.13,3.4,177,41,8:00 AM,11:00 PM,No,No,No,30,Musa Nwosu,2.35E+12,tolu.okafor@gmail.com,www.NdOyPSY.com
+130,Restaurant 130,Enugu,Intercontinental,Grilled Fish,48.81,18.28,3.5,103,47,10:00 AM,8:00 PM,No,No,Yes,51,Adebayo Okafor,2.35E+12,tolu.abubakar@hotmail.com,www.liKfEFu.com
+131,Restaurant 131,Enugu,Nigerian,Grilled Fish,37.04,12.68,4,226,42,8:00 AM,9:00 PM,No,No,No,64,Fatima Eze,2.35E+12,obinna.okafor@outlook.com,www.LOKSfLh.com
+132,Restaurant 132,Benin City,Nigerian,Jollof Rice,18.78,29.18,4.9,304,36,10:00 AM,8:00 PM,No,No,Yes,100,Chinedu Onyeka,2.35E+12,uche.balogun@outlook.com,www.IDpcjVX.com
+133,Restaurant 133,Port Harcourt,Nigerian,Efo Riro,26.55,23.07,4.4,564,38,7:00 AM,9:00 PM,Yes,Yes,No,90,Chinedu Nwosu,2.35E+12,ngozi.balogun@outlook.com,www.elakWky.com
+134,Restaurant 134,Ibadan,Nigerian,Pepper Soup,15.7,6.04,3.9,887,18,7:00 AM,8:00 PM,Yes,Yes,Yes,50,Ngozi Eze,2.35E+12,emeka.ibrahim@yahoo.com,www.klYBkdu.com
+135,Restaurant 135,Jos,Intercontinental,Pepper Soup,5.72,23.2,2.3,138,36,10:00 AM,8:00 PM,Yes,No,Yes,50,Chinedu Onyeka,2.35E+12,emeka.nwosu@hotmail.com,www.feLEjvG.com
+136,Restaurant 136,Lagos,Intercontinental,Grilled Fish,8.34,18.16,3.2,56,36,8:00 AM,9:00 PM,No,No,Yes,88,Adebayo Eze,2.35E+12,emeka.balogun@hotmail.com,www.KlunaPo.com
+137,Restaurant 137,Abuja,Intercontinental,Suya,38.71,29.28,3.8,992,43,6:00 AM,8:00 PM,Yes,Yes,No,21,Tolu Balogun,2.35E+12,uche.balogun@hotmail.com,www.EmEkyxC.com
+138,Restaurant 138,Abuja,Nigerian,Pasta Carbonara,20.74,3.06,2.1,643,20,6:00 AM,10:00 PM,Yes,No,No,90,Uche Eze,2.35E+12,musa.ibrahim@gmail.com,www.IAFckVg.com
+139,Restaurant 139,Ibadan,Intercontinental,Burger,16.47,20.75,3.4,937,7,7:00 AM,10:00 PM,No,No,Yes,75,Uche Nwosu,2.35E+12,chinedu.abubakar@hotmail.com,www.HWtfYko.com
+140,Restaurant 140,Kano,Intercontinental,Suya,19.4,26.22,1,908,26,6:00 AM,8:00 PM,Yes,Yes,No,54,Emeka Adeniyi,2.35E+12,chinedu.ojo@gmail.com,www.vFWGQgy.com
+141,Restaurant 141,Ibadan,Intercontinental,Pepper Soup,32.64,3.06,4.7,745,45,8:00 AM,10:00 PM,Yes,Yes,No,74,Tolu Ahmed,2.35E+12,fatima.abubakar@hotmail.com,www.ntclhhP.com
+142,Restaurant 142,Port Harcourt,Nigerian,Burger,46.97,4.28,2.4,583,49,10:00 AM,10:00 PM,No,No,Yes,69,Ngozi Ojo,2.35E+12,tolu.nwosu@outlook.com,www.WJCdseS.com
+143,Restaurant 143,Kaduna,Intercontinental,Chicken Wings,46.69,11.83,4.1,552,27,6:00 AM,9:00 PM,No,No,Yes,70,Aisha Adeniyi,2.35E+12,obinna.ojo@gmail.com,www.MNEBWFl.com
+144,Restaurant 144,Abeokuta,Nigerian,Pounded Yam,30.15,19.7,2.3,870,49,7:00 AM,10:00 PM,Yes,Yes,No,82,Chinedu Ibrahim,2.35E+12,ngozi.ahmed@hotmail.com,www.SViMtDv.com
+145,Restaurant 145,Kano,Intercontinental,Efo Riro,33.39,5.99,3.6,753,30,9:00 AM,9:00 PM,No,Yes,No,68,Chinedu Okafor,2.35E+12,fatima.abubakar@outlook.com,www.zpywlcl.com
+146,Restaurant 146,Benin City,Nigerian,Ofada Rice,15.71,11.12,3.8,877,47,6:00 AM,11:00 PM,Yes,Yes,Yes,39,Ngozi Ahmed,2.35E+12,emeka.nwosu@gmail.com,www.ZIqIvYd.com
+147,Restaurant 147,Ibadan,Nigerian,Pepper Soup,8.69,17.23,1.8,892,24,9:00 AM,8:00 PM,Yes,No,Yes,58,Uche Onyeka,2.35E+12,ngozi.eze@hotmail.com,www.pWBqYNo.com
+148,Restaurant 148,Jos,Nigerian,Fried Chicken,37.65,24.84,3.8,400,33,8:00 AM,9:00 PM,Yes,Yes,No,77,Tolu Ojo,2.35E+12,tolu.balogun@hotmail.com,www.bqjlOnJ.com
+149,Restaurant 149,Lagos,Intercontinental,Moi Moi,22.45,11.62,3.1,132,30,8:00 AM,11:00 PM,Yes,Yes,No,21,Obinna Nwosu,2.35E+12,fatima.adeniyi@hotmail.com,www.QJAibHm.com
+150,Restaurant 150,Enugu,Nigerian,Moi Moi,7.97,8.99,1,336,48,8:00 AM,8:00 PM,Yes,No,Yes,39,Emeka Ibrahim,2.35E+12,adebayo.abubakar@outlook.com,www.bkpgPKV.com
+151,Restaurant 151,Benin City,Intercontinental,Chicken Wings,20.41,20.84,1.7,353,38,9:00 AM,10:00 PM,No,No,No,53,Tolu Abubakar,2.35E+12,chinedu.ibrahim@hotmail.com,www.uyeZzog.com
+152,Restaurant 152,Enugu,Intercontinental,Pizza,41.59,3.68,3.7,41,6,6:00 AM,8:00 PM,Yes,No,Yes,69,Ngozi Eze,2.35E+12,tolu.nwosu@outlook.com,www.eHaJhEz.com
+153,Restaurant 153,Port Harcourt,Nigerian,Fried Chicken,7.3,19.09,4.5,317,28,10:00 AM,8:00 PM,Yes,No,No,71,Aisha Balogun,2.35E+12,fatima.abubakar@yahoo.com,www.kRtCWNn.com
+154,Restaurant 154,Abeokuta,Intercontinental,Egusi Soup,13.8,29.46,3.1,22,12,7:00 AM,8:00 PM,No,Yes,Yes,29,Obinna Ibrahim,2.35E+12,musa.ojo@outlook.com,www.WOAsfgo.com
+155,Restaurant 155,Abuja,Intercontinental,Caesar Salad,7.15,19.29,1.4,358,7,8:00 AM,9:00 PM,Yes,No,No,45,Ngozi Ahmed,2.35E+12,tolu.okafor@gmail.com,www.BCLRIUK.com
+156,Restaurant 156,Benin City,Nigerian,Grilled Fish,37.73,7.03,3.6,204,47,9:00 AM,8:00 PM,Yes,No,No,31,Tolu Adeniyi,2.35E+12,uche.adeniyi@gmail.com,www.AJPXIQN.com
+157,Restaurant 157,Abuja,Nigerian,Chicken Wings,47.86,18.14,3.1,264,48,8:00 AM,8:00 PM,Yes,Yes,No,88,Fatima Ojo,2.35E+12,fatima.adeniyi@hotmail.com,www.DEFXmtP.com
+158,Restaurant 158,Enugu,Intercontinental,Grilled Fish,35.79,14.49,2.2,758,23,8:00 AM,10:00 PM,Yes,Yes,No,83,Obinna Adeniyi,2.35E+12,adebayo.nwosu@yahoo.com,www.LepXLHM.com
+159,Restaurant 159,Enugu,Nigerian,Ofada Rice,13.84,7.64,3.5,929,10,9:00 AM,8:00 PM,No,Yes,No,83,Adebayo Eze,2.35E+12,adebayo.ibrahim@gmail.com,www.DgSeqHc.com
+160,Restaurant 160,Jos,Intercontinental,Pounded Yam,21.26,25.48,4,171,22,10:00 AM,11:00 PM,Yes,No,No,33,Ngozi Ibrahim,2.35E+12,obinna.ojo@gmail.com,www.HbZWwFW.com
+161,Restaurant 161,Ibadan,Nigerian,Pasta Carbonara,12.53,29.65,3.6,702,20,7:00 AM,8:00 PM,Yes,Yes,No,42,Uche Ahmed,2.35E+12,fatima.onyeka@outlook.com,www.LokVMHc.com
+162,Restaurant 162,Lagos,Nigerian,Fried Rice,11.74,29.42,3.9,133,9,8:00 AM,8:00 PM,No,Yes,Yes,44,Adebayo Nwosu,2.35E+12,adebayo.balogun@gmail.com,www.bBCnUYr.com
+163,Restaurant 163,Ibadan,Intercontinental,Spaghetti Bolognese,42.3,12.47,4.4,63,36,8:00 AM,10:00 PM,Yes,Yes,Yes,27,Obinna Onyeka,2.35E+12,uche.ahmed@yahoo.com,www.PQbamTt.com
+164,Restaurant 164,Abuja,Intercontinental,Pizza,12.42,27.88,2.2,787,16,7:00 AM,8:00 PM,Yes,Yes,No,58,Emeka Ojo,2.35E+12,fatima.ahmed@hotmail.com,www.mdeAimT.com
+165,Restaurant 165,Kaduna,Intercontinental,Suya,26.52,16.82,1.8,246,36,6:00 AM,9:00 PM,Yes,Yes,Yes,30,Musa Nwosu,2.35E+12,uche.balogun@gmail.com,www.VwniXWq.com
+166,Restaurant 166,Benin City,Nigerian,Pounded Yam,39.63,19.17,4.1,167,45,10:00 AM,9:00 PM,Yes,No,No,68,Ngozi Ojo,2.35E+12,musa.ahmed@gmail.com,www.BtVvxJg.com
+167,Restaurant 167,Enugu,Nigerian,Fried Rice,25.38,5.76,4,320,25,9:00 AM,10:00 PM,No,Yes,No,65,Musa Ibrahim,2.35E+12,chinedu.ibrahim@yahoo.com,www.AAOmApe.com
+168,Restaurant 168,Benin City,Intercontinental,Suya,5.35,5.99,1.4,128,48,10:00 AM,10:00 PM,No,No,No,99,Fatima Ojo,2.35E+12,musa.ibrahim@yahoo.com,www.woBAZpr.com
+169,Restaurant 169,Kano,Intercontinental,Grilled Fish,12.97,29.01,4.4,962,47,7:00 AM,11:00 PM,Yes,Yes,Yes,35,Uche Onyeka,2.35E+12,tolu.ojo@hotmail.com,www.unEBLUF.com
+170,Restaurant 170,Benin City,Nigerian,Burger,34.56,26.5,2.8,187,20,8:00 AM,9:00 PM,No,No,No,94,Fatima Ahmed,2.35E+12,musa.adeniyi@hotmail.com,www.lxnIZLk.com
+171,Restaurant 171,Benin City,Nigerian,Chicken Wings,26.31,25.49,3.7,515,16,9:00 AM,8:00 PM,No,Yes,No,83,Ngozi Ahmed,2.35E+12,fatima.balogun@hotmail.com,www.DBGqneU.com
+172,Restaurant 172,Abuja,Intercontinental,Pizza,30.89,26.06,3.4,916,5,6:00 AM,9:00 PM,Yes,Yes,No,44,Fatima Ibrahim,2.35E+12,emeka.ojo@gmail.com,www.ILwvfyE.com
+173,Restaurant 173,Lagos,Intercontinental,Burger,29.79,18.67,2.9,4,22,6:00 AM,9:00 PM,No,No,No,83,Fatima Ahmed,2.35E+12,adebayo.adeniyi@yahoo.com,www.jAhrIdw.com
+174,Restaurant 174,Enugu,Nigerian,Grilled Fish,37.73,29.29,2.5,673,46,9:00 AM,9:00 PM,Yes,Yes,Yes,100,Musa Ahmed,2.35E+12,uche.nwosu@yahoo.com,www.kJDtwhx.com
+175,Restaurant 175,Enugu,Intercontinental,Chicken Wings,48.13,20.2,2.4,15,46,8:00 AM,9:00 PM,No,Yes,No,55,Fatima Adeniyi,2.35E+12,uche.ibrahim@hotmail.com,www.eIJhWWF.com
+176,Restaurant 176,Port Harcourt,Intercontinental,Suya,20.67,21.1,2.7,794,23,10:00 AM,11:00 PM,Yes,Yes,Yes,52,Chinedu Nwosu,2.35E+12,chinedu.ahmed@yahoo.com,www.vExMdmI.com
+177,Restaurant 177,Abuja,Intercontinental,Fried Chicken,9.47,25.01,2.1,51,43,7:00 AM,11:00 PM,Yes,No,No,72,Obinna Ahmed,2.35E+12,fatima.balogun@hotmail.com,www.ItUqfFr.com
+178,Restaurant 178,Ibadan,Intercontinental,Sushi,38.49,26.08,2,378,47,7:00 AM,11:00 PM,Yes,Yes,Yes,20,Fatima Ibrahim,2.35E+12,musa.abubakar@hotmail.com,www.YWncDDl.com
+179,Restaurant 179,Benin City,Nigerian,Fried Rice,40.52,10.46,3.7,45,8,9:00 AM,8:00 PM,Yes,No,Yes,21,Uche Onyeka,2.35E+12,emeka.ahmed@gmail.com,www.zCdBRYI.com
+180,Restaurant 180,Abuja,Nigerian,Ofada Rice,38.46,20.34,3.7,14,12,7:00 AM,9:00 PM,Yes,Yes,Yes,94,Obinna Adeniyi,2.35E+12,obinna.okafor@hotmail.com,www.ZTxvydo.com
+181,Restaurant 181,Benin City,Nigerian,Akara,45.72,26.57,3.6,757,50,10:00 AM,8:00 PM,Yes,Yes,Yes,41,Musa Onyeka,2.35E+12,emeka.abubakar@gmail.com,www.kHObRKj.com
+182,Restaurant 182,Benin City,Nigerian,Caesar Salad,10.27,10.69,3.9,983,50,10:00 AM,11:00 PM,Yes,Yes,Yes,34,Tolu Adeniyi,2.35E+12,fatima.balogun@yahoo.com,www.isBHtEJ.com
+183,Restaurant 183,Enugu,Nigerian,Fried Rice,40.81,5.81,3.7,274,20,6:00 AM,8:00 PM,Yes,No,Yes,31,Tolu Ibrahim,2.35E+12,emeka.okafor@gmail.com,www.dQxzsGO.com
+184,Restaurant 184,Port Harcourt,Intercontinental,Akara,6.14,15.61,2.1,699,26,9:00 AM,9:00 PM,No,Yes,Yes,27,Tolu Ojo,2.35E+12,obinna.eze@yahoo.com,www.tYbExzI.com
+185,Restaurant 185,Kaduna,Nigerian,Pasta Carbonara,11.33,28.9,2.4,978,5,10:00 AM,8:00 PM,Yes,Yes,Yes,32,Adebayo Adeniyi,2.35E+12,uche.abubakar@hotmail.com,www.AwdOthG.com
+186,Restaurant 186,Port Harcourt,Intercontinental,Chicken Wings,25.56,7.99,1.6,964,42,10:00 AM,11:00 PM,Yes,No,No,47,Tolu Abubakar,2.35E+12,fatima.eze@gmail.com,www.pDkEOoP.com
+187,Restaurant 187,Enugu,Intercontinental,Burger,18.36,15.73,2.3,94,32,6:00 AM,9:00 PM,Yes,Yes,No,78,Uche Ojo,2.35E+12,musa.adeniyi@gmail.com,www.GCRbwCx.com
+188,Restaurant 188,Kano,Nigerian,Moi Moi,43.68,24.59,3.7,11,10,8:00 AM,9:00 PM,No,No,Yes,38,Fatima Ahmed,2.35E+12,tolu.eze@gmail.com,www.aCvADyy.com
+189,Restaurant 189,Port Harcourt,Nigerian,Pepper Soup,16.43,28.42,4.1,777,43,10:00 AM,10:00 PM,Yes,Yes,Yes,91,Obinna Ojo,2.35E+12,ngozi.ibrahim@yahoo.com,www.PSPcFOi.com
+190,Restaurant 190,Abeokuta,Nigerian,Ofada Rice,6.01,28.04,1.8,47,7,10:00 AM,11:00 PM,No,No,No,63,Ngozi Abubakar,2.35E+12,musa.balogun@gmail.com,www.IJhBGHl.com
+191,Restaurant 191,Ibadan,Intercontinental,Spaghetti Bolognese,24.46,16.23,2.5,684,37,8:00 AM,9:00 PM,No,No,Yes,42,Aisha Nwosu,2.35E+12,musa.eze@gmail.com,www.JbdjIgu.com
+192,Restaurant 192,Ibadan,Intercontinental,Egusi Soup,43.37,24.9,1.6,494,40,8:00 AM,9:00 PM,No,No,Yes,55,Uche Eze,2.35E+12,adebayo.adeniyi@hotmail.com,www.xDdWGae.com
+193,Restaurant 193,Abuja,Nigerian,Steak,36.46,10.59,1.7,695,7,9:00 AM,8:00 PM,No,Yes,No,78,Fatima Onyeka,2.35E+12,chinedu.adeniyi@gmail.com,www.ptEpySh.com
+194,Restaurant 194,Abeokuta,Intercontinental,Fried Rice,43.92,4.56,3,454,40,7:00 AM,10:00 PM,Yes,Yes,Yes,25,Aisha Ojo,2.35E+12,obinna.abubakar@yahoo.com,www.dPOIyAe.com
+195,Restaurant 195,Lagos,Nigerian,Efo Riro,24.79,10.82,3,474,33,6:00 AM,11:00 PM,Yes,No,No,31,Fatima Ibrahim,2.35E+12,adebayo.balogun@hotmail.com,www.knFJUgL.com
+196,Restaurant 196,Kano,Intercontinental,Fried Chicken,13.93,28.44,3.2,792,24,10:00 AM,11:00 PM,No,No,No,26,Fatima Okafor,2.35E+12,adebayo.onyeka@hotmail.com,www.OMAEdJx.com
+197,Restaurant 197,Port Harcourt,Intercontinental,Pizza,17.1,8.61,4.1,348,7,6:00 AM,9:00 PM,No,No,Yes,25,Aisha Okafor,2.35E+12,tolu.ahmed@outlook.com,www.VgzNXxi.com
+198,Restaurant 198,Abeokuta,Nigerian,Ofada Rice,37.89,13.54,2.9,142,13,7:00 AM,9:00 PM,No,Yes,Yes,46,Uche Ahmed,2.35E+12,emeka.ahmed@hotmail.com,www.cyPHXVz.com
+199,Restaurant 199,Benin City,Nigerian,Jollof Rice,13.47,16.38,4.4,597,28,6:00 AM,8:00 PM,Yes,No,No,49,Obinna Balogun,2.35E+12,emeka.balogun@outlook.com,www.SUWeRjG.com
+200,Restaurant 200,Enugu,Nigerian,Efo Riro,23.27,8.86,2.8,454,8,10:00 AM,8:00 PM,Yes,Yes,No,70,Obinna Abubakar,2.35E+12,aisha.ahmed@gmail.com,www.THOBddC.com
+201,Restaurant 201,Ibadan,Intercontinental,Pizza,11.22,11.71,4.7,338,43,7:00 AM,10:00 PM,Yes,Yes,No,52,Uche Balogun,2.35E+12,emeka.nwosu@outlook.com,www.kUvnEHV.com
+202,Restaurant 202,Enugu,Nigerian,Grilled Fish,24.42,24.96,3.8,838,12,8:00 AM,9:00 PM,No,No,No,100,Tolu Abubakar,2.35E+12,uche.nwosu@hotmail.com,www.VDufjrz.com
+203,Restaurant 203,Enugu,Intercontinental,Fried Chicken,47.7,5.77,2.6,915,13,8:00 AM,10:00 PM,No,Yes,No,52,Fatima Ibrahim,2.35E+12,musa.okafor@gmail.com,www.dRozSdb.com
+204,Restaurant 204,Abuja,Intercontinental,Fried Rice,16.38,29.57,2.5,567,37,10:00 AM,11:00 PM,No,Yes,No,76,Fatima Nwosu,2.35E+12,emeka.eze@yahoo.com,www.CtxuqCR.com
+205,Restaurant 205,Kano,Nigerian,Fried Rice,39.64,14.7,3.3,983,23,10:00 AM,10:00 PM,Yes,Yes,No,43,Emeka Adeniyi,2.35E+12,ngozi.onyeka@yahoo.com,www.jqfqIsm.com
+206,Restaurant 206,Kano,Nigerian,Pepper Soup,19.35,9.75,2.1,597,38,6:00 AM,11:00 PM,No,No,No,100,Fatima Onyeka,2.35E+12,obinna.ojo@hotmail.com,www.IPGhZdf.com
+207,Restaurant 207,Port Harcourt,Intercontinental,Grilled Fish,35.29,5.94,2.2,548,16,10:00 AM,9:00 PM,No,No,No,79,Tolu Okafor,2.35E+12,emeka.onyeka@gmail.com,www.uaTzSOx.com
+208,Restaurant 208,Kano,Nigerian,Suya,47.32,19.95,1.4,472,32,6:00 AM,10:00 PM,No,No,Yes,56,Uche Ibrahim,2.35E+12,chinedu.balogun@hotmail.com,www.EiVpjbG.com
+209,Restaurant 209,Enugu,Nigerian,Grilled Fish,34.12,23.76,3.6,697,21,6:00 AM,10:00 PM,No,Yes,Yes,77,Fatima Ibrahim,2.35E+12,tolu.onyeka@hotmail.com,www.loGGRaF.com
+210,Restaurant 210,Port Harcourt,Nigerian,Suya,34.9,7.68,3.4,310,26,6:00 AM,10:00 PM,Yes,No,No,88,Obinna Nwosu,2.35E+12,uche.onyeka@hotmail.com,www.MuIHwVo.com
+211,Restaurant 211,Enugu,Intercontinental,Fried Rice,23.69,12.42,4.8,681,31,6:00 AM,11:00 PM,Yes,Yes,No,76,Obinna Balogun,2.35E+12,tolu.ahmed@gmail.com,www.tYuCMsm.com
+212,Restaurant 212,Port Harcourt,Intercontinental,Egusi Soup,38.22,9.03,1.6,747,37,9:00 AM,10:00 PM,Yes,No,Yes,99,Obinna Onyeka,2.35E+12,chinedu.eze@yahoo.com,www.ZRrcTFf.com
+213,Restaurant 213,Enugu,Nigerian,Grilled Fish,43.88,8.14,4.9,313,36,10:00 AM,10:00 PM,Yes,Yes,Yes,46,Obinna Ibrahim,2.35E+12,uche.adeniyi@gmail.com,www.PwBvSjD.com
+214,Restaurant 214,Benin City,Nigerian,Chicken Wings,29.47,6.18,3.2,347,19,6:00 AM,8:00 PM,No,Yes,No,21,Uche Eze,2.35E+12,musa.adeniyi@yahoo.com,www.SuDiNxw.com
+215,Restaurant 215,Lagos,Intercontinental,Sushi,7.86,28.36,2.3,785,39,10:00 AM,10:00 PM,No,No,No,20,Chinedu Balogun,2.35E+12,adebayo.balogun@outlook.com,www.QfOfVVR.com
+216,Restaurant 216,Enugu,Nigerian,Pasta Carbonara,10.27,21.45,3.8,229,41,6:00 AM,11:00 PM,No,Yes,No,51,Tolu Abubakar,2.35E+12,musa.onyeka@yahoo.com,www.pOhYOxy.com
+217,Restaurant 217,Abeokuta,Nigerian,Spaghetti Bolognese,46.82,27.29,2.9,443,8,10:00 AM,10:00 PM,Yes,Yes,Yes,82,Chinedu Nwosu,2.35E+12,chinedu.ahmed@hotmail.com,www.hENmiGR.com
+218,Restaurant 218,Lagos,Nigerian,Jollof Rice,31.72,6.44,3.1,632,31,7:00 AM,10:00 PM,Yes,Yes,No,66,Chinedu Ahmed,2.35E+12,emeka.okafor@yahoo.com,www.CWvTxui.com
+219,Restaurant 219,Port Harcourt,Nigerian,Pounded Yam,6.59,14.82,3.2,118,37,9:00 AM,11:00 PM,Yes,Yes,Yes,75,Chinedu Ibrahim,2.35E+12,fatima.abubakar@hotmail.com,www.rKuNkkE.com
+220,Restaurant 220,Jos,Nigerian,Pasta Carbonara,19.97,26.08,2.7,315,49,7:00 AM,8:00 PM,Yes,No,No,70,Ngozi Adeniyi,2.35E+12,tolu.ahmed@gmail.com,www.sJVwwIo.com
+221,Restaurant 221,Ibadan,Intercontinental,Akara,28.88,25.77,2.5,336,49,7:00 AM,10:00 PM,No,Yes,No,60,Adebayo Ojo,2.35E+12,uche.nwosu@outlook.com,www.njfFQfQ.com
+222,Restaurant 222,Abuja,Intercontinental,Moi Moi,28.69,25.3,3.9,705,50,8:00 AM,11:00 PM,Yes,No,No,54,Chinedu Eze,2.35E+12,musa.okafor@outlook.com,www.SWzhWfY.com
+223,Restaurant 223,Abuja,Intercontinental,Egusi Soup,49.89,9.87,2.8,685,21,10:00 AM,8:00 PM,No,Yes,Yes,71,Musa Ojo,2.35E+12,aisha.ahmed@outlook.com,www.gQtXUMw.com
+224,Restaurant 224,Abeokuta,Intercontinental,Fried Chicken,32.34,21.69,2.9,445,13,7:00 AM,8:00 PM,Yes,Yes,No,66,Obinna Okafor,2.35E+12,uche.okafor@outlook.com,www.GkYkrbh.com
+225,Restaurant 225,Port Harcourt,Intercontinental,Egusi Soup,25.51,18.64,4.9,144,28,7:00 AM,10:00 PM,No,No,Yes,40,Adebayo Adeniyi,2.35E+12,fatima.eze@hotmail.com,www.Kddpanl.com
+226,Restaurant 226,Jos,Intercontinental,Grilled Fish,30.21,6,1,744,50,10:00 AM,10:00 PM,No,No,No,47,Musa Adeniyi,2.35E+12,chinedu.ojo@outlook.com,www.LYexBrC.com
+227,Restaurant 227,Enugu,Intercontinental,Suya,16.24,10.96,4.5,73,41,8:00 AM,11:00 PM,No,No,No,93,Chinedu Onyeka,2.35E+12,aisha.nwosu@gmail.com,www.osDWdFG.com
+228,Restaurant 228,Enugu,Intercontinental,Pounded Yam,6.2,18.35,1.7,802,5,10:00 AM,8:00 PM,Yes,No,No,36,Emeka Ojo,2.35E+12,adebayo.eze@yahoo.com,www.YfkzAmd.com
+229,Restaurant 229,Lagos,Nigerian,Egusi Soup,48.53,9.04,4,359,30,9:00 AM,11:00 PM,Yes,No,No,70,Obinna Ahmed,2.35E+12,musa.okafor@gmail.com,www.WyWLHcU.com
+230,Restaurant 230,Kano,Intercontinental,Grilled Fish,46.46,24.35,1.4,324,36,7:00 AM,8:00 PM,No,Yes,No,48,Emeka Balogun,2.35E+12,tolu.adeniyi@gmail.com,www.RBALPVK.com
+231,Restaurant 231,Ibadan,Intercontinental,Akara,27.85,6.78,3.5,338,25,8:00 AM,9:00 PM,No,No,No,38,Aisha Okafor,2.35E+12,chinedu.eze@gmail.com,www.UWBpZQW.com
+232,Restaurant 232,Port Harcourt,Intercontinental,Moi Moi,9.63,17.86,1.1,318,30,8:00 AM,10:00 PM,Yes,Yes,No,67,Uche Abubakar,2.35E+12,emeka.ahmed@yahoo.com,www.JEkVHLR.com
+233,Restaurant 233,Kano,Nigerian,Ofada Rice,38.86,28.83,2.6,413,14,8:00 AM,11:00 PM,No,Yes,No,42,Uche Okafor,2.35E+12,tolu.nwosu@yahoo.com,www.sJxCijw.com
+234,Restaurant 234,Benin City,Nigerian,Efo Riro,6.91,26.02,2.4,783,36,9:00 AM,8:00 PM,No,No,No,21,Musa Balogun,2.35E+12,obinna.abubakar@hotmail.com,www.ZDjQAZa.com
+235,Restaurant 235,Kaduna,Intercontinental,Sushi,33.32,8.33,2.6,450,43,9:00 AM,9:00 PM,No,Yes,No,38,Uche Ahmed,2.35E+12,uche.ojo@yahoo.com,www.lKwCJJo.com
+236,Restaurant 236,Abuja,Intercontinental,Egusi Soup,7.99,23.25,2.3,296,12,9:00 AM,8:00 PM,No,No,No,48,Obinna Balogun,2.35E+12,emeka.balogun@gmail.com,www.XFBYLBL.com
+237,Restaurant 237,Port Harcourt,Nigerian,Pounded Yam,26.14,23,3.6,11,37,9:00 AM,10:00 PM,No,No,No,20,Ngozi Eze,2.35E+12,fatima.ojo@hotmail.com,www.SzJleLu.com
+238,Restaurant 238,Lagos,Nigerian,Pasta Carbonara,30.5,9.86,2.9,43,50,9:00 AM,10:00 PM,Yes,No,Yes,63,Fatima Eze,2.35E+12,musa.abubakar@hotmail.com,www.JDsRXuD.com
+239,Restaurant 239,Ibadan,Nigerian,Chicken Wings,35.73,8.64,2,846,14,8:00 AM,10:00 PM,No,No,Yes,99,Musa Okafor,2.35E+12,adebayo.adeniyi@hotmail.com,www.XZuOlLB.com
+240,Restaurant 240,Enugu,Nigerian,Efo Riro,35.4,3.33,1.7,858,17,7:00 AM,11:00 PM,Yes,Yes,No,26,Emeka Eze,2.35E+12,tolu.ibrahim@outlook.com,www.SwehOEP.com
+241,Restaurant 241,Lagos,Intercontinental,Fried Chicken,46.09,27.94,3.1,11,47,6:00 AM,11:00 PM,No,Yes,No,33,Fatima Okafor,2.35E+12,obinna.adeniyi@hotmail.com,www.vhWewOk.com
+242,Restaurant 242,Lagos,Nigerian,Sushi,27.09,16.7,3.4,649,48,6:00 AM,9:00 PM,Yes,Yes,Yes,29,Chinedu Onyeka,2.35E+12,ngozi.ojo@gmail.com,www.XixXRax.com
+243,Restaurant 243,Lagos,Nigerian,Burger,7.74,22.71,1.7,961,33,10:00 AM,11:00 PM,Yes,No,Yes,71,Tolu Ibrahim,2.35E+12,musa.ibrahim@yahoo.com,www.jOljsor.com
+244,Restaurant 244,Ibadan,Nigerian,Pizza,39.47,22.19,1.5,28,39,9:00 AM,10:00 PM,No,Yes,Yes,40,Chinedu Ojo,2.35E+12,musa.onyeka@outlook.com,www.QqrlVEp.com
+245,Restaurant 245,Benin City,Nigerian,Chicken Wings,47.9,14.18,2.9,767,29,6:00 AM,8:00 PM,Yes,Yes,No,43,Adebayo Balogun,2.35E+12,obinna.ojo@hotmail.com,www.fszPMCt.com
+246,Restaurant 246,Lagos,Nigerian,Sushi,26.24,19.98,3,70,25,6:00 AM,9:00 PM,No,No,No,71,Adebayo Okafor,2.35E+12,aisha.eze@yahoo.com,www.gsOdjkS.com
+247,Restaurant 247,Benin City,Intercontinental,Steak,38.48,21.2,1.9,403,25,10:00 AM,11:00 PM,No,Yes,No,92,Musa Adeniyi,2.35E+12,fatima.adeniyi@gmail.com,www.hZaLqOk.com
+248,Restaurant 248,Lagos,Nigerian,Egusi Soup,14.95,8.15,1.9,962,41,10:00 AM,11:00 PM,No,Yes,Yes,35,Uche Balogun,2.35E+12,adebayo.balogun@hotmail.com,www.foMSDXm.com
+249,Restaurant 249,Jos,Nigerian,Pounded Yam,20.19,15.27,2,313,24,9:00 AM,8:00 PM,Yes,No,No,88,Musa Balogun,2.35E+12,uche.abubakar@gmail.com,www.HLCsxdK.com
+250,Restaurant 250,Kano,Nigerian,Suya,10.61,19.57,2.3,19,15,7:00 AM,9:00 PM,No,No,No,81,Tolu Eze,2.35E+12,aisha.eze@yahoo.com,www.lObDXpl.com
+251,Restaurant 251,Abeokuta,Intercontinental,Steak,41.37,27.64,1,403,49,6:00 AM,9:00 PM,Yes,No,No,47,Emeka Ahmed,2.35E+12,musa.okafor@gmail.com,www.hGQncAd.com
+252,Restaurant 252,Abeokuta,Nigerian,Spaghetti Bolognese,15.94,18.99,2.2,83,34,9:00 AM,8:00 PM,No,No,Yes,50,Fatima Nwosu,2.35E+12,ngozi.ojo@hotmail.com,www.AuOwyZU.com
+253,Restaurant 253,Abuja,Nigerian,Grilled Fish,44.95,4.54,3.9,596,42,9:00 AM,9:00 PM,Yes,No,No,63,Musa Ahmed,2.35E+12,fatima.eze@hotmail.com,www.XHSZNnL.com
+254,Restaurant 254,Kaduna,Intercontinental,Pounded Yam,17.97,21.43,2.6,13,19,6:00 AM,9:00 PM,Yes,Yes,No,21,Aisha Onyeka,2.35E+12,aisha.eze@outlook.com,www.PZKiqWv.com
+255,Restaurant 255,Abuja,Intercontinental,Sushi,45.28,9.51,3,760,45,8:00 AM,10:00 PM,Yes,Yes,Yes,31,Tolu Okafor,2.35E+12,uche.adeniyi@gmail.com,www.MqpLDLb.com
+256,Restaurant 256,Jos,Intercontinental,Ofada Rice,20.76,15.69,1.4,711,48,6:00 AM,9:00 PM,No,Yes,Yes,52,Obinna Ibrahim,2.35E+12,chinedu.okafor@gmail.com,www.NiUQMmE.com
+257,Restaurant 257,Ibadan,Nigerian,Moi Moi,15.35,3.49,1.6,441,43,7:00 AM,9:00 PM,Yes,No,Yes,60,Obinna Okafor,2.35E+12,musa.ojo@hotmail.com,www.DWcqRPe.com
+258,Restaurant 258,Abuja,Nigerian,Grilled Fish,43.22,11.89,1.4,977,24,10:00 AM,9:00 PM,Yes,No,No,63,Chinedu Ibrahim,2.35E+12,emeka.adeniyi@hotmail.com,www.EObcOmE.com
+259,Restaurant 259,Abeokuta,Intercontinental,Sushi,37.6,19.51,3.1,561,9,10:00 AM,11:00 PM,No,No,No,27,Aisha Ojo,2.35E+12,tolu.okafor@outlook.com,www.fcyqKMk.com
+260,Restaurant 260,Port Harcourt,Intercontinental,Steak,23.37,14.64,1.1,966,47,9:00 AM,9:00 PM,No,No,No,80,Emeka Nwosu,2.35E+12,aisha.ibrahim@hotmail.com,www.VLwZmqE.com
+261,Restaurant 261,Abeokuta,Intercontinental,Jollof Rice,32.02,14.26,2.6,479,14,6:00 AM,8:00 PM,No,Yes,Yes,82,Uche Ahmed,2.35E+12,ngozi.okafor@outlook.com,www.qJCBfer.com
+262,Restaurant 262,Jos,Intercontinental,Akara,18.27,22.99,2,596,21,6:00 AM,11:00 PM,No,Yes,Yes,78,Fatima Abubakar,2.35E+12,tolu.adeniyi@yahoo.com,www.bbkUOEs.com
+263,Restaurant 263,Enugu,Nigerian,Suya,37.06,24.02,3.4,483,8,9:00 AM,11:00 PM,No,No,No,53,Chinedu Ojo,2.35E+12,uche.balogun@gmail.com,www.DecSWRA.com
+264,Restaurant 264,Ibadan,Nigerian,Suya,22.21,22.05,1.9,92,5,10:00 AM,9:00 PM,No,No,No,80,Aisha Eze,2.35E+12,tolu.nwosu@hotmail.com,www.rZAIjVr.com
+265,Restaurant 265,Benin City,Intercontinental,Steak,29.56,6.19,3.7,32,22,10:00 AM,9:00 PM,Yes,Yes,Yes,36,Fatima Adeniyi,2.35E+12,emeka.abubakar@hotmail.com,www.AmVmUQa.com
+266,Restaurant 266,Enugu,Intercontinental,Pizza,40.04,5.23,3.3,378,18,8:00 AM,10:00 PM,Yes,Yes,Yes,78,Emeka Balogun,2.35E+12,chinedu.abubakar@outlook.com,www.InCqNAh.com
+267,Restaurant 267,Lagos,Intercontinental,Chicken Wings,46.88,22.16,2.6,464,36,9:00 AM,11:00 PM,Yes,Yes,Yes,57,Adebayo Ibrahim,2.35E+12,ngozi.nwosu@yahoo.com,www.ibKbedM.com
+268,Restaurant 268,Abeokuta,Nigerian,Caesar Salad,24.9,9.82,2.6,710,10,10:00 AM,8:00 PM,No,Yes,Yes,24,Adebayo Onyeka,2.35E+12,uche.onyeka@gmail.com,www.tTsYiUo.com
+269,Restaurant 269,Jos,Nigerian,Moi Moi,19.29,13.67,4.9,870,43,10:00 AM,9:00 PM,Yes,Yes,Yes,85,Aisha Okafor,2.35E+12,musa.ahmed@gmail.com,www.nEocEDT.com
+270,Restaurant 270,Enugu,Intercontinental,Akara,41.98,29.96,1.1,422,35,6:00 AM,8:00 PM,No,Yes,No,52,Ngozi Ojo,2.35E+12,fatima.ojo@outlook.com,www.WZSadYr.com
+271,Restaurant 271,Enugu,Intercontinental,Sushi,14.54,21.98,2.7,341,44,10:00 AM,8:00 PM,Yes,Yes,No,34,Chinedu Nwosu,2.35E+12,aisha.eze@outlook.com,www.dhOngDl.com
+272,Restaurant 272,Port Harcourt,Nigerian,Grilled Fish,27.59,5.35,1.5,731,44,7:00 AM,9:00 PM,No,No,Yes,54,Obinna Abubakar,2.35E+12,chinedu.ahmed@outlook.com,www.OptGSNJ.com
+273,Restaurant 273,Abeokuta,Intercontinental,Sushi,12.32,13.2,4.2,872,40,7:00 AM,8:00 PM,Yes,No,No,74,Emeka Onyeka,2.35E+12,fatima.adeniyi@hotmail.com,www.cCysmJc.com
+274,Restaurant 274,Abuja,Intercontinental,Caesar Salad,49.15,11.04,4,716,16,9:00 AM,9:00 PM,No,No,Yes,58,Uche Ojo,2.35E+12,fatima.ibrahim@hotmail.com,www.DiDdtHG.com
+275,Restaurant 275,Enugu,Intercontinental,Caesar Salad,30.77,11.75,2.3,213,28,8:00 AM,9:00 PM,No,No,Yes,87,Ngozi Ibrahim,2.35E+12,obinna.balogun@hotmail.com,www.gwuTLkH.com
+276,Restaurant 276,Ibadan,Nigerian,Moi Moi,16.08,5.81,4.3,540,24,8:00 AM,8:00 PM,No,Yes,Yes,23,Aisha Balogun,2.35E+12,adebayo.balogun@gmail.com,www.pZzlpmT.com
+277,Restaurant 277,Kano,Intercontinental,Ofada Rice,44.27,19.41,1.9,944,46,6:00 AM,10:00 PM,No,Yes,No,50,Aisha Balogun,2.35E+12,aisha.ibrahim@gmail.com,www.jStqNCr.com
+278,Restaurant 278,Ibadan,Intercontinental,Spaghetti Bolognese,25.08,27.49,2.1,755,31,10:00 AM,10:00 PM,Yes,Yes,No,58,Musa Onyeka,2.35E+12,tolu.balogun@yahoo.com,www.wOPJYyl.com
+279,Restaurant 279,Ibadan,Intercontinental,Efo Riro,6.66,8.77,3.9,255,43,9:00 AM,10:00 PM,No,Yes,No,68,Chinedu Ojo,2.35E+12,chinedu.ojo@outlook.com,www.DIOpspS.com
+280,Restaurant 280,Lagos,Nigerian,Suya,9.9,4.25,4.3,754,39,9:00 AM,11:00 PM,Yes,Yes,Yes,73,Obinna Adeniyi,2.35E+12,aisha.abubakar@yahoo.com,www.TIsRAIF.com
+281,Restaurant 281,Enugu,Nigerian,Jollof Rice,38.97,17.31,3.9,59,11,10:00 AM,8:00 PM,No,No,Yes,88,Aisha Ojo,2.35E+12,emeka.balogun@hotmail.com,www.CoOprmu.com
+282,Restaurant 282,Kano,Intercontinental,Ofada Rice,21.5,24.98,3.7,649,9,8:00 AM,10:00 PM,Yes,No,Yes,50,Aisha Nwosu,2.35E+12,aisha.abubakar@gmail.com,www.KSTNgpE.com
+283,Restaurant 283,Kaduna,Intercontinental,Efo Riro,31.98,13.72,4.3,549,31,9:00 AM,10:00 PM,Yes,Yes,No,64,Emeka Balogun,2.35E+12,uche.eze@yahoo.com,www.BNNNlqz.com
+284,Restaurant 284,Ibadan,Intercontinental,Suya,17.78,15.59,1.8,779,24,8:00 AM,9:00 PM,No,No,No,82,Fatima Ojo,2.35E+12,chinedu.okafor@yahoo.com,www.NbwcAXv.com
+285,Restaurant 285,Abeokuta,Nigerian,Pizza,20.84,11.79,2.4,742,16,6:00 AM,10:00 PM,No,No,Yes,45,Emeka Onyeka,2.35E+12,adebayo.okafor@yahoo.com,www.OWvTLNc.com
+286,Restaurant 286,Enugu,Nigerian,Pounded Yam,39.76,16.9,4.7,130,32,7:00 AM,8:00 PM,Yes,Yes,No,36,Emeka Ojo,2.35E+12,emeka.ibrahim@hotmail.com,www.gPEzEsD.com
+287,Restaurant 287,Kano,Nigerian,Jollof Rice,44.91,20.6,3.1,307,27,7:00 AM,8:00 PM,Yes,Yes,No,43,Adebayo Ojo,2.35E+12,musa.ibrahim@outlook.com,www.vetbpUO.com
+288,Restaurant 288,Jos,Intercontinental,Pasta Carbonara,44.83,29.24,1.3,608,17,10:00 AM,10:00 PM,No,Yes,Yes,83,Emeka Eze,2.35E+12,chinedu.ahmed@hotmail.com,www.leyLjBy.com
+289,Restaurant 289,Ibadan,Intercontinental,Ofada Rice,39.55,28.51,2.9,851,30,10:00 AM,11:00 PM,Yes,Yes,Yes,31,Musa Eze,2.35E+12,fatima.ibrahim@hotmail.com,www.SseZOQS.com
+290,Restaurant 290,Kaduna,Intercontinental,Chicken Wings,25.47,15.68,4.6,56,5,9:00 AM,11:00 PM,No,No,Yes,82,Obinna Ojo,2.35E+12,uche.balogun@hotmail.com,www.WQHyNqd.com
+291,Restaurant 291,Port Harcourt,Nigerian,Pounded Yam,28.31,28.64,1.8,997,24,9:00 AM,10:00 PM,Yes,No,No,74,Aisha Abubakar,2.35E+12,musa.adeniyi@outlook.com,www.GgmGCzh.com
+292,Restaurant 292,Enugu,Nigerian,Sushi,46.48,10,3.6,737,9,7:00 AM,10:00 PM,Yes,No,No,96,Aisha Ojo,2.35E+12,fatima.abubakar@gmail.com,www.lCBShJl.com
+293,Restaurant 293,Benin City,Intercontinental,Suya,37.4,24.31,3,921,35,8:00 AM,11:00 PM,No,Yes,No,84,Chinedu Ibrahim,2.35E+12,musa.onyeka@gmail.com,www.nyTHepe.com
+294,Restaurant 294,Abuja,Intercontinental,Ofada Rice,48.85,16.81,1.2,493,49,8:00 AM,8:00 PM,Yes,No,No,100,Emeka Balogun,2.35E+12,ngozi.onyeka@yahoo.com,www.pNsrdsM.com
+295,Restaurant 295,Kano,Nigerian,Pepper Soup,23.89,4.14,4.7,897,16,9:00 AM,9:00 PM,No,No,No,93,Musa Balogun,2.35E+12,ngozi.ahmed@yahoo.com,www.spijJRR.com
+296,Restaurant 296,Kaduna,Intercontinental,Efo Riro,20.4,15.09,1.4,170,31,10:00 AM,9:00 PM,Yes,Yes,No,80,Ngozi Ojo,2.35E+12,fatima.balogun@yahoo.com,www.mQUEHDI.com
+297,Restaurant 297,Lagos,Nigerian,Fried Chicken,14.03,20.89,4.6,638,8,7:00 AM,9:00 PM,Yes,Yes,No,77,Uche Okafor,2.35E+12,uche.nwosu@hotmail.com,www.kYBEHBA.com
+298,Restaurant 298,Ibadan,Nigerian,Pizza,38.91,27.73,1.6,368,16,6:00 AM,10:00 PM,Yes,Yes,No,58,Fatima Onyeka,2.35E+12,fatima.ojo@hotmail.com,www.BQtELWy.com
+299,Restaurant 299,Abeokuta,Intercontinental,Pounded Yam,12.54,6.34,1.3,299,6,8:00 AM,8:00 PM,Yes,No,Yes,22,Musa Eze,2.35E+12,fatima.onyeka@yahoo.com,www.JbWnwIQ.com
+300,Restaurant 300,Benin City,Intercontinental,Efo Riro,43.44,22.53,1.3,877,46,10:00 AM,9:00 PM,No,Yes,Yes,71,Chinedu Onyeka,2.35E+12,ngozi.okafor@yahoo.com,www.gkLPCJH.com
+301,Restaurant 301,Lagos,Intercontinental,Caesar Salad,21.75,16.1,4.3,446,50,9:00 AM,8:00 PM,Yes,Yes,Yes,86,Aisha Ibrahim,2.35E+12,aisha.eze@yahoo.com,www.gEpyKVp.com
+302,Restaurant 302,Enugu,Intercontinental,Fried Chicken,49.13,18.44,1.9,339,14,6:00 AM,9:00 PM,Yes,No,Yes,68,Fatima Abubakar,2.35E+12,emeka.nwosu@yahoo.com,www.jpJDmfW.com
+303,Restaurant 303,Kaduna,Nigerian,Fried Chicken,11.55,18.8,4.8,831,19,6:00 AM,9:00 PM,No,No,Yes,40,Obinna Abubakar,2.35E+12,chinedu.nwosu@hotmail.com,www.QZNIChO.com
+304,Restaurant 304,Kaduna,Nigerian,Egusi Soup,25.97,19.74,5,209,48,9:00 AM,9:00 PM,No,No,No,42,Tolu Okafor,2.35E+12,emeka.okafor@hotmail.com,www.ZOnzfQR.com
+305,Restaurant 305,Abeokuta,Nigerian,Fried Chicken,10.83,11.72,3.1,475,34,8:00 AM,9:00 PM,No,Yes,Yes,38,Uche Abubakar,2.35E+12,uche.okafor@hotmail.com,www.IgoBbgL.com
+306,Restaurant 306,Jos,Intercontinental,Steak,35.89,8.56,2.9,868,21,8:00 AM,9:00 PM,No,No,Yes,76,Musa Balogun,2.35E+12,emeka.ojo@yahoo.com,www.CKlDEJU.com
+307,Restaurant 307,Jos,Nigerian,Pounded Yam,27.34,27.02,2.1,240,8,7:00 AM,10:00 PM,No,Yes,No,69,Obinna Ojo,2.35E+12,emeka.ibrahim@outlook.com,www.CneyLtU.com
+308,Restaurant 308,Jos,Nigerian,Chicken Wings,15.7,25.02,4.1,293,13,10:00 AM,9:00 PM,Yes,No,Yes,89,Obinna Balogun,2.35E+12,ngozi.balogun@yahoo.com,www.jABLIcF.com
+309,Restaurant 309,Port Harcourt,Intercontinental,Pasta Carbonara,16,24.48,3.6,567,23,10:00 AM,8:00 PM,Yes,No,Yes,66,Chinedu Balogun,2.35E+12,tolu.ahmed@gmail.com,www.FaklDNW.com
+310,Restaurant 310,Abuja,Intercontinental,Fried Chicken,38.44,11.59,3.4,807,21,9:00 AM,11:00 PM,Yes,Yes,No,97,Ngozi Nwosu,2.35E+12,aisha.eze@hotmail.com,www.BUzoisf.com
+311,Restaurant 311,Enugu,Intercontinental,Spaghetti Bolognese,36.61,11.22,4,162,32,6:00 AM,9:00 PM,No,No,Yes,55,Tolu Abubakar,2.35E+12,chinedu.ahmed@hotmail.com,www.xiIHsQD.com
+312,Restaurant 312,Kano,Intercontinental,Moi Moi,30.26,3.08,4.7,659,49,8:00 AM,11:00 PM,Yes,Yes,No,61,Chinedu Abubakar,2.35E+12,obinna.balogun@hotmail.com,www.bWQKJbC.com
+313,Restaurant 313,Jos,Nigerian,Burger,33.83,21.43,4.3,727,14,9:00 AM,10:00 PM,No,Yes,No,66,Ngozi Ahmed,2.35E+12,chinedu.eze@outlook.com,www.dhGIzvW.com
+314,Restaurant 314,Lagos,Nigerian,Caesar Salad,25.96,17.83,3.8,724,14,6:00 AM,11:00 PM,Yes,No,Yes,65,Tolu Ibrahim,2.35E+12,aisha.nwosu@gmail.com,www.zIEGojg.com
+315,Restaurant 315,Jos,Intercontinental,Spaghetti Bolognese,22.19,18.03,2.9,556,40,8:00 AM,9:00 PM,No,Yes,Yes,43,Ngozi Onyeka,2.35E+12,uche.onyeka@hotmail.com,www.BDMvVEQ.com
+316,Restaurant 316,Abuja,Intercontinental,Pasta Carbonara,45.45,13.01,4.7,586,30,6:00 AM,9:00 PM,Yes,No,No,26,Emeka Ahmed,2.35E+12,ngozi.onyeka@yahoo.com,www.HMZCyEn.com
+317,Restaurant 317,Lagos,Nigerian,Fried Chicken,28.65,21.79,3.4,569,12,6:00 AM,11:00 PM,Yes,No,Yes,74,Ngozi Eze,2.35E+12,uche.onyeka@outlook.com,www.hTNZyUV.com
+318,Restaurant 318,Kano,Nigerian,Sushi,16.31,27.42,4.7,441,28,8:00 AM,11:00 PM,No,Yes,No,44,Musa Nwosu,2.35E+12,obinna.eze@gmail.com,www.hCUTmzq.com
+319,Restaurant 319,Port Harcourt,Nigerian,Ofada Rice,17.76,18.8,3.7,341,7,6:00 AM,11:00 PM,Yes,No,No,54,Adebayo Onyeka,2.35E+12,adebayo.adeniyi@gmail.com,www.YXygnjg.com
+320,Restaurant 320,Jos,Intercontinental,Steak,8.14,28.64,2.9,236,38,10:00 AM,10:00 PM,No,Yes,Yes,78,Aisha Adeniyi,2.35E+12,musa.okafor@yahoo.com,www.tVtfJvc.com
+321,Restaurant 321,Enugu,Intercontinental,Pounded Yam,27.92,26.84,1.9,223,15,6:00 AM,9:00 PM,Yes,No,No,34,Adebayo Balogun,2.35E+12,uche.onyeka@hotmail.com,www.NwyNyYM.com
+322,Restaurant 322,Kano,Intercontinental,Egusi Soup,36.14,23.17,1.6,283,30,10:00 AM,10:00 PM,No,No,No,28,Adebayo Adeniyi,2.35E+12,emeka.abubakar@yahoo.com,www.uMPTTRw.com
+323,Restaurant 323,Kaduna,Nigerian,Burger,18.39,13.49,2.5,778,37,8:00 AM,8:00 PM,No,No,No,97,Ngozi Nwosu,2.35E+12,fatima.ibrahim@hotmail.com,www.OuPxZSe.com
+324,Restaurant 324,Port Harcourt,Nigerian,Caesar Salad,35.06,11.72,4.5,555,28,8:00 AM,9:00 PM,Yes,Yes,No,98,Adebayo Okafor,2.35E+12,obinna.adeniyi@yahoo.com,www.GAdndFc.com
+325,Restaurant 325,Kaduna,Nigerian,Pounded Yam,8.59,7.56,1.5,506,22,10:00 AM,8:00 PM,Yes,Yes,No,78,Fatima Eze,2.35E+12,musa.eze@gmail.com,www.nyEfZyI.com
+326,Restaurant 326,Ibadan,Intercontinental,Caesar Salad,8.83,5.97,2.6,78,46,9:00 AM,10:00 PM,Yes,Yes,No,46,Ngozi Nwosu,2.35E+12,fatima.eze@gmail.com,www.UiHPJNk.com
+327,Restaurant 327,Kaduna,Nigerian,Egusi Soup,42.38,21.91,1.2,984,49,7:00 AM,11:00 PM,No,No,No,32,Aisha Ibrahim,2.35E+12,emeka.adeniyi@outlook.com,www.MCOmKyh.com
+328,Restaurant 328,Jos,Intercontinental,Ofada Rice,34.28,10.49,2.7,934,5,8:00 AM,8:00 PM,Yes,No,Yes,70,Ngozi Ojo,2.35E+12,obinna.balogun@yahoo.com,www.pCTJVej.com
+329,Restaurant 329,Enugu,Intercontinental,Grilled Fish,18.24,18.82,3,181,12,9:00 AM,9:00 PM,No,No,No,47,Fatima Ojo,2.35E+12,uche.eze@yahoo.com,www.wJzLJcI.com
+330,Restaurant 330,Benin City,Nigerian,Steak,21.86,15.17,4.5,593,38,8:00 AM,8:00 PM,No,No,No,41,Obinna Onyeka,2.35E+12,adebayo.nwosu@yahoo.com,www.uxwYiJy.com
+331,Restaurant 331,Kaduna,Intercontinental,Jollof Rice,41.4,18.23,2.6,287,18,8:00 AM,8:00 PM,Yes,Yes,Yes,55,Ngozi Ojo,2.35E+12,obinna.balogun@hotmail.com,www.HMivxqp.com
+332,Restaurant 332,Ibadan,Intercontinental,Spaghetti Bolognese,43.93,11.44,3.6,823,22,9:00 AM,8:00 PM,No,No,No,60,Musa Ibrahim,2.35E+12,uche.ojo@gmail.com,www.xQcCkLG.com
+333,Restaurant 333,Benin City,Intercontinental,Spaghetti Bolognese,20,29.7,4.5,154,19,7:00 AM,8:00 PM,No,No,No,68,Emeka Eze,2.35E+12,chinedu.ibrahim@yahoo.com,www.NCtOsSR.com
+334,Restaurant 334,Lagos,Intercontinental,Fried Rice,46.83,8.75,4.8,452,11,8:00 AM,10:00 PM,Yes,Yes,Yes,100,Fatima Nwosu,2.35E+12,emeka.adeniyi@gmail.com,www.HRiAbdK.com
+335,Restaurant 335,Benin City,Intercontinental,Pounded Yam,5.42,23.29,2.8,125,44,6:00 AM,10:00 PM,No,No,No,89,Chinedu Ahmed,2.35E+12,emeka.adeniyi@outlook.com,www.NuCBsHj.com
+336,Restaurant 336,Jos,Nigerian,Egusi Soup,7.4,8.44,1.4,617,34,10:00 AM,11:00 PM,Yes,Yes,No,24,Emeka Balogun,2.35E+12,aisha.onyeka@hotmail.com,www.IhZPIIX.com
+337,Restaurant 337,Lagos,Nigerian,Pasta Carbonara,39.38,21.75,3.6,131,22,10:00 AM,11:00 PM,Yes,No,Yes,78,Obinna Nwosu,2.35E+12,fatima.nwosu@yahoo.com,www.IAqathp.com
+338,Restaurant 338,Lagos,Intercontinental,Moi Moi,28.92,20.37,2.4,964,12,8:00 AM,11:00 PM,Yes,No,No,42,Uche Ibrahim,2.35E+12,obinna.nwosu@gmail.com,www.fepMIgG.com
+339,Restaurant 339,Port Harcourt,Intercontinental,Ofada Rice,9.01,25.92,3.8,71,19,6:00 AM,10:00 PM,Yes,No,No,29,Ngozi Nwosu,2.35E+12,chinedu.nwosu@yahoo.com,www.OhpecLX.com
+340,Restaurant 340,Jos,Nigerian,Fried Chicken,48.19,22.88,1.5,228,23,9:00 AM,8:00 PM,Yes,Yes,Yes,63,Uche Adeniyi,2.35E+12,tolu.balogun@hotmail.com,www.eyhgUWE.com
+341,Restaurant 341,Kaduna,Intercontinental,Pounded Yam,44.39,10.11,2.7,506,50,9:00 AM,8:00 PM,No,Yes,Yes,28,Aisha Abubakar,2.35E+12,fatima.abubakar@yahoo.com,www.XAzRrJB.com
+342,Restaurant 342,Jos,Nigerian,Chicken Wings,39.45,13.24,4.8,81,38,10:00 AM,8:00 PM,No,Yes,No,96,Uche Onyeka,2.35E+12,chinedu.adeniyi@hotmail.com,www.cLXSzgZ.com
+343,Restaurant 343,Jos,Intercontinental,Pepper Soup,13.66,26.26,4.7,30,6,6:00 AM,11:00 PM,Yes,No,No,100,Tolu Ibrahim,2.35E+12,emeka.ahmed@hotmail.com,www.RZNIIMG.com
+344,Restaurant 344,Jos,Nigerian,Ofada Rice,25.99,21.11,5,773,33,9:00 AM,10:00 PM,Yes,Yes,No,49,Ngozi Onyeka,2.35E+12,obinna.balogun@outlook.com,www.QpZOZNa.com
+345,Restaurant 345,Abuja,Intercontinental,Pizza,23.72,25.46,4.4,665,7,8:00 AM,9:00 PM,Yes,Yes,No,64,Fatima Adeniyi,2.35E+12,obinna.ojo@yahoo.com,www.ZHRBGlF.com
+346,Restaurant 346,Lagos,Intercontinental,Chicken Wings,44.9,6.91,2.7,726,10,10:00 AM,8:00 PM,No,No,No,21,Ngozi Adeniyi,2.35E+12,aisha.balogun@hotmail.com,www.LAaLoFA.com
+347,Restaurant 347,Port Harcourt,Intercontinental,Moi Moi,37.73,21.81,4.1,599,27,10:00 AM,9:00 PM,Yes,Yes,Yes,72,Obinna Onyeka,2.35E+12,aisha.nwosu@outlook.com,www.RrueeJX.com
+348,Restaurant 348,Abeokuta,Nigerian,Jollof Rice,17.96,14.95,2.8,584,28,8:00 AM,9:00 PM,Yes,Yes,Yes,80,Aisha Abubakar,2.35E+12,musa.abubakar@yahoo.com,www.GsXBxCl.com
+349,Restaurant 349,Enugu,Intercontinental,Caesar Salad,18.21,24.6,1.3,169,41,10:00 AM,8:00 PM,Yes,No,Yes,58,Emeka Adeniyi,2.35E+12,emeka.nwosu@gmail.com,www.jpbUFYk.com
+350,Restaurant 350,Kano,Nigerian,Chicken Wings,21.37,10.45,4,291,17,9:00 AM,9:00 PM,Yes,Yes,Yes,25,Obinna Okafor,2.35E+12,adebayo.ibrahim@hotmail.com,www.xeLTCpo.com
+351,Restaurant 351,Abuja,Nigerian,Caesar Salad,28.3,8.87,1.3,555,43,7:00 AM,8:00 PM,No,Yes,Yes,55,Chinedu Balogun,2.35E+12,uche.ojo@yahoo.com,www.zvHhquo.com
+352,Restaurant 352,Benin City,Intercontinental,Pounded Yam,11.36,7.24,1.9,340,16,6:00 AM,11:00 PM,Yes,Yes,Yes,68,Adebayo Balogun,2.35E+12,tolu.ojo@yahoo.com,www.FcxNKlh.com
+353,Restaurant 353,Enugu,Nigerian,Jollof Rice,18.59,29.39,2.5,469,6,9:00 AM,9:00 PM,Yes,No,No,25,Obinna Ibrahim,2.35E+12,obinna.nwosu@gmail.com,www.Wsaamec.com
+354,Restaurant 354,Jos,Nigerian,Steak,30.96,11.8,3.4,351,49,9:00 AM,9:00 PM,Yes,Yes,No,62,Adebayo Okafor,2.35E+12,obinna.adeniyi@hotmail.com,www.fwNpJfV.com
+355,Restaurant 355,Benin City,Intercontinental,Caesar Salad,42.7,24.39,2.4,59,34,10:00 AM,10:00 PM,No,Yes,No,39,Tolu Okafor,2.35E+12,emeka.eze@yahoo.com,www.lYUqqDi.com
+356,Restaurant 356,Kano,Intercontinental,Efo Riro,37.81,23.75,4.3,264,5,7:00 AM,8:00 PM,No,No,No,89,Obinna Okafor,2.35E+12,adebayo.ahmed@gmail.com,www.MLXgYXx.com
+357,Restaurant 357,Jos,Nigerian,Grilled Fish,47.15,27.95,1.2,203,23,6:00 AM,10:00 PM,No,Yes,Yes,54,Fatima Ahmed,2.35E+12,chinedu.adeniyi@gmail.com,www.fLXQnGY.com
+358,Restaurant 358,Lagos,Intercontinental,Pizza,42.42,18.43,2.3,438,27,10:00 AM,8:00 PM,No,Yes,Yes,68,Obinna Onyeka,2.35E+12,chinedu.nwosu@hotmail.com,www.nsbTcYs.com
+359,Restaurant 359,Abeokuta,Intercontinental,Pizza,34.08,4.32,3.3,547,45,10:00 AM,9:00 PM,No,Yes,Yes,96,Chinedu Okafor,2.35E+12,fatima.ahmed@hotmail.com,www.tMkqxYR.com
+360,Restaurant 360,Lagos,Nigerian,Akara,49.5,4.89,4.5,718,20,7:00 AM,10:00 PM,Yes,No,Yes,88,Chinedu Nwosu,2.35E+12,adebayo.nwosu@outlook.com,www.wehKxrz.com
+361,Restaurant 361,Jos,Intercontinental,Jollof Rice,35.58,25.99,4.7,370,20,7:00 AM,9:00 PM,No,Yes,Yes,99,Obinna Okafor,2.35E+12,chinedu.ahmed@gmail.com,www.kcYKVUr.com
+362,Restaurant 362,Benin City,Nigerian,Akara,9.64,7.75,3,777,21,6:00 AM,10:00 PM,Yes,No,Yes,62,Fatima Abubakar,2.35E+12,aisha.nwosu@outlook.com,www.RMGIhcS.com
+363,Restaurant 363,Abeokuta,Nigerian,Moi Moi,25.81,14.98,2.8,404,22,9:00 AM,10:00 PM,No,Yes,Yes,68,Emeka Nwosu,2.35E+12,aisha.okafor@outlook.com,www.cXyedfF.com
+364,Restaurant 364,Ibadan,Intercontinental,Egusi Soup,26.26,3.54,2.1,274,7,9:00 AM,11:00 PM,No,No,No,22,Aisha Balogun,2.35E+12,aisha.ojo@hotmail.com,www.RUXhxLI.com
+365,Restaurant 365,Lagos,Intercontinental,Jollof Rice,26.56,20.4,1.1,688,34,7:00 AM,8:00 PM,No,Yes,No,57,Fatima Eze,2.35E+12,adebayo.onyeka@outlook.com,www.pyUwWen.com
+366,Restaurant 366,Port Harcourt,Intercontinental,Efo Riro,37.27,4.78,3.1,150,28,6:00 AM,8:00 PM,No,Yes,No,96,Ngozi Nwosu,2.35E+12,obinna.eze@yahoo.com,www.QYKhqwN.com
+367,Restaurant 367,Abuja,Intercontinental,Jollof Rice,45.74,12.37,2.8,451,26,9:00 AM,11:00 PM,No,No,No,86,Adebayo Onyeka,2.35E+12,tolu.eze@outlook.com,www.lJWbehm.com
+368,Restaurant 368,Benin City,Nigerian,Fried Rice,32.36,13.22,2.1,882,47,8:00 AM,9:00 PM,No,Yes,No,41,Adebayo Onyeka,2.35E+12,musa.ahmed@yahoo.com,www.emvEGyq.com
+369,Restaurant 369,Lagos,Intercontinental,Fried Chicken,21.66,14.15,1.2,420,38,7:00 AM,8:00 PM,No,No,No,90,Obinna Okafor,2.35E+12,uche.abubakar@yahoo.com,www.HldHmbK.com
+370,Restaurant 370,Kaduna,Intercontinental,Grilled Fish,39.31,15,4,594,24,10:00 AM,11:00 PM,No,Yes,No,25,Uche Ojo,2.35E+12,emeka.ahmed@outlook.com,www.WOXvUHa.com
+371,Restaurant 371,Port Harcourt,Intercontinental,Suya,22.04,25.39,2.8,654,37,9:00 AM,11:00 PM,Yes,No,Yes,34,Obinna Onyeka,2.35E+12,obinna.balogun@gmail.com,www.RNGjDPm.com
+372,Restaurant 372,Kaduna,Nigerian,Fried Chicken,37.96,10.72,2,22,16,6:00 AM,9:00 PM,Yes,Yes,Yes,80,Emeka Ojo,2.35E+12,ngozi.balogun@gmail.com,www.CPtYqQq.com
+373,Restaurant 373,Benin City,Intercontinental,Fried Chicken,40.24,15.93,2.2,363,12,6:00 AM,11:00 PM,No,No,No,48,Emeka Ahmed,2.35E+12,aisha.okafor@hotmail.com,www.aOGXqfK.com
+374,Restaurant 374,Benin City,Intercontinental,Pepper Soup,28.49,13.96,4.2,642,26,9:00 AM,11:00 PM,Yes,Yes,Yes,76,Fatima Ojo,2.35E+12,adebayo.nwosu@hotmail.com,www.GyDodGx.com
+375,Restaurant 375,Kano,Nigerian,Fried Chicken,31.77,15.23,3.9,601,36,8:00 AM,10:00 PM,Yes,No,No,51,Ngozi Okafor,2.35E+12,aisha.ahmed@gmail.com,www.MsCzjSf.com
+376,Restaurant 376,Kano,Intercontinental,Fried Chicken,41.01,19.78,4.2,490,18,7:00 AM,11:00 PM,No,Yes,No,41,Emeka Ibrahim,2.35E+12,uche.ibrahim@yahoo.com,www.pnTBuzE.com
+377,Restaurant 377,Lagos,Intercontinental,Moi Moi,49.71,12.43,2.7,610,21,6:00 AM,8:00 PM,Yes,Yes,Yes,52,Obinna Eze,2.35E+12,musa.balogun@gmail.com,www.KGNaygf.com
+378,Restaurant 378,Port Harcourt,Nigerian,Ofada Rice,15.36,4.59,2.9,645,8,6:00 AM,9:00 PM,Yes,No,No,90,Aisha Onyeka,2.35E+12,tolu.balogun@yahoo.com,www.vBKJFYn.com
+379,Restaurant 379,Ibadan,Nigerian,Suya,14.54,20.14,2.6,104,16,6:00 AM,11:00 PM,No,No,Yes,28,Uche Ojo,2.35E+12,tolu.onyeka@hotmail.com,www.ueWhWQm.com
+380,Restaurant 380,Kaduna,Nigerian,Fried Rice,22.53,11.72,1.9,973,48,8:00 AM,8:00 PM,Yes,Yes,No,75,Aisha Balogun,2.35E+12,chinedu.okafor@yahoo.com,www.mNhGuKE.com
+381,Restaurant 381,Jos,Intercontinental,Akara,5.9,7.22,1.6,623,34,9:00 AM,9:00 PM,No,No,Yes,60,Aisha Balogun,2.35E+12,obinna.adeniyi@yahoo.com,www.tugBJxh.com
+382,Restaurant 382,Port Harcourt,Nigerian,Jollof Rice,40.84,9.24,2.5,219,20,7:00 AM,8:00 PM,No,Yes,Yes,39,Uche Okafor,2.35E+12,chinedu.ahmed@yahoo.com,www.tcsRWTx.com
+383,Restaurant 383,Abuja,Intercontinental,Pounded Yam,21.15,28.18,4.4,632,31,8:00 AM,8:00 PM,Yes,No,No,46,Chinedu Eze,2.35E+12,ngozi.ibrahim@gmail.com,www.IKxSAxM.com
+384,Restaurant 384,Kano,Nigerian,Akara,30.99,14.68,2.4,482,25,7:00 AM,11:00 PM,No,No,No,79,Obinna Onyeka,2.35E+12,tolu.ojo@outlook.com,www.CETmTep.com
+385,Restaurant 385,Abeokuta,Nigerian,Pizza,24.09,20.48,4,383,30,7:00 AM,10:00 PM,Yes,Yes,No,67,Fatima Abubakar,2.35E+12,aisha.balogun@outlook.com,www.rubcZbK.com
+386,Restaurant 386,Benin City,Intercontinental,Egusi Soup,32.76,11.32,3.1,616,22,9:00 AM,9:00 PM,Yes,No,No,41,Fatima Ojo,2.35E+12,fatima.onyeka@gmail.com,www.VGhtjzr.com
+387,Restaurant 387,Ibadan,Nigerian,Efo Riro,40.54,12.64,2.7,759,24,10:00 AM,11:00 PM,Yes,Yes,No,57,Tolu Nwosu,2.35E+12,aisha.eze@outlook.com,www.QMtKsig.com
+388,Restaurant 388,Ibadan,Nigerian,Pepper Soup,41.21,23.61,4.3,339,49,8:00 AM,11:00 PM,No,No,Yes,66,Musa Nwosu,2.35E+12,musa.onyeka@outlook.com,www.lsOCpiB.com
+389,Restaurant 389,Enugu,Nigerian,Steak,36.01,18.48,4.9,264,34,7:00 AM,10:00 PM,No,Yes,No,76,Ngozi Okafor,2.35E+12,chinedu.eze@yahoo.com,www.tbDkVny.com
+390,Restaurant 390,Benin City,Nigerian,Burger,41,17.84,2.6,615,25,7:00 AM,11:00 PM,No,No,No,45,Uche Onyeka,2.35E+12,tolu.balogun@outlook.com,www.YFdtpRX.com
+391,Restaurant 391,Port Harcourt,Nigerian,Spaghetti Bolognese,7.21,14.18,4.3,894,13,9:00 AM,10:00 PM,No,Yes,No,26,Emeka Abubakar,2.35E+12,ngozi.nwosu@hotmail.com,www.swQhQoP.com
+392,Restaurant 392,Abuja,Nigerian,Fried Rice,7.66,15.09,3.9,759,39,10:00 AM,8:00 PM,No,Yes,Yes,53,Obinna Balogun,2.35E+12,ngozi.ibrahim@gmail.com,www.KRVZYKY.com
+393,Restaurant 393,Abuja,Nigerian,Pasta Carbonara,16.14,11.21,2.3,958,50,10:00 AM,8:00 PM,Yes,No,No,56,Emeka Onyeka,2.35E+12,uche.onyeka@outlook.com,www.CIZJMEJ.com
+394,Restaurant 394,Benin City,Intercontinental,Ofada Rice,6.04,15.16,2.6,672,9,6:00 AM,9:00 PM,No,Yes,Yes,34,Emeka Ahmed,2.35E+12,adebayo.okafor@outlook.com,www.RpybopE.com
+395,Restaurant 395,Enugu,Nigerian,Fried Rice,19.11,20.45,3.3,917,13,9:00 AM,11:00 PM,No,Yes,No,58,Obinna Ibrahim,2.35E+12,ngozi.abubakar@hotmail.com,www.yuxJZkK.com
+396,Restaurant 396,Kaduna,Nigerian,Pepper Soup,36.16,8.62,2.1,873,48,7:00 AM,11:00 PM,Yes,Yes,Yes,31,Chinedu Ojo,2.35E+12,uche.eze@yahoo.com,www.JyHiwoF.com
+397,Restaurant 397,Abuja,Nigerian,Moi Moi,11.31,12.6,1.6,218,12,10:00 AM,8:00 PM,No,No,Yes,95,Tolu Adeniyi,2.35E+12,musa.adeniyi@yahoo.com,www.wXFgqDb.com
+398,Restaurant 398,Kaduna,Nigerian,Sushi,31.44,27.78,4.6,636,8,6:00 AM,9:00 PM,No,No,Yes,54,Ngozi Ibrahim,2.35E+12,tolu.abubakar@hotmail.com,www.YLbHHLC.com
+399,Restaurant 399,Jos,Nigerian,Efo Riro,13.59,12.79,3.3,976,22,6:00 AM,8:00 PM,No,No,Yes,36,Chinedu Balogun,2.35E+12,uche.ibrahim@hotmail.com,www.CiyKNal.com
+400,Restaurant 400,Kano,Intercontinental,Moi Moi,36.45,26.56,3.7,618,16,7:00 AM,10:00 PM,Yes,No,Yes,45,Fatima Okafor,2.35E+12,chinedu.ahmed@gmail.com,www.jHFTEih.com
+401,Restaurant 401,Abeokuta,Intercontinental,Egusi Soup,15.2,15.85,3.2,598,43,6:00 AM,9:00 PM,Yes,No,Yes,70,Chinedu Abubakar,2.35E+12,emeka.ahmed@gmail.com,www.GXwQDlR.com
+402,Restaurant 402,Lagos,Nigerian,Steak,37.06,23.68,4.1,886,11,7:00 AM,8:00 PM,Yes,Yes,Yes,26,Tolu Eze,2.35E+12,musa.abubakar@yahoo.com,www.ChKikLr.com
+403,Restaurant 403,Kano,Intercontinental,Grilled Fish,7.18,6.05,3,163,41,7:00 AM,9:00 PM,Yes,No,Yes,48,Aisha Abubakar,2.35E+12,musa.okafor@gmail.com,www.gXWcIGF.com
+404,Restaurant 404,Kano,Intercontinental,Fried Rice,47.76,19.07,3.8,629,31,7:00 AM,9:00 PM,No,No,Yes,89,Fatima Okafor,2.35E+12,uche.ojo@hotmail.com,www.lvwgiks.com
+405,Restaurant 405,Enugu,Intercontinental,Grilled Fish,47.99,6.52,4.5,166,17,8:00 AM,11:00 PM,No,Yes,Yes,23,Tolu Okafor,2.35E+12,ngozi.balogun@yahoo.com,www.SlcKVam.com
+406,Restaurant 406,Abuja,Intercontinental,Sushi,12.55,3.84,5,363,50,10:00 AM,10:00 PM,No,Yes,Yes,97,Obinna Adeniyi,2.35E+12,adebayo.balogun@hotmail.com,www.vHZTIiN.com
+407,Restaurant 407,Ibadan,Intercontinental,Jollof Rice,42.04,10.58,1.9,877,48,10:00 AM,8:00 PM,Yes,No,Yes,87,Chinedu Abubakar,2.35E+12,chinedu.onyeka@gmail.com,www.BAKNwQW.com
+408,Restaurant 408,Enugu,Nigerian,Egusi Soup,12.39,4.25,1.7,61,17,7:00 AM,9:00 PM,Yes,No,No,91,Fatima Okafor,2.35E+12,fatima.ahmed@gmail.com,www.CCDTgWP.com
+409,Restaurant 409,Lagos,Intercontinental,Pepper Soup,28.95,12.42,4.2,884,30,9:00 AM,8:00 PM,Yes,No,No,42,Fatima Abubakar,2.35E+12,adebayo.abubakar@hotmail.com,www.jqVZcJJ.com
+410,Restaurant 410,Enugu,Intercontinental,Pizza,34.26,25.05,3.5,989,29,6:00 AM,9:00 PM,Yes,Yes,Yes,54,Adebayo Onyeka,2.35E+12,aisha.ibrahim@outlook.com,www.NlSLHMa.com
+411,Restaurant 411,Ibadan,Intercontinental,Akara,42.02,8.17,4.6,184,14,8:00 AM,10:00 PM,Yes,No,Yes,26,Emeka Nwosu,2.35E+12,adebayo.nwosu@yahoo.com,www.JVmaelO.com
+412,Restaurant 412,Port Harcourt,Intercontinental,Egusi Soup,36.1,10.47,3.6,883,34,9:00 AM,8:00 PM,No,Yes,Yes,23,Chinedu Adeniyi,2.35E+12,obinna.nwosu@outlook.com,www.oSATaKO.com
+413,Restaurant 413,Abeokuta,Intercontinental,Fried Chicken,24.39,16.92,4.7,391,14,10:00 AM,9:00 PM,No,No,Yes,68,Obinna Ibrahim,2.35E+12,uche.balogun@gmail.com,www.usZBkUv.com
+414,Restaurant 414,Kano,Nigerian,Moi Moi,27.45,23.74,3.6,569,47,10:00 AM,10:00 PM,No,Yes,No,64,Obinna Eze,2.35E+12,emeka.okafor@gmail.com,www.GbrPvvv.com
+415,Restaurant 415,Benin City,Intercontinental,Caesar Salad,41.41,24.57,2.5,41,21,9:00 AM,11:00 PM,No,No,Yes,69,Tolu Balogun,2.35E+12,musa.ahmed@gmail.com,www.vMELfpk.com
+416,Restaurant 416,Ibadan,Nigerian,Akara,42.07,16.2,4.2,499,22,10:00 AM,10:00 PM,No,No,No,48,Emeka Adeniyi,2.35E+12,uche.balogun@gmail.com,www.oAxLrJC.com
+417,Restaurant 417,Jos,Nigerian,Ofada Rice,17.16,23.72,4.4,89,6,6:00 AM,11:00 PM,No,No,Yes,96,Tolu Ibrahim,2.35E+12,obinna.ojo@gmail.com,www.IpQumre.com
+418,Restaurant 418,Benin City,Intercontinental,Moi Moi,28.67,23.45,1.1,72,46,10:00 AM,9:00 PM,Yes,Yes,No,43,Chinedu Adeniyi,2.35E+12,chinedu.ojo@outlook.com,www.sadUEQg.com
+419,Restaurant 419,Port Harcourt,Nigerian,Suya,19.3,18.49,2.8,767,18,8:00 AM,10:00 PM,No,No,Yes,57,Musa Abubakar,2.35E+12,aisha.abubakar@gmail.com,www.fGKcaNi.com
+420,Restaurant 420,Port Harcourt,Nigerian,Jollof Rice,40.13,8.61,2.5,857,16,6:00 AM,11:00 PM,No,No,Yes,27,Fatima Okafor,2.35E+12,aisha.balogun@hotmail.com,www.SgPbnuT.com
+421,Restaurant 421,Kano,Nigerian,Ofada Rice,41.04,18.96,2.1,67,41,6:00 AM,10:00 PM,Yes,Yes,Yes,60,Musa Okafor,2.35E+12,fatima.ibrahim@outlook.com,www.WSfjqol.com
+422,Restaurant 422,Ibadan,Nigerian,Burger,24.38,3.97,3.9,201,20,6:00 AM,9:00 PM,No,No,Yes,48,Obinna Ojo,2.35E+12,fatima.ahmed@yahoo.com,www.UnPPIMw.com
+423,Restaurant 423,Jos,Intercontinental,Pounded Yam,16.79,17.96,2.2,316,6,8:00 AM,9:00 PM,Yes,Yes,Yes,88,Obinna Abubakar,2.35E+12,uche.abubakar@outlook.com,www.dyBtiai.com
+424,Restaurant 424,Enugu,Intercontinental,Pounded Yam,5.79,8.69,3.6,480,35,9:00 AM,8:00 PM,Yes,No,No,72,Emeka Ojo,2.35E+12,uche.eze@yahoo.com,www.ZTMfIfD.com
+425,Restaurant 425,Abeokuta,Intercontinental,Efo Riro,41.06,17.18,3.9,918,26,8:00 AM,9:00 PM,No,No,No,75,Uche Ibrahim,2.35E+12,musa.okafor@yahoo.com,www.TqBRXtu.com
+426,Restaurant 426,Lagos,Intercontinental,Fried Rice,47.87,9.74,4.9,957,46,10:00 AM,8:00 PM,Yes,Yes,No,77,Chinedu Balogun,2.35E+12,musa.onyeka@yahoo.com,www.UdGsWxR.com
+427,Restaurant 427,Ibadan,Intercontinental,Efo Riro,46.2,7.26,3.8,996,43,9:00 AM,8:00 PM,Yes,No,No,50,Musa Eze,2.35E+12,emeka.adeniyi@outlook.com,www.UVHNmBZ.com
+428,Restaurant 428,Ibadan,Nigerian,Sushi,44.91,21.57,4.8,922,32,7:00 AM,11:00 PM,No,Yes,Yes,48,Musa Balogun,2.35E+12,uche.ahmed@outlook.com,www.uhThqqE.com
+429,Restaurant 429,Port Harcourt,Intercontinental,Ofada Rice,46.23,10.75,2.1,762,22,8:00 AM,8:00 PM,Yes,No,Yes,30,Fatima Nwosu,2.35E+12,adebayo.okafor@yahoo.com,www.vGizAJo.com
+430,Restaurant 430,Jos,Intercontinental,Egusi Soup,34.09,19.3,1,467,27,8:00 AM,8:00 PM,Yes,Yes,No,99,Aisha Balogun,2.35E+12,uche.adeniyi@outlook.com,www.gfzHJWx.com
+431,Restaurant 431,Abeokuta,Intercontinental,Chicken Wings,30.07,20.53,1.5,753,16,10:00 AM,9:00 PM,No,No,Yes,21,Tolu Onyeka,2.35E+12,adebayo.adeniyi@outlook.com,www.PeDieAO.com
+432,Restaurant 432,Enugu,Nigerian,Pizza,36.98,25.9,3.1,737,21,6:00 AM,9:00 PM,No,Yes,No,89,Aisha Abubakar,2.35E+12,musa.abubakar@hotmail.com,www.TWaAYpg.com
+433,Restaurant 433,Kano,Nigerian,Fried Rice,40.37,12.83,1.3,239,30,6:00 AM,9:00 PM,No,No,Yes,70,Adebayo Adeniyi,2.35E+12,ngozi.abubakar@outlook.com,www.oWHXtPy.com
+434,Restaurant 434,Jos,Nigerian,Moi Moi,44.14,27.59,4.2,411,33,7:00 AM,11:00 PM,No,No,No,41,Musa Abubakar,2.35E+12,fatima.adeniyi@outlook.com,www.fjgsneO.com
+435,Restaurant 435,Benin City,Intercontinental,Caesar Salad,27.61,29.37,4.7,610,7,6:00 AM,9:00 PM,No,No,Yes,83,Ngozi Nwosu,2.35E+12,fatima.ahmed@gmail.com,www.gcLkbfF.com
+436,Restaurant 436,Port Harcourt,Nigerian,Pasta Carbonara,27.23,20.1,1,348,31,6:00 AM,8:00 PM,No,No,No,64,Tolu Abubakar,2.35E+12,fatima.onyeka@yahoo.com,www.VQWdprk.com
+437,Restaurant 437,Kaduna,Nigerian,Suya,43.43,12.28,3.7,727,29,7:00 AM,8:00 PM,No,No,Yes,64,Chinedu Onyeka,2.35E+12,uche.adeniyi@yahoo.com,www.TsrUKMf.com
+438,Restaurant 438,Ibadan,Nigerian,Suya,47.34,26.84,2.7,536,22,9:00 AM,10:00 PM,No,Yes,No,21,Ngozi Adeniyi,2.35E+12,ngozi.balogun@outlook.com,www.PyNvWqD.com
+439,Restaurant 439,Jos,Intercontinental,Steak,44.01,29.02,4.3,77,10,6:00 AM,10:00 PM,No,No,No,52,Aisha Onyeka,2.35E+12,obinna.okafor@gmail.com,www.cBFcSIf.com
+440,Restaurant 440,Jos,Intercontinental,Jollof Rice,38.36,27.77,2.1,6,24,10:00 AM,10:00 PM,Yes,Yes,No,46,Tolu Adeniyi,2.35E+12,chinedu.ahmed@outlook.com,www.XLhkWbL.com
+441,Restaurant 441,Port Harcourt,Nigerian,Moi Moi,7.49,3.63,3.6,812,45,6:00 AM,10:00 PM,Yes,No,No,25,Ngozi Ahmed,2.35E+12,adebayo.onyeka@hotmail.com,www.iTaoMoy.com
+442,Restaurant 442,Ibadan,Intercontinental,Pounded Yam,11.16,26.68,1.6,66,38,8:00 AM,10:00 PM,Yes,Yes,No,39,Chinedu Onyeka,2.35E+12,ngozi.ahmed@yahoo.com,www.IGmnwlq.com
+443,Restaurant 443,Benin City,Nigerian,Steak,18.59,27.34,4.9,422,20,10:00 AM,9:00 PM,No,Yes,Yes,36,Musa Abubakar,2.35E+12,obinna.okafor@gmail.com,www.xBewECT.com
+444,Restaurant 444,Ibadan,Nigerian,Caesar Salad,33.86,19.5,3.5,389,42,10:00 AM,10:00 PM,No,No,No,43,Adebayo Eze,2.35E+12,chinedu.nwosu@hotmail.com,www.WbyoIfN.com
+445,Restaurant 445,Ibadan,Intercontinental,Pasta Carbonara,34.19,12.4,2.8,425,10,8:00 AM,11:00 PM,No,Yes,Yes,36,Ngozi Nwosu,2.35E+12,tolu.onyeka@gmail.com,www.PzdqiDg.com
+446,Restaurant 446,Abuja,Intercontinental,Egusi Soup,31.23,7.47,5,3,32,9:00 AM,10:00 PM,No,Yes,No,33,Fatima Ahmed,2.35E+12,emeka.onyeka@hotmail.com,www.bWsOkPf.com
+447,Restaurant 447,Kano,Nigerian,Steak,45.39,5.32,4.4,351,12,9:00 AM,11:00 PM,Yes,Yes,Yes,32,Obinna Ahmed,2.35E+12,uche.onyeka@outlook.com,www.KiEnVQi.com
+448,Restaurant 448,Enugu,Intercontinental,Jollof Rice,7.74,11,1.2,48,25,6:00 AM,9:00 PM,No,Yes,No,55,Fatima Eze,2.35E+12,aisha.eze@hotmail.com,www.ismWKbp.com
+449,Restaurant 449,Lagos,Nigerian,Akara,20.21,15.9,1.7,531,50,9:00 AM,8:00 PM,No,No,Yes,50,Obinna Abubakar,2.35E+12,emeka.balogun@yahoo.com,www.xTcTnkM.com
+450,Restaurant 450,Lagos,Nigerian,Suya,37.82,5.71,4.9,62,43,8:00 AM,11:00 PM,No,Yes,No,72,Obinna Abubakar,2.35E+12,adebayo.eze@outlook.com,www.PAmGSxk.com
+451,Restaurant 451,Jos,Nigerian,Akara,34.98,13.12,3,326,37,7:00 AM,10:00 PM,No,Yes,No,42,Adebayo Adeniyi,2.35E+12,chinedu.ojo@yahoo.com,www.lCwGYyt.com
+452,Restaurant 452,Jos,Nigerian,Burger,36.36,4.46,2.9,199,43,10:00 AM,11:00 PM,Yes,No,No,65,Musa Okafor,2.35E+12,fatima.adeniyi@gmail.com,www.FMaBZma.com
+453,Restaurant 453,Lagos,Intercontinental,Caesar Salad,26.42,21.38,1.2,746,20,7:00 AM,10:00 PM,Yes,No,Yes,78,Fatima Nwosu,2.35E+12,adebayo.ojo@gmail.com,www.jJnKEmz.com
+454,Restaurant 454,Jos,Intercontinental,Pounded Yam,36.54,26.26,1.6,7,22,8:00 AM,11:00 PM,No,No,Yes,38,Musa Abubakar,2.35E+12,adebayo.okafor@gmail.com,www.TkonHzP.com
+455,Restaurant 455,Kano,Nigerian,Burger,6.39,27.42,1.6,107,44,6:00 AM,9:00 PM,No,Yes,Yes,96,Tolu Adeniyi,2.35E+12,chinedu.ojo@hotmail.com,www.ISjBgtZ.com
+456,Restaurant 456,Port Harcourt,Intercontinental,Steak,32.49,27.8,4.1,340,48,10:00 AM,8:00 PM,No,No,Yes,81,Ngozi Ojo,2.35E+12,uche.eze@outlook.com,www.EWrpvle.com
+457,Restaurant 457,Abeokuta,Nigerian,Grilled Fish,44.57,4.81,1.6,906,20,9:00 AM,9:00 PM,Yes,No,Yes,95,Tolu Onyeka,2.35E+12,tolu.ojo@hotmail.com,www.ryepuAT.com
+458,Restaurant 458,Jos,Nigerian,Ofada Rice,13.96,24.97,5,202,44,9:00 AM,9:00 PM,No,No,Yes,77,Uche Onyeka,2.35E+12,adebayo.ibrahim@gmail.com,www.faMhbnp.com
+459,Restaurant 459,Enugu,Nigerian,Suya,42.09,10.38,4.8,998,45,8:00 AM,8:00 PM,Yes,No,Yes,50,Emeka Nwosu,2.35E+12,musa.eze@yahoo.com,www.QaYViwr.com
+460,Restaurant 460,Abeokuta,Intercontinental,Pounded Yam,18.66,24.09,4.3,541,23,8:00 AM,9:00 PM,Yes,Yes,No,65,Musa Nwosu,2.35E+12,musa.onyeka@hotmail.com,www.WdnCyFf.com
+461,Restaurant 461,Benin City,Nigerian,Steak,44.44,14.79,2.7,523,27,10:00 AM,11:00 PM,No,Yes,No,68,Emeka Ahmed,2.35E+12,ngozi.ojo@yahoo.com,www.Vwqpjzx.com
+462,Restaurant 462,Kano,Nigerian,Egusi Soup,10.39,15.07,2.7,455,20,9:00 AM,10:00 PM,No,Yes,No,64,Obinna Onyeka,2.35E+12,chinedu.ibrahim@gmail.com,www.vgPrMYP.com
+463,Restaurant 463,Ibadan,Nigerian,Fried Rice,13.13,19.75,3.9,461,39,9:00 AM,8:00 PM,Yes,No,No,94,Chinedu Okafor,2.35E+12,aisha.ahmed@hotmail.com,www.LmJtBYK.com
+464,Restaurant 464,Kaduna,Intercontinental,Fried Rice,15.05,6.85,3.9,908,41,8:00 AM,10:00 PM,Yes,Yes,Yes,35,Adebayo Eze,2.35E+12,adebayo.onyeka@hotmail.com,www.XHkgBCW.com
+465,Restaurant 465,Benin City,Intercontinental,Fried Rice,33.22,24.61,2.4,234,15,9:00 AM,10:00 PM,No,No,No,78,Chinedu Balogun,2.35E+12,tolu.ahmed@hotmail.com,www.rHRgnQW.com
+466,Restaurant 466,Enugu,Intercontinental,Sushi,17.56,13.93,3,523,19,10:00 AM,9:00 PM,Yes,No,No,38,Ngozi Abubakar,2.35E+12,adebayo.okafor@hotmail.com,www.kOLCAeg.com
+467,Restaurant 467,Kaduna,Intercontinental,Steak,9.82,13.87,2.4,224,7,10:00 AM,8:00 PM,No,Yes,No,33,Emeka Balogun,2.35E+12,ngozi.ojo@gmail.com,www.Yvuzbzg.com
+468,Restaurant 468,Lagos,Intercontinental,Moi Moi,5.79,3.38,4.1,743,44,6:00 AM,10:00 PM,Yes,No,No,71,Fatima Adeniyi,2.35E+12,uche.ojo@yahoo.com,www.SnASmNS.com
+469,Restaurant 469,Enugu,Nigerian,Burger,12.04,6.87,2.2,8,27,9:00 AM,8:00 PM,No,Yes,Yes,55,Ngozi Ibrahim,2.35E+12,musa.ibrahim@hotmail.com,www.wsIXNgS.com
+470,Restaurant 470,Jos,Intercontinental,Sushi,10.91,20.59,3,146,23,8:00 AM,10:00 PM,No,Yes,Yes,58,Tolu Balogun,2.35E+12,uche.adeniyi@outlook.com,www.vQxMrzd.com
+471,Restaurant 471,Abuja,Intercontinental,Pizza,16.82,29.08,3.9,28,19,7:00 AM,10:00 PM,Yes,Yes,No,32,Fatima Eze,2.35E+12,fatima.ahmed@outlook.com,www.ULxjxas.com
+472,Restaurant 472,Port Harcourt,Intercontinental,Caesar Salad,32.91,5.64,1.3,847,18,7:00 AM,8:00 PM,Yes,No,No,77,Ngozi Ojo,2.35E+12,ngozi.eze@hotmail.com,www.MpdCfdv.com
+473,Restaurant 473,Lagos,Intercontinental,Efo Riro,41.34,8.73,4.3,11,47,9:00 AM,10:00 PM,No,Yes,Yes,47,Uche Ojo,2.35E+12,aisha.adeniyi@outlook.com,www.iVfktZL.com
+474,Restaurant 474,Benin City,Intercontinental,Egusi Soup,34.83,4.34,3,113,42,7:00 AM,11:00 PM,No,No,No,69,Adebayo Eze,2.35E+12,chinedu.onyeka@gmail.com,www.shaPUGm.com
+475,Restaurant 475,Lagos,Intercontinental,Fried Rice,40.29,14.79,2.2,642,8,8:00 AM,10:00 PM,No,Yes,Yes,95,Ngozi Eze,2.35E+12,fatima.okafor@yahoo.com,www.aMXNRCB.com
+476,Restaurant 476,Kano,Intercontinental,Grilled Fish,24.35,21.5,2.4,847,16,6:00 AM,8:00 PM,Yes,Yes,Yes,68,Musa Ibrahim,2.35E+12,emeka.ibrahim@hotmail.com,www.HOCjeVS.com
+477,Restaurant 477,Ibadan,Nigerian,Fried Rice,24.39,25.08,1.8,254,5,7:00 AM,8:00 PM,Yes,No,Yes,70,Tolu Adeniyi,2.35E+12,chinedu.ojo@gmail.com,www.ewVnARt.com
+478,Restaurant 478,Kano,Nigerian,Pizza,24.3,11.91,4.5,153,45,10:00 AM,8:00 PM,No,No,No,26,Fatima Adeniyi,2.35E+12,adebayo.adeniyi@yahoo.com,www.VeIVXhM.com
+479,Restaurant 479,Kano,Intercontinental,Pasta Carbonara,34.4,27.89,3.3,779,36,10:00 AM,10:00 PM,Yes,Yes,No,76,Tolu Eze,2.35E+12,obinna.ojo@outlook.com,www.AdolYPh.com
+480,Restaurant 480,Jos,Intercontinental,Efo Riro,37.8,13.17,3,601,27,10:00 AM,10:00 PM,No,Yes,No,81,Tolu Adeniyi,2.35E+12,ngozi.abubakar@hotmail.com,www.aUAcrsx.com
+481,Restaurant 481,Abeokuta,Intercontinental,Steak,18.13,14.24,1.9,559,28,9:00 AM,8:00 PM,No,No,No,76,Aisha Nwosu,2.35E+12,musa.onyeka@gmail.com,www.ZetzWcB.com
+482,Restaurant 482,Enugu,Intercontinental,Pizza,22.49,8.04,3.4,919,39,10:00 AM,8:00 PM,Yes,No,Yes,62,Adebayo Ibrahim,2.35E+12,emeka.ahmed@gmail.com,www.XAHDJfz.com
+483,Restaurant 483,Enugu,Nigerian,Egusi Soup,31.28,5.59,4,792,16,9:00 AM,9:00 PM,Yes,Yes,No,38,Tolu Ibrahim,2.35E+12,ngozi.ibrahim@gmail.com,www.vZrYEwP.com
+484,Restaurant 484,Kano,Intercontinental,Akara,39.15,25.05,4.8,706,26,8:00 AM,8:00 PM,Yes,Yes,No,57,Chinedu Ahmed,2.35E+12,emeka.adeniyi@gmail.com,www.IdyMWig.com
+485,Restaurant 485,Lagos,Intercontinental,Fried Chicken,19.95,23.57,1.8,26,15,8:00 AM,9:00 PM,No,No,No,58,Obinna Ahmed,2.35E+12,obinna.adeniyi@yahoo.com,www.YZKEgFy.com
+486,Restaurant 486,Ibadan,Nigerian,Steak,21.64,8.03,4.4,732,15,9:00 AM,10:00 PM,Yes,No,Yes,97,Uche Eze,2.35E+12,musa.abubakar@gmail.com,www.OSDRueZ.com
+487,Restaurant 487,Kaduna,Intercontinental,Steak,28.19,27.42,4.1,812,28,6:00 AM,8:00 PM,No,Yes,Yes,44,Fatima Onyeka,2.35E+12,musa.nwosu@yahoo.com,www.sSYFBFJ.com
+488,Restaurant 488,Kano,Intercontinental,Pounded Yam,21.14,24.92,2.9,623,33,9:00 AM,8:00 PM,No,Yes,No,95,Uche Nwosu,2.35E+12,emeka.ahmed@outlook.com,www.XDsZEZo.com
+489,Restaurant 489,Abuja,Nigerian,Pepper Soup,35.14,7.78,2.4,36,17,6:00 AM,10:00 PM,No,No,Yes,71,Aisha Eze,2.35E+12,adebayo.ibrahim@hotmail.com,www.jHuqRVn.com
+490,Restaurant 490,Jos,Intercontinental,Fried Rice,43.33,22.46,1.1,974,6,8:00 AM,11:00 PM,Yes,Yes,No,81,Adebayo Onyeka,2.35E+12,ngozi.abubakar@outlook.com,www.ozzjGbv.com
+491,Restaurant 491,Benin City,Nigerian,Suya,9.5,24.3,4,752,6,7:00 AM,10:00 PM,No,No,Yes,66,Musa Ojo,2.35E+12,adebayo.onyeka@gmail.com,www.LDTTXMc.com
+492,Restaurant 492,Enugu,Nigerian,Burger,46.44,4.17,4.5,987,21,10:00 AM,9:00 PM,No,Yes,No,94,Chinedu Balogun,2.35E+12,chinedu.ojo@gmail.com,www.NfvDoVn.com
+493,Restaurant 493,Kaduna,Nigerian,Chicken Wings,15.38,29.03,4.6,944,15,7:00 AM,9:00 PM,No,Yes,No,71,Ngozi Adeniyi,2.35E+12,chinedu.nwosu@hotmail.com,www.wewgorK.com
+494,Restaurant 494,Benin City,Nigerian,Spaghetti Bolognese,32.04,13.44,1.4,753,21,8:00 AM,10:00 PM,No,No,Yes,84,Aisha Okafor,2.35E+12,chinedu.ojo@gmail.com,www.IttjMya.com
+495,Restaurant 495,Kano,Intercontinental,Akara,18.23,16.18,3.9,106,43,8:00 AM,9:00 PM,No,No,Yes,94,Obinna Ahmed,2.35E+12,aisha.ahmed@yahoo.com,www.iSOihsK.com
+496,Restaurant 496,Enugu,Nigerian,Spaghetti Bolognese,6.51,14.29,3.1,918,35,6:00 AM,8:00 PM,No,Yes,No,78,Ngozi Nwosu,2.35E+12,obinna.eze@hotmail.com,www.cEHiILK.com
+497,Restaurant 497,Jos,Intercontinental,Pasta Carbonara,40.81,24.59,2.2,138,35,6:00 AM,11:00 PM,No,No,No,45,Chinedu Adeniyi,2.35E+12,aisha.balogun@hotmail.com,www.pdlFJMY.com
+498,Restaurant 498,Abeokuta,Intercontinental,Jollof Rice,18.08,25.38,4.1,175,17,8:00 AM,11:00 PM,No,No,Yes,56,Aisha Ibrahim,2.35E+12,tolu.ibrahim@yahoo.com,www.ehrlvhf.com
+499,Restaurant 499,Kano,Intercontinental,Fried Rice,9.09,7.06,2.6,669,26,8:00 AM,10:00 PM,No,No,No,98,Fatima Ahmed,2.35E+12,tolu.okafor@gmail.com,www.GOnnHqA.com
+500,Restaurant 500,Ibadan,Nigerian,Fried Rice,42.48,6.75,1,441,26,9:00 AM,8:00 PM,Yes,Yes,Yes,64,Obinna Okafor,2.35E+12,adebayo.okafor@hotmail.com,www.SCztQLj.com

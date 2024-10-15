@@ -1,0 +1,301 @@
+restaurant_id,restaurant_name,location,cuisine_type,menu_item,price,cost,rating,review_count,staff_count,opening_hours,closing_hours,delivery_available,takeaway_available,reservation_required,seating_capacity,owner_name,contact_number,email
+1,Restaurant 1,Abuja,Nigerian,Pounded Yam,2859.99,364.77,1.5,36,27,7:00 AM,10:00 PM,No,No,No,100,Aisha Onyeka,2.34836E+12,emeka.abubakar@outlook.com
+2,Restaurant 2,Jos,Nigerian,Egusi Soup,894.36,2235.17,1.2,971,34,9:00 AM,9:00 PM,No,No,Yes,97,Musa Balogun,2.34711E+12,ngozi.balogun@gmail.com
+3,Restaurant 3,Lagos,Nigerian,Jollof Rice,1125.24,469.79,2.1,446,38,10:00 AM,11:00 PM,Yes,No,No,83,Ngozi Nwosu,2.34833E+12,tolu.ibrahim@yahoo.com
+4,Restaurant 4,Kaduna,Nigerian,Jollof Rice,1623.08,1451.83,1,566,25,10:00 AM,11:00 PM,No,Yes,No,35,Uche Nwosu,2.34763E+12,aisha.nwosu@gmail.com
+5,Restaurant 5,Kaduna,Nigerian,Jollof Rice,3869.48,2043.68,2.4,137,41,7:00 AM,10:00 PM,Yes,No,Yes,86,Ngozi Onyeka,2.348E+12,adebayo.onyeka@outlook.com
+6,Restaurant 6,Abuja,Nigerian,Fried Rice,903.26,2173.49,1.1,793,49,7:00 AM,11:00 PM,No,No,No,82,Aisha Ahmed,2.34707E+12,aisha.abubakar@yahoo.com
+7,Restaurant 7,Benin City,Nigerian,Egusi Soup,3263.7,1404.17,2.3,645,28,9:00 AM,11:00 PM,No,Yes,Yes,38,Uche Ojo,2.34849E+12,aisha.adeniyi@yahoo.com
+8,Restaurant 8,Abeokuta,Nigerian,Ofada Rice,2792.28,2972.05,2.2,766,27,7:00 AM,8:00 PM,No,Yes,Yes,46,Adebayo Nwosu,2.34866E+12,chinedu.okafor@outlook.com
+9,Restaurant 9,Ibadan,Nigerian,Jollof Rice,3149.89,2223.96,4.3,443,37,8:00 AM,11:00 PM,No,No,Yes,54,Emeka Okafor,2.34815E+12,uche.adeniyi@yahoo.com
+10,Restaurant 10,Kano,Nigerian,Akara,1259.91,2858.04,1.1,21,46,7:00 AM,9:00 PM,Yes,No,No,42,Ngozi Ibrahim,2.34819E+12,fatima.onyeka@yahoo.com
+11,Restaurant 11,Ibadan,Nigerian,Suya,3838.39,2144.23,4.7,986,13,7:00 AM,8:00 PM,Yes,No,Yes,74,Obinna Ojo,2.34739E+12,ngozi.balogun@hotmail.com
+12,Restaurant 12,Abeokuta,Nigerian,Jollof Rice,3961.7,1032.36,2.1,865,21,8:00 AM,10:00 PM,No,No,Yes,43,Ngozi Nwosu,2.34794E+12,tolu.ahmed@yahoo.com
+13,Restaurant 13,Benin City,Nigerian,Efo Riro,2158.37,851.2,4,819,33,6:00 AM,11:00 PM,No,No,No,48,Fatima Eze,2.3474E+12,musa.eze@outlook.com
+14,Restaurant 14,Benin City,Nigerian,Jollof Rice,1102.29,1583.5,2.6,665,23,6:00 AM,11:00 PM,No,No,No,49,Ngozi Onyeka,2.34758E+12,emeka.balogun@hotmail.com
+15,Restaurant 15,Ibadan,Nigerian,Egusi Soup,3857.93,956.39,3,366,50,7:00 AM,8:00 PM,Yes,No,Yes,62,Chinedu Onyeka,2.34825E+12,adebayo.eze@gmail.com
+16,Restaurant 16,Abuja,Nigerian,Pounded Yam,4422.79,722.62,2.7,720,49,9:00 AM,8:00 PM,No,Yes,No,97,Adebayo Balogun,2.34818E+12,emeka.ojo@yahoo.com
+17,Restaurant 17,Abeokuta,Nigerian,Akara,1627.14,416.31,2.5,410,5,6:00 AM,10:00 PM,Yes,Yes,No,23,Tolu Balogun,2.34847E+12,adebayo.ahmed@hotmail.com
+18,Restaurant 18,Lagos,Nigerian,Egusi Soup,1214.52,1281.9,3.4,576,50,6:00 AM,9:00 PM,Yes,No,Yes,60,Aisha Okafor,2.34771E+12,obinna.adeniyi@yahoo.com
+19,Restaurant 19,Kano,Nigerian,Jollof Rice,2058.15,2162.83,4,972,27,7:00 AM,11:00 PM,Yes,No,Yes,22,Aisha Ibrahim,2.34739E+12,uche.ibrahim@hotmail.com
+20,Restaurant 20,Kaduna,Nigerian,Moi Moi,3178.08,2947.8,1.7,154,40,10:00 AM,9:00 PM,No,Yes,Yes,26,Ngozi Ojo,2.34876E+12,uche.ahmed@yahoo.com
+21,Restaurant 21,Enugu,Nigerian,Akara,893.97,502.33,4.6,718,25,9:00 AM,9:00 PM,No,Yes,Yes,43,Fatima Onyeka,2.34775E+12,fatima.okafor@yahoo.com
+22,Restaurant 22,Port Harcourt,Nigerian,Egusi Soup,1217.89,2923.11,3.9,589,9,8:00 AM,8:00 PM,No,Yes,Yes,77,Adebayo Balogun,2.34728E+12,ngozi.onyeka@hotmail.com
+23,Restaurant 23,Kaduna,Nigerian,Akara,4935.12,534.99,3.8,43,46,10:00 AM,10:00 PM,No,No,Yes,98,Chinedu Abubakar,2.34876E+12,uche.okafor@hotmail.com
+24,Restaurant 24,Lagos,Nigerian,Egusi Soup,4351.68,2243,3.4,229,23,6:00 AM,9:00 PM,Yes,Yes,Yes,48,Musa Nwosu,2.34769E+12,chinedu.abubakar@hotmail.com
+25,Restaurant 25,Kaduna,Nigerian,Akara,3533.08,2017.09,4.5,280,36,8:00 AM,10:00 PM,Yes,No,No,75,Uche Balogun,2.34732E+12,chinedu.ibrahim@gmail.com
+26,Restaurant 26,Kaduna,Nigerian,Efo Riro,867.2,539.53,3.8,410,20,8:00 AM,11:00 PM,Yes,No,No,51,Chinedu Adeniyi,2.34773E+12,obinna.ojo@gmail.com
+27,Restaurant 27,Jos,Nigerian,Egusi Soup,3194.7,1881.21,2.5,372,22,6:00 AM,9:00 PM,Yes,No,No,92,Adebayo Abubakar,2.34892E+12,chinedu.adeniyi@gmail.com
+28,Restaurant 28,Benin City,Nigerian,Jollof Rice,2643.2,1741.08,2.8,150,34,7:00 AM,8:00 PM,Yes,Yes,No,63,Adebayo Okafor,2.3486E+12,chinedu.nwosu@gmail.com
+29,Restaurant 29,Enugu,Nigerian,Ofada Rice,666.95,2289.06,1.6,810,49,6:00 AM,9:00 PM,No,No,No,37,Ngozi Ibrahim,2.34861E+12,aisha.ojo@yahoo.com
+30,Restaurant 30,Ibadan,Nigerian,Pepper Soup,2189.13,2809.07,2.4,635,21,10:00 AM,10:00 PM,Yes,No,No,49,Adebayo Ojo,2.34827E+12,emeka.ojo@gmail.com
+31,Restaurant 31,Ibadan,Nigerian,Pounded Yam,3988.52,1334.95,1.5,623,31,10:00 AM,11:00 PM,No,Yes,No,55,Tolu Adeniyi,2.34882E+12,ngozi.nwosu@yahoo.com
+32,Restaurant 32,Enugu,Nigerian,Moi Moi,1566.82,1844.42,4.2,481,8,6:00 AM,9:00 PM,Yes,No,Yes,46,Tolu Ahmed,2.34843E+12,emeka.onyeka@outlook.com
+33,Restaurant 33,Abuja,Nigerian,Egusi Soup,2395.51,1295.87,3.3,189,48,10:00 AM,9:00 PM,Yes,Yes,Yes,56,Aisha Ibrahim,2.34855E+12,chinedu.nwosu@gmail.com
+34,Restaurant 34,Abuja,Nigerian,Fried Rice,2893.49,2336.52,1.1,301,37,7:00 AM,9:00 PM,No,Yes,No,78,Fatima Eze,2.34786E+12,chinedu.ibrahim@gmail.com
+35,Restaurant 35,Abuja,Nigerian,Pounded Yam,3626.29,2483.05,2.6,431,47,6:00 AM,9:00 PM,No,No,Yes,78,Tolu Balogun,2.34793E+12,fatima.balogun@gmail.com
+36,Restaurant 36,Port Harcourt,Nigerian,Pepper Soup,4800.63,1286.84,1.2,300,26,10:00 AM,9:00 PM,Yes,No,Yes,83,Adebayo Balogun,2.34881E+12,chinedu.adeniyi@yahoo.com
+37,Restaurant 37,Kano,Nigerian,Egusi Soup,640.98,1730.63,2.9,675,6,8:00 AM,8:00 PM,Yes,Yes,Yes,42,Aisha Ibrahim,2.34716E+12,musa.adeniyi@outlook.com
+38,Restaurant 38,Jos,Nigerian,Pounded Yam,2734.21,2286.47,3.5,807,25,7:00 AM,8:00 PM,Yes,Yes,Yes,36,Adebayo Balogun,2.34706E+12,fatima.balogun@yahoo.com
+39,Restaurant 39,Enugu,Nigerian,Moi Moi,3299.33,364.29,1.7,670,9,10:00 AM,11:00 PM,Yes,Yes,Yes,25,Obinna Eze,2.34791E+12,fatima.abubakar@hotmail.com
+40,Restaurant 40,Kaduna,Nigerian,Suya,3824.16,1010.87,3.5,211,37,6:00 AM,8:00 PM,Yes,No,No,91,Ngozi Onyeka,2.34723E+12,fatima.nwosu@yahoo.com
+41,Restaurant 41,Kaduna,Nigerian,Pepper Soup,1303.02,1050.01,4.1,819,43,7:00 AM,11:00 PM,Yes,No,Yes,69,Musa Eze,2.34801E+12,emeka.nwosu@hotmail.com
+42,Restaurant 42,Abuja,Nigerian,Pounded Yam,3018.78,1974.25,4.9,906,10,9:00 AM,11:00 PM,No,Yes,No,30,Ngozi Ibrahim,2.34808E+12,adebayo.abubakar@gmail.com
+43,Restaurant 43,Ibadan,Nigerian,Egusi Soup,3898.19,2785.67,3.3,223,32,10:00 AM,9:00 PM,No,No,No,100,Obinna Abubakar,2.34712E+12,tolu.nwosu@gmail.com
+44,Restaurant 44,Abuja,Nigerian,Fried Rice,3320,990.04,2.8,455,14,10:00 AM,10:00 PM,Yes,No,Yes,46,Chinedu Ojo,2.34726E+12,obinna.ojo@yahoo.com
+45,Restaurant 45,Ibadan,Nigerian,Ofada Rice,3592.68,1840.52,2.8,273,49,8:00 AM,9:00 PM,No,Yes,Yes,99,Adebayo Ojo,2.34727E+12,fatima.ibrahim@outlook.com
+46,Restaurant 46,Abuja,Nigerian,Jollof Rice,3142.32,396.2,2.2,773,13,7:00 AM,10:00 PM,Yes,No,No,56,Emeka Okafor,2.347E+12,ngozi.abubakar@outlook.com
+47,Restaurant 47,Lagos,Nigerian,Fried Rice,1647.81,2511.98,3.5,734,48,7:00 AM,9:00 PM,No,No,No,83,Ngozi Nwosu,2.34754E+12,chinedu.ojo@gmail.com
+48,Restaurant 48,Port Harcourt,Nigerian,Fried Rice,1683.06,1931.56,3.2,755,7,6:00 AM,8:00 PM,No,Yes,Yes,61,Fatima Ahmed,2.34857E+12,adebayo.ahmed@yahoo.com
+49,Restaurant 49,Kano,Nigerian,Suya,2122.19,1395.14,4,302,29,9:00 AM,9:00 PM,No,Yes,Yes,80,Ngozi Ojo,2.34893E+12,uche.okafor@hotmail.com
+50,Restaurant 50,Lagos,Nigerian,Ofada Rice,3259.23,2535.72,4.1,221,15,10:00 AM,8:00 PM,Yes,Yes,Yes,81,Chinedu Ahmed,2.3486E+12,fatima.ahmed@hotmail.com
+51,Restaurant 51,Lagos,Nigerian,Fried Rice,1962.31,1241.61,3.4,50,26,10:00 AM,10:00 PM,No,No,Yes,98,Adebayo Ahmed,2.3479E+12,adebayo.nwosu@yahoo.com
+52,Restaurant 52,Kano,Nigerian,Jollof Rice,1741.07,1584.29,3.8,177,35,6:00 AM,10:00 PM,Yes,Yes,No,77,Adebayo Ojo,2.34774E+12,uche.nwosu@hotmail.com
+53,Restaurant 53,Abeokuta,Nigerian,Pepper Soup,3467.28,1726.1,2.7,465,24,9:00 AM,9:00 PM,Yes,Yes,No,56,Ngozi Okafor,2.34779E+12,musa.eze@hotmail.com
+54,Restaurant 54,Lagos,Nigerian,Moi Moi,4113.06,989.38,3.2,751,21,9:00 AM,11:00 PM,Yes,Yes,No,24,Fatima Okafor,2.34881E+12,tolu.onyeka@hotmail.com
+55,Restaurant 55,Abuja,Nigerian,Efo Riro,2850.38,2332.17,2.8,296,41,10:00 AM,11:00 PM,No,No,No,51,Obinna Adeniyi,2.34701E+12,obinna.adeniyi@outlook.com
+56,Restaurant 56,Jos,Nigerian,Jollof Rice,2471.33,2148.37,1,931,42,8:00 AM,9:00 PM,No,Yes,No,56,Aisha Ibrahim,2.34855E+12,aisha.okafor@hotmail.com
+57,Restaurant 57,Abeokuta,Nigerian,Jollof Rice,2307.05,1836.81,1.4,601,42,10:00 AM,10:00 PM,Yes,Yes,No,27,Musa Ojo,2.34889E+12,adebayo.ojo@outlook.com
+58,Restaurant 58,Abeokuta,Nigerian,Fried Rice,4241.58,1768.84,2.6,785,37,6:00 AM,9:00 PM,No,No,No,54,Aisha Ibrahim,2.34716E+12,emeka.ojo@outlook.com
+59,Restaurant 59,Kaduna,Nigerian,Moi Moi,3564.72,2535.4,4.7,288,33,7:00 AM,9:00 PM,Yes,Yes,Yes,40,Aisha Nwosu,2.34811E+12,chinedu.adeniyi@outlook.com
+60,Restaurant 60,Kaduna,Nigerian,Akara,2919.37,2146.6,1.8,448,41,9:00 AM,10:00 PM,No,Yes,No,64,Aisha Balogun,2.34752E+12,uche.ojo@outlook.com
+61,Restaurant 61,Abuja,Nigerian,Pepper Soup,955.21,1635.01,2.1,283,9,9:00 AM,10:00 PM,No,Yes,Yes,41,Emeka Onyeka,2.34744E+12,fatima.ibrahim@yahoo.com
+62,Restaurant 62,Kaduna,Nigerian,Egusi Soup,3471.75,324.51,4.5,377,35,7:00 AM,10:00 PM,Yes,Yes,Yes,64,Obinna Eze,2.34704E+12,adebayo.balogun@gmail.com
+63,Restaurant 63,Enugu,Nigerian,Moi Moi,1635.03,2358.39,3.6,668,18,10:00 AM,10:00 PM,No,No,No,86,Tolu Balogun,2.34856E+12,ngozi.adeniyi@hotmail.com
+64,Restaurant 64,Abeokuta,Nigerian,Jollof Rice,2312.16,2044.86,2,47,7,6:00 AM,8:00 PM,No,Yes,Yes,87,Ngozi Eze,2.34853E+12,adebayo.ojo@yahoo.com
+65,Restaurant 65,Jos,Nigerian,Jollof Rice,903.35,459.75,3.1,511,40,10:00 AM,10:00 PM,Yes,Yes,No,28,Ngozi Nwosu,2.34834E+12,emeka.ojo@hotmail.com
+66,Restaurant 66,Benin City,Nigerian,Efo Riro,4828.02,678.89,3.4,404,34,6:00 AM,10:00 PM,No,No,Yes,91,Ngozi Onyeka,2.34804E+12,uche.adeniyi@hotmail.com
+67,Restaurant 67,Abuja,Nigerian,Akara,1835.98,1063.04,2.3,593,10,10:00 AM,10:00 PM,No,Yes,No,48,Emeka Nwosu,2.34843E+12,uche.nwosu@hotmail.com
+68,Restaurant 68,Lagos,Nigerian,Suya,1828.92,1652.92,1.9,39,44,9:00 AM,8:00 PM,No,No,No,57,Uche Abubakar,2.34786E+12,tolu.ahmed@outlook.com
+69,Restaurant 69,Ibadan,Nigerian,Jollof Rice,2699.29,984.33,2.8,304,35,7:00 AM,8:00 PM,No,No,Yes,36,Ngozi Balogun,2.34865E+12,adebayo.ahmed@hotmail.com
+70,Restaurant 70,Port Harcourt,Nigerian,Jollof Rice,3478.46,2321.98,1.4,845,37,9:00 AM,9:00 PM,No,Yes,Yes,75,Aisha Abubakar,2.34865E+12,adebayo.okafor@yahoo.com
+71,Restaurant 71,Benin City,Nigerian,Egusi Soup,1962.51,1006.62,2,200,25,8:00 AM,10:00 PM,Yes,Yes,Yes,94,Fatima Okafor,2.34849E+12,uche.adeniyi@outlook.com
+72,Restaurant 72,Ibadan,Nigerian,Moi Moi,1641.75,2878.98,2.7,335,11,6:00 AM,8:00 PM,Yes,No,Yes,40,Adebayo Abubakar,2.34827E+12,adebayo.adeniyi@hotmail.com
+73,Restaurant 73,Lagos,Nigerian,Moi Moi,1601.24,668.99,4.1,791,36,9:00 AM,8:00 PM,Yes,Yes,Yes,70,Adebayo Ahmed,2.34849E+12,aisha.ibrahim@hotmail.com
+74,Restaurant 74,Kaduna,Nigerian,Moi Moi,1796.84,2421.58,2,3,43,10:00 AM,9:00 PM,Yes,Yes,No,41,Emeka Nwosu,2.34765E+12,chinedu.eze@hotmail.com
+75,Restaurant 75,Kano,Nigerian,Akara,2314.59,2188.89,3.8,128,12,10:00 AM,10:00 PM,Yes,No,Yes,71,Aisha Eze,2.3473E+12,tolu.onyeka@yahoo.com
+76,Restaurant 76,Port Harcourt,Nigerian,Jollof Rice,951.09,2404.22,1.1,941,18,6:00 AM,9:00 PM,Yes,No,Yes,78,Emeka Abubakar,2.34801E+12,uche.eze@yahoo.com
+77,Restaurant 77,Enugu,Nigerian,Fried Rice,1164.59,2599.6,2.1,632,37,8:00 AM,9:00 PM,No,Yes,No,52,Emeka Eze,2.34802E+12,aisha.adeniyi@hotmail.com
+78,Restaurant 78,Port Harcourt,Nigerian,Pepper Soup,3327.13,482.08,1.4,732,15,7:00 AM,10:00 PM,Yes,No,Yes,61,Chinedu Ibrahim,2.34705E+12,ngozi.ahmed@hotmail.com
+79,Restaurant 79,Lagos,Nigerian,Efo Riro,4726.72,2405.83,1.6,756,33,8:00 AM,8:00 PM,No,Yes,No,27,Obinna Adeniyi,2.34753E+12,emeka.onyeka@yahoo.com
+80,Restaurant 80,Abuja,Nigerian,Egusi Soup,2782,1806.62,1.3,548,14,9:00 AM,8:00 PM,Yes,Yes,No,58,Emeka Balogun,2.34757E+12,chinedu.eze@gmail.com
+81,Restaurant 81,Port Harcourt,Nigerian,Egusi Soup,4192.18,2621.82,1.6,868,24,8:00 AM,8:00 PM,Yes,Yes,Yes,92,Aisha Abubakar,2.34858E+12,uche.eze@hotmail.com
+82,Restaurant 82,Kano,Nigerian,Suya,4789.78,1571.05,2.5,552,29,9:00 AM,9:00 PM,Yes,Yes,Yes,95,Musa Adeniyi,2.34824E+12,musa.adeniyi@outlook.com
+83,Restaurant 83,Jos,Nigerian,Egusi Soup,3443.02,1650.64,1.5,96,32,9:00 AM,9:00 PM,No,No,No,90,Tolu Abubakar,2.34738E+12,chinedu.ojo@outlook.com
+84,Restaurant 84,Lagos,Nigerian,Suya,4311.08,1508.86,4.7,815,27,8:00 AM,8:00 PM,No,No,Yes,95,Fatima Abubakar,2.34766E+12,chinedu.onyeka@outlook.com
+85,Restaurant 85,Kano,Nigerian,Suya,664.84,1614.1,2.2,197,25,10:00 AM,9:00 PM,No,No,No,32,Emeka Ibrahim,2.34727E+12,aisha.ibrahim@yahoo.com
+86,Restaurant 86,Ibadan,Nigerian,Fried Rice,3357.7,986.89,1,827,29,10:00 AM,8:00 PM,No,No,No,89,Fatima Abubakar,2.34897E+12,aisha.ahmed@outlook.com
+87,Restaurant 87,Jos,Nigerian,Efo Riro,3350.95,1443.98,1.2,544,48,8:00 AM,9:00 PM,No,No,Yes,60,Obinna Nwosu,2.34803E+12,obinna.onyeka@outlook.com
+88,Restaurant 88,Ibadan,Nigerian,Pepper Soup,1456.42,1126.67,1,545,49,9:00 AM,9:00 PM,No,No,Yes,70,Aisha Eze,2.34748E+12,aisha.ibrahim@outlook.com
+89,Restaurant 89,Kaduna,Nigerian,Efo Riro,4128.5,895.14,3.9,148,20,6:00 AM,8:00 PM,No,No,Yes,72,Uche Adeniyi,2.34779E+12,ngozi.onyeka@gmail.com
+90,Restaurant 90,Kaduna,Nigerian,Efo Riro,4077.03,1426.77,4.9,688,43,10:00 AM,9:00 PM,Yes,Yes,Yes,22,Musa Ahmed,2.34852E+12,aisha.eze@yahoo.com
+91,Restaurant 91,Port Harcourt,Nigerian,Ofada Rice,2177.68,2917.69,3.8,773,6,6:00 AM,10:00 PM,Yes,Yes,Yes,25,Emeka Adeniyi,2.34816E+12,obinna.eze@outlook.com
+92,Restaurant 92,Abuja,Nigerian,Akara,4586.15,2305.66,1.8,496,5,6:00 AM,9:00 PM,No,Yes,No,84,Chinedu Ojo,2.34818E+12,musa.ojo@hotmail.com
+93,Restaurant 93,Enugu,Nigerian,Moi Moi,4280.69,1033.98,3.2,95,10,8:00 AM,9:00 PM,No,No,No,28,Ngozi Balogun,2.34731E+12,fatima.ojo@yahoo.com
+94,Restaurant 94,Kano,Nigerian,Suya,4909.18,1767.15,2.7,138,13,7:00 AM,9:00 PM,Yes,No,Yes,86,Obinna Ibrahim,2.34714E+12,aisha.abubakar@outlook.com
+95,Restaurant 95,Enugu,Nigerian,Ofada Rice,4259.86,2700.58,4.6,336,11,9:00 AM,9:00 PM,Yes,No,No,75,Musa Nwosu,2.34878E+12,adebayo.eze@yahoo.com
+96,Restaurant 96,Enugu,Nigerian,Fried Rice,4295.39,1283.66,4,333,12,7:00 AM,11:00 PM,Yes,Yes,Yes,62,Ngozi Ahmed,2.3472E+12,tolu.nwosu@outlook.com
+97,Restaurant 97,Kaduna,Nigerian,Fried Rice,2986.83,1609.36,4.3,548,27,9:00 AM,11:00 PM,Yes,No,Yes,30,Obinna Onyeka,2.3482E+12,uche.ojo@yahoo.com
+98,Restaurant 98,Ibadan,Nigerian,Efo Riro,2088.45,2254.3,1.9,615,24,8:00 AM,8:00 PM,Yes,Yes,No,92,Emeka Okafor,2.34775E+12,uche.ojo@yahoo.com
+99,Restaurant 99,Kano,Nigerian,Moi Moi,3337.59,967.79,4.5,57,27,8:00 AM,10:00 PM,No,Yes,Yes,80,Tolu Ojo,2.34881E+12,uche.abubakar@gmail.com
+100,Restaurant 100,Jos,Nigerian,Fried Rice,521.11,1613.77,4.1,365,29,9:00 AM,8:00 PM,No,No,Yes,65,Uche Ibrahim,2.34792E+12,uche.onyeka@outlook.com
+101,Restaurant 101,Jos,Nigerian,Akara,4839.37,2013.02,1.3,856,48,7:00 AM,9:00 PM,Yes,No,Yes,82,Chinedu Balogun,2.34841E+12,adebayo.abubakar@hotmail.com
+102,Restaurant 102,Benin City,Nigerian,Ofada Rice,4535.04,510.66,1.7,509,36,7:00 AM,8:00 PM,Yes,Yes,No,68,Uche Nwosu,2.34795E+12,emeka.nwosu@yahoo.com
+103,Restaurant 103,Abuja,Nigerian,Pepper Soup,4941.05,2627.38,1.8,601,16,9:00 AM,11:00 PM,No,No,No,38,Aisha Eze,2.34718E+12,fatima.ahmed@hotmail.com
+104,Restaurant 104,Abuja,Nigerian,Akara,4931.81,2918.97,3,900,38,6:00 AM,11:00 PM,No,Yes,No,40,Emeka Ojo,2.34764E+12,obinna.onyeka@outlook.com
+105,Restaurant 105,Abuja,Nigerian,Ofada Rice,1556.94,1611.3,2.7,46,46,6:00 AM,10:00 PM,No,No,No,45,Aisha Ojo,2.34843E+12,emeka.okafor@outlook.com
+106,Restaurant 106,Enugu,Nigerian,Fried Rice,890.72,1237.42,4.5,423,41,7:00 AM,11:00 PM,Yes,Yes,Yes,57,Obinna Onyeka,2.34843E+12,tolu.balogun@yahoo.com
+107,Restaurant 107,Lagos,Nigerian,Moi Moi,3349.61,826.07,3.7,474,26,10:00 AM,8:00 PM,Yes,No,No,26,Ngozi Ibrahim,2.34846E+12,musa.abubakar@outlook.com
+108,Restaurant 108,Enugu,Nigerian,Ofada Rice,3640.48,2287.19,3,511,15,7:00 AM,9:00 PM,No,No,No,73,Uche Adeniyi,2.34832E+12,emeka.abubakar@yahoo.com
+109,Restaurant 109,Ibadan,Nigerian,Moi Moi,1369.98,408.94,4.1,529,18,10:00 AM,11:00 PM,Yes,Yes,Yes,29,Tolu Balogun,2.34825E+12,fatima.balogun@hotmail.com
+110,Restaurant 110,Lagos,Nigerian,Pounded Yam,2933.29,1678.52,3.6,982,42,6:00 AM,10:00 PM,No,Yes,No,28,Fatima Balogun,2.34866E+12,ngozi.onyeka@outlook.com
+111,Restaurant 111,Benin City,Nigerian,Pounded Yam,2109.26,714.75,3.4,214,8,8:00 AM,8:00 PM,Yes,No,Yes,23,Uche Okafor,2.34773E+12,uche.balogun@yahoo.com
+112,Restaurant 112,Benin City,Nigerian,Ofada Rice,2032.55,915.55,2.4,850,33,7:00 AM,8:00 PM,Yes,No,Yes,69,Ngozi Okafor,2.34808E+12,ngozi.ahmed@outlook.com
+113,Restaurant 113,Benin City,Nigerian,Akara,4516.77,1031.83,3,121,48,6:00 AM,8:00 PM,Yes,No,Yes,35,Tolu Okafor,2.34789E+12,chinedu.ibrahim@hotmail.com
+114,Restaurant 114,Kano,Nigerian,Moi Moi,2147.29,1038.3,4.1,317,47,7:00 AM,8:00 PM,No,Yes,Yes,30,Fatima Ojo,2.34825E+12,adebayo.eze@gmail.com
+115,Restaurant 115,Jos,Nigerian,Akara,1269.29,2798.58,4.1,998,38,10:00 AM,11:00 PM,No,Yes,No,33,Uche Nwosu,2.34848E+12,emeka.ahmed@outlook.com
+116,Restaurant 116,Enugu,Nigerian,Fried Rice,3627.72,1380.88,2.5,75,31,9:00 AM,10:00 PM,No,Yes,Yes,31,Ngozi Nwosu,2.34774E+12,adebayo.ibrahim@outlook.com
+117,Restaurant 117,Port Harcourt,Nigerian,Akara,701.17,611.76,4.5,706,14,7:00 AM,11:00 PM,Yes,No,Yes,54,Aisha Ojo,2.34726E+12,chinedu.adeniyi@outlook.com
+118,Restaurant 118,Ibadan,Nigerian,Egusi Soup,4334.64,2594.05,3.6,278,43,10:00 AM,10:00 PM,No,Yes,Yes,40,Adebayo Balogun,2.34755E+12,adebayo.nwosu@yahoo.com
+119,Restaurant 119,Benin City,Nigerian,Pepper Soup,4813.05,2411.85,4.5,950,13,10:00 AM,11:00 PM,No,No,No,74,Musa Ibrahim,2.34895E+12,musa.ibrahim@yahoo.com
+120,Restaurant 120,Abuja,Nigerian,Suya,1082.27,419.3,1.7,305,10,8:00 AM,10:00 PM,No,Yes,No,48,Aisha Onyeka,2.34848E+12,musa.nwosu@hotmail.com
+121,Restaurant 121,Abuja,Nigerian,Egusi Soup,3744.56,2994.58,3.6,367,6,7:00 AM,10:00 PM,No,No,Yes,47,Ngozi Ojo,2.34803E+12,musa.abubakar@hotmail.com
+122,Restaurant 122,Lagos,Nigerian,Fried Rice,745.54,423.76,4.8,34,17,10:00 AM,9:00 PM,No,Yes,No,47,Chinedu Nwosu,2.34857E+12,tolu.balogun@yahoo.com
+123,Restaurant 123,Kaduna,Nigerian,Efo Riro,992.09,542.66,1.4,941,30,6:00 AM,9:00 PM,Yes,No,No,95,Aisha Balogun,2.34796E+12,fatima.adeniyi@gmail.com
+124,Restaurant 124,Lagos,Nigerian,Pounded Yam,1904.12,1130.42,4.2,597,48,9:00 AM,10:00 PM,No,Yes,Yes,72,Uche Okafor,2.34816E+12,musa.ojo@yahoo.com
+125,Restaurant 125,Kano,Nigerian,Jollof Rice,650.38,1427.72,1.6,285,33,9:00 AM,9:00 PM,No,No,No,61,Emeka Ahmed,2.34716E+12,adebayo.onyeka@hotmail.com
+126,Restaurant 126,Jos,Nigerian,Akara,539.97,1662.32,1.7,64,50,6:00 AM,9:00 PM,No,No,No,43,Adebayo Eze,2.34861E+12,obinna.okafor@hotmail.com
+127,Restaurant 127,Port Harcourt,Nigerian,Pepper Soup,1293.1,1779.09,2.6,340,43,7:00 AM,11:00 PM,Yes,Yes,No,26,Chinedu Ahmed,2.34826E+12,chinedu.balogun@yahoo.com
+128,Restaurant 128,Lagos,Nigerian,Suya,1864.54,2908.9,4.1,252,38,9:00 AM,11:00 PM,Yes,Yes,No,60,Aisha Balogun,2.34888E+12,emeka.okafor@hotmail.com
+129,Restaurant 129,Kaduna,Nigerian,Pepper Soup,2200.26,980.57,4.3,512,35,7:00 AM,9:00 PM,No,No,Yes,47,Emeka Adeniyi,2.34766E+12,emeka.okafor@gmail.com
+130,Restaurant 130,Abuja,Nigerian,Moi Moi,2561.37,2173.76,2.2,60,25,8:00 AM,11:00 PM,Yes,No,Yes,28,Uche Nwosu,2.34744E+12,musa.okafor@yahoo.com
+131,Restaurant 131,Jos,Nigerian,Pounded Yam,615.14,1189.91,3.3,603,22,6:00 AM,11:00 PM,No,Yes,Yes,37,Tolu Eze,2.34889E+12,chinedu.abubakar@outlook.com
+132,Restaurant 132,Jos,Nigerian,Ofada Rice,4583.66,1688.95,3.4,213,22,7:00 AM,11:00 PM,Yes,No,No,47,Musa Eze,2.34857E+12,obinna.ahmed@outlook.com
+133,Restaurant 133,Ibadan,Nigerian,Jollof Rice,3541.73,2433.23,2.9,649,28,7:00 AM,9:00 PM,No,Yes,Yes,40,Fatima Adeniyi,2.34846E+12,emeka.ibrahim@outlook.com
+134,Restaurant 134,Benin City,Nigerian,Suya,4158.26,979.15,3.1,690,28,6:00 AM,11:00 PM,Yes,No,No,77,Obinna Okafor,2.34845E+12,aisha.ahmed@outlook.com
+135,Restaurant 135,Ibadan,Nigerian,Moi Moi,1447.81,1360.06,3.6,565,20,9:00 AM,11:00 PM,Yes,No,Yes,86,Obinna Balogun,2.34882E+12,fatima.ojo@outlook.com
+136,Restaurant 136,Kaduna,Nigerian,Egusi Soup,3441.43,1377.11,3.2,761,45,10:00 AM,8:00 PM,Yes,Yes,Yes,54,Tolu Ibrahim,2.34738E+12,chinedu.eze@outlook.com
+137,Restaurant 137,Benin City,Nigerian,Ofada Rice,1540.96,2710.92,3.5,939,47,6:00 AM,10:00 PM,Yes,No,No,97,Ngozi Abubakar,2.34893E+12,emeka.abubakar@yahoo.com
+138,Restaurant 138,Ibadan,Nigerian,Jollof Rice,985.31,2498.41,1.1,279,43,9:00 AM,10:00 PM,Yes,Yes,Yes,88,Uche Onyeka,2.34719E+12,obinna.ahmed@gmail.com
+139,Restaurant 139,Jos,Nigerian,Ofada Rice,2772.83,475.64,4.7,446,25,6:00 AM,11:00 PM,No,Yes,Yes,28,Obinna Ibrahim,2.34856E+12,obinna.ojo@hotmail.com
+140,Restaurant 140,Port Harcourt,Nigerian,Efo Riro,2957.87,1106.61,2,743,28,9:00 AM,11:00 PM,Yes,No,Yes,68,Adebayo Abubakar,2.34827E+12,ngozi.okafor@gmail.com
+141,Restaurant 141,Lagos,Nigerian,Ofada Rice,4850.24,1478.97,4.7,487,15,7:00 AM,9:00 PM,No,No,Yes,56,Uche Okafor,2.34843E+12,emeka.okafor@outlook.com
+142,Restaurant 142,Abeokuta,Nigerian,Jollof Rice,3544.92,774.55,3.8,283,34,9:00 AM,8:00 PM,No,No,No,99,Chinedu Balogun,2.34709E+12,fatima.nwosu@yahoo.com
+143,Restaurant 143,Port Harcourt,Nigerian,Pepper Soup,2924.39,1894.35,2.4,683,37,10:00 AM,10:00 PM,No,Yes,No,88,Musa Onyeka,2.34736E+12,emeka.eze@yahoo.com
+144,Restaurant 144,Port Harcourt,Nigerian,Pounded Yam,809.23,589.69,1.3,777,15,6:00 AM,10:00 PM,No,No,No,35,Ngozi Adeniyi,2.34887E+12,musa.eze@yahoo.com
+145,Restaurant 145,Kano,Nigerian,Suya,2304.39,431.57,4.3,167,32,10:00 AM,10:00 PM,No,No,Yes,88,Adebayo Eze,2.34771E+12,musa.adeniyi@outlook.com
+146,Restaurant 146,Port Harcourt,Nigerian,Efo Riro,2594.82,1758.82,4.1,544,25,8:00 AM,8:00 PM,Yes,No,Yes,90,Uche Ahmed,2.34872E+12,tolu.nwosu@hotmail.com
+147,Restaurant 147,Enugu,Nigerian,Fried Rice,4355,928.79,1.6,251,39,10:00 AM,11:00 PM,Yes,No,No,100,Tolu Balogun,2.34826E+12,fatima.okafor@yahoo.com
+148,Restaurant 148,Abuja,Nigerian,Egusi Soup,3245.24,784.72,1.8,797,8,9:00 AM,10:00 PM,No,Yes,No,98,Chinedu Nwosu,2.34889E+12,obinna.adeniyi@gmail.com
+149,Restaurant 149,Jos,Nigerian,Fried Rice,945.24,2494.17,1.7,683,45,7:00 AM,8:00 PM,No,Yes,No,41,Chinedu Eze,2.34772E+12,obinna.ojo@outlook.com
+150,Restaurant 150,Ibadan,Nigerian,Moi Moi,4591.32,2424.74,4.5,186,31,9:00 AM,9:00 PM,No,Yes,Yes,33,Musa Okafor,2.34767E+12,tolu.nwosu@yahoo.com
+151,Restaurant 151,Benin City,Nigerian,Fried Rice,3954.35,1926.95,4.4,583,42,6:00 AM,11:00 PM,Yes,Yes,No,76,Fatima Nwosu,2.34722E+12,obinna.balogun@hotmail.com
+152,Restaurant 152,Benin City,Nigerian,Efo Riro,2494.48,1010.24,1.6,107,44,10:00 AM,8:00 PM,Yes,Yes,No,92,Musa Ahmed,2.34769E+12,adebayo.ahmed@hotmail.com
+153,Restaurant 153,Jos,Nigerian,Akara,1804.35,1802.42,3.4,796,44,8:00 AM,11:00 PM,Yes,No,No,81,Emeka Onyeka,2.34835E+12,obinna.ojo@yahoo.com
+154,Restaurant 154,Jos,Nigerian,Efo Riro,1733.24,2792.23,2.5,181,23,9:00 AM,10:00 PM,No,No,No,69,Emeka Eze,2.34852E+12,aisha.ibrahim@outlook.com
+155,Restaurant 155,Benin City,Nigerian,Fried Rice,3016.41,1945.89,2.9,591,11,10:00 AM,9:00 PM,No,No,No,88,Ngozi Okafor,2.3482E+12,obinna.abubakar@yahoo.com
+156,Restaurant 156,Benin City,Nigerian,Ofada Rice,3326.51,2806.02,4.5,339,43,7:00 AM,10:00 PM,No,Yes,Yes,95,Fatima Nwosu,2.34776E+12,ngozi.okafor@gmail.com
+157,Restaurant 157,Lagos,Nigerian,Moi Moi,2090.44,769.62,4.6,990,25,8:00 AM,10:00 PM,Yes,Yes,No,55,Uche Onyeka,2.34798E+12,musa.ibrahim@gmail.com
+158,Restaurant 158,Benin City,Nigerian,Akara,2138.95,2224.52,1,859,29,8:00 AM,8:00 PM,Yes,Yes,Yes,83,Emeka Balogun,2.34842E+12,musa.ibrahim@gmail.com
+159,Restaurant 159,Abuja,Nigerian,Jollof Rice,2143.68,902.71,2.2,584,30,9:00 AM,8:00 PM,No,No,Yes,51,Uche Nwosu,2.34878E+12,tolu.eze@yahoo.com
+160,Restaurant 160,Abeokuta,Nigerian,Moi Moi,1456.64,742.54,1.3,580,30,9:00 AM,11:00 PM,Yes,No,Yes,51,Ngozi Nwosu,2.34781E+12,tolu.adeniyi@yahoo.com
+161,Restaurant 161,Kano,Nigerian,Pounded Yam,2311.7,2766.02,2.8,865,44,6:00 AM,11:00 PM,Yes,No,Yes,45,Emeka Ahmed,2.34874E+12,ngozi.ibrahim@gmail.com
+162,Restaurant 162,Abeokuta,Nigerian,Suya,1287.11,2563.55,3.1,592,23,7:00 AM,9:00 PM,Yes,Yes,No,45,Uche Balogun,2.34823E+12,obinna.eze@outlook.com
+163,Restaurant 163,Ibadan,Nigerian,Akara,3552.89,711.47,2.6,611,20,9:00 AM,10:00 PM,No,No,Yes,42,Aisha Ojo,2.34749E+12,ngozi.eze@outlook.com
+164,Restaurant 164,Abeokuta,Nigerian,Moi Moi,3505.66,1625.45,2.1,251,39,10:00 AM,11:00 PM,No,Yes,No,47,Emeka Balogun,2.34811E+12,aisha.ojo@hotmail.com
+165,Restaurant 165,Jos,Nigerian,Suya,3422.69,1764.5,3,269,34,8:00 AM,11:00 PM,No,No,Yes,39,Emeka Ibrahim,2.34875E+12,tolu.ibrahim@gmail.com
+166,Restaurant 166,Abeokuta,Nigerian,Fried Rice,1831.96,1072.93,4.1,723,24,8:00 AM,11:00 PM,Yes,Yes,No,67,Emeka Adeniyi,2.34865E+12,obinna.ahmed@yahoo.com
+167,Restaurant 167,Enugu,Nigerian,Egusi Soup,4032.53,1866.7,1.4,456,42,10:00 AM,10:00 PM,No,No,No,35,Chinedu Ibrahim,2.34755E+12,adebayo.nwosu@gmail.com
+168,Restaurant 168,Kano,Nigerian,Pepper Soup,561.3,619.7,1.8,768,44,7:00 AM,10:00 PM,Yes,No,No,23,Aisha Ahmed,2.34875E+12,chinedu.eze@hotmail.com
+169,Restaurant 169,Abeokuta,Nigerian,Akara,3841.21,2361.74,2.2,767,27,8:00 AM,10:00 PM,Yes,Yes,Yes,96,Fatima Balogun,2.34769E+12,obinna.onyeka@outlook.com
+170,Restaurant 170,Enugu,Nigerian,Pounded Yam,528.22,2310.92,4.3,246,37,8:00 AM,9:00 PM,Yes,No,Yes,41,Tolu Okafor,2.34739E+12,musa.ojo@outlook.com
+171,Restaurant 171,Kano,Nigerian,Ofada Rice,4325.57,1835.82,2.5,815,31,10:00 AM,9:00 PM,No,No,No,66,Tolu Okafor,2.34703E+12,obinna.nwosu@outlook.com
+172,Restaurant 172,Enugu,Nigerian,Jollof Rice,1707.26,2781.05,2.8,865,25,6:00 AM,11:00 PM,No,No,Yes,21,Aisha Eze,2.34798E+12,obinna.balogun@outlook.com
+173,Restaurant 173,Enugu,Nigerian,Moi Moi,4034.66,906.52,2,794,43,8:00 AM,8:00 PM,No,Yes,Yes,52,Emeka Abubakar,2.34708E+12,obinna.okafor@hotmail.com
+174,Restaurant 174,Port Harcourt,Nigerian,Egusi Soup,4809.84,462.28,2.4,310,29,10:00 AM,8:00 PM,No,Yes,Yes,47,Ngozi Adeniyi,2.34797E+12,aisha.balogun@yahoo.com
+175,Restaurant 175,Ibadan,Nigerian,Ofada Rice,4421.05,667.62,4.7,54,45,9:00 AM,8:00 PM,Yes,Yes,Yes,49,Musa Eze,2.34715E+12,adebayo.eze@hotmail.com
+176,Restaurant 176,Kaduna,Nigerian,Ofada Rice,521.92,2822.54,3.1,630,42,9:00 AM,8:00 PM,No,No,Yes,67,Chinedu Onyeka,2.34747E+12,aisha.ibrahim@outlook.com
+177,Restaurant 177,Abuja,Nigerian,Ofada Rice,4483.48,2541.35,3.5,890,33,9:00 AM,11:00 PM,Yes,No,Yes,83,Fatima Ibrahim,2.34757E+12,chinedu.ojo@hotmail.com
+178,Restaurant 178,Abeokuta,Nigerian,Egusi Soup,4812.6,1712.1,1.7,203,20,8:00 AM,10:00 PM,No,No,No,36,Obinna Ibrahim,2.34817E+12,chinedu.okafor@hotmail.com
+179,Restaurant 179,Jos,Nigerian,Fried Rice,3182.39,1137.27,2.3,770,38,6:00 AM,11:00 PM,No,Yes,No,43,Emeka Abubakar,2.34803E+12,chinedu.ibrahim@yahoo.com
+180,Restaurant 180,Jos,Nigerian,Efo Riro,4321.17,1384.26,3.7,555,8,6:00 AM,9:00 PM,No,No,Yes,26,Fatima Ahmed,2.349E+12,adebayo.eze@hotmail.com
+181,Restaurant 181,Abeokuta,Nigerian,Fried Rice,2932.29,1883.97,1.4,588,10,10:00 AM,11:00 PM,Yes,Yes,No,65,Chinedu Ahmed,2.34785E+12,musa.adeniyi@yahoo.com
+182,Restaurant 182,Enugu,Nigerian,Ofada Rice,3776.62,463.01,2.4,353,41,8:00 AM,8:00 PM,No,No,No,36,Chinedu Ahmed,2.3485E+12,ngozi.abubakar@gmail.com
+183,Restaurant 183,Lagos,Nigerian,Jollof Rice,1786.4,1385.38,4,553,38,8:00 AM,8:00 PM,No,Yes,No,61,Chinedu Ojo,2.34813E+12,fatima.onyeka@hotmail.com
+184,Restaurant 184,Abeokuta,Nigerian,Efo Riro,1972.1,2433.62,3.7,803,30,10:00 AM,9:00 PM,Yes,Yes,Yes,73,Fatima Ahmed,2.34704E+12,aisha.onyeka@gmail.com
+185,Restaurant 185,Ibadan,Nigerian,Ofada Rice,1815.56,1066.72,4.7,924,11,9:00 AM,8:00 PM,Yes,Yes,Yes,47,Musa Nwosu,2.34859E+12,tolu.ibrahim@gmail.com
+186,Restaurant 186,Benin City,Nigerian,Ofada Rice,3977.78,1130.29,4.9,378,7,8:00 AM,9:00 PM,Yes,Yes,Yes,74,Chinedu Balogun,2.3487E+12,adebayo.ojo@gmail.com
+187,Restaurant 187,Kano,Nigerian,Pounded Yam,4157.39,1869.26,2.4,437,8,7:00 AM,9:00 PM,No,No,No,50,Emeka Abubakar,2.34799E+12,aisha.adeniyi@yahoo.com
+188,Restaurant 188,Port Harcourt,Nigerian,Ofada Rice,4723.27,1949.8,1.5,958,10,10:00 AM,10:00 PM,No,No,No,68,Emeka Ahmed,2.34739E+12,chinedu.eze@gmail.com
+189,Restaurant 189,Abeokuta,Nigerian,Jollof Rice,3586.62,2704.06,3.2,35,9,8:00 AM,8:00 PM,Yes,Yes,No,73,Ngozi Adeniyi,2.34792E+12,emeka.okafor@outlook.com
+190,Restaurant 190,Kaduna,Nigerian,Fried Rice,1560.22,644.4,3.3,921,7,9:00 AM,8:00 PM,No,No,Yes,84,Adebayo Adeniyi,2.34748E+12,adebayo.abubakar@yahoo.com
+191,Restaurant 191,Abuja,Nigerian,Akara,1812.72,2026.61,3.2,542,29,9:00 AM,11:00 PM,Yes,No,Yes,20,Emeka Onyeka,2.34842E+12,adebayo.balogun@hotmail.com
+192,Restaurant 192,Kano,Nigerian,Pounded Yam,1227.48,1863.95,3.4,223,15,10:00 AM,9:00 PM,No,Yes,No,56,Musa Ahmed,2.3488E+12,aisha.okafor@outlook.com
+193,Restaurant 193,Ibadan,Nigerian,Suya,3473.04,2953.12,1.4,596,5,9:00 AM,10:00 PM,Yes,No,Yes,62,Musa Eze,2.34889E+12,emeka.nwosu@outlook.com
+194,Restaurant 194,Lagos,Nigerian,Ofada Rice,3651.98,2602.59,1,961,9,10:00 AM,8:00 PM,No,No,Yes,74,Chinedu Eze,2.34762E+12,adebayo.ojo@outlook.com
+195,Restaurant 195,Enugu,Nigerian,Suya,4134.81,2843.98,2.5,902,37,9:00 AM,10:00 PM,Yes,No,Yes,27,Musa Ojo,2.34879E+12,chinedu.balogun@hotmail.com
+196,Restaurant 196,Kano,Nigerian,Jollof Rice,858.27,691.49,1.7,899,38,8:00 AM,8:00 PM,No,Yes,Yes,77,Obinna Abubakar,2.34843E+12,tolu.onyeka@gmail.com
+197,Restaurant 197,Lagos,Nigerian,Fried Rice,1028.97,436.1,4,677,18,6:00 AM,10:00 PM,Yes,Yes,Yes,55,Tolu Ojo,2.34828E+12,fatima.onyeka@gmail.com
+198,Restaurant 198,Benin City,Nigerian,Egusi Soup,3728.1,2243.02,1,445,45,8:00 AM,10:00 PM,No,No,No,68,Fatima Nwosu,2.34838E+12,musa.ojo@gmail.com
+199,Restaurant 199,Abeokuta,Nigerian,Efo Riro,1051.91,2697.3,4.3,738,31,8:00 AM,9:00 PM,No,Yes,Yes,79,Obinna Abubakar,2.34885E+12,musa.eze@gmail.com
+200,Restaurant 200,Ibadan,Nigerian,Ofada Rice,1250.75,2211.92,2.7,768,47,8:00 AM,8:00 PM,No,No,Yes,91,Aisha Ahmed,2.34845E+12,ngozi.onyeka@hotmail.com
+201,Restaurant 201,Lagos,Nigerian,Fried Rice,610.37,520.72,3.9,36,47,7:00 AM,8:00 PM,Yes,No,Yes,41,Obinna Onyeka,2.34898E+12,emeka.adeniyi@hotmail.com
+202,Restaurant 202,Enugu,Nigerian,Efo Riro,1317.96,1755.9,4.5,495,33,9:00 AM,10:00 PM,No,No,Yes,62,Musa Eze,2.34801E+12,chinedu.adeniyi@hotmail.com
+203,Restaurant 203,Kaduna,Nigerian,Efo Riro,2077.32,2209.26,2.4,143,33,6:00 AM,9:00 PM,Yes,No,Yes,20,Emeka Ojo,2.34844E+12,uche.ibrahim@yahoo.com
+204,Restaurant 204,Kano,Nigerian,Pounded Yam,2851.52,2839.15,4.1,998,28,6:00 AM,11:00 PM,No,Yes,No,45,Obinna Nwosu,2.34819E+12,aisha.okafor@gmail.com
+205,Restaurant 205,Benin City,Nigerian,Ofada Rice,3932.41,1245.28,3.3,904,38,10:00 AM,9:00 PM,No,No,No,36,Musa Ahmed,2.34714E+12,aisha.nwosu@hotmail.com
+206,Restaurant 206,Abeokuta,Nigerian,Efo Riro,512.62,2021.58,4.5,9,46,9:00 AM,10:00 PM,No,Yes,No,42,Fatima Ahmed,2.34881E+12,fatima.adeniyi@gmail.com
+207,Restaurant 207,Port Harcourt,Nigerian,Efo Riro,2602.08,381.95,2.4,686,32,6:00 AM,11:00 PM,No,No,Yes,24,Fatima Ibrahim,2.34881E+12,aisha.balogun@hotmail.com
+208,Restaurant 208,Lagos,Nigerian,Moi Moi,966.12,611.15,2.2,164,14,7:00 AM,11:00 PM,Yes,Yes,Yes,29,Obinna Adeniyi,2.34815E+12,chinedu.nwosu@hotmail.com
+209,Restaurant 209,Enugu,Nigerian,Jollof Rice,3071.38,1534.92,4.6,230,36,6:00 AM,8:00 PM,Yes,Yes,No,90,Tolu Ahmed,2.34789E+12,musa.eze@hotmail.com
+210,Restaurant 210,Kano,Nigerian,Suya,2826.33,2347.92,4.3,137,5,10:00 AM,8:00 PM,No,No,Yes,21,Aisha Balogun,2.34835E+12,fatima.okafor@outlook.com
+211,Restaurant 211,Enugu,Nigerian,Ofada Rice,2409.79,1173.2,1.9,890,5,7:00 AM,10:00 PM,Yes,No,Yes,37,Uche Onyeka,2.34761E+12,tolu.adeniyi@hotmail.com
+212,Restaurant 212,Port Harcourt,Nigerian,Efo Riro,3096,1505.71,4.8,800,47,10:00 AM,11:00 PM,No,No,Yes,43,Musa Okafor,2.34777E+12,uche.abubakar@outlook.com
+213,Restaurant 213,Jos,Nigerian,Pepper Soup,1239.19,2359.4,4.1,329,34,10:00 AM,11:00 PM,Yes,Yes,Yes,47,Chinedu Ahmed,2.34756E+12,chinedu.ibrahim@outlook.com
+214,Restaurant 214,Kano,Nigerian,Pounded Yam,3401.5,1357.12,2.8,319,48,7:00 AM,10:00 PM,Yes,Yes,Yes,31,Tolu Balogun,2.34775E+12,musa.ojo@hotmail.com
+215,Restaurant 215,Ibadan,Nigerian,Pounded Yam,1025.73,2387.68,4.8,689,42,8:00 AM,10:00 PM,No,No,No,61,Uche Onyeka,2.34869E+12,adebayo.eze@hotmail.com
+216,Restaurant 216,Kano,Nigerian,Fried Rice,2843.62,844.16,3,959,19,9:00 AM,9:00 PM,Yes,Yes,No,70,Adebayo Eze,2.34771E+12,fatima.abubakar@hotmail.com
+217,Restaurant 217,Port Harcourt,Nigerian,Jollof Rice,2036.68,2585.39,1.2,563,34,8:00 AM,8:00 PM,Yes,No,Yes,69,Fatima Eze,2.34817E+12,musa.onyeka@hotmail.com
+218,Restaurant 218,Kano,Nigerian,Moi Moi,2511.56,1446.76,1.6,614,46,10:00 AM,10:00 PM,Yes,No,No,49,Ngozi Okafor,2.34744E+12,chinedu.okafor@yahoo.com
+219,Restaurant 219,Abuja,Nigerian,Fried Rice,2077.85,2482.18,1.7,258,34,6:00 AM,11:00 PM,No,No,Yes,24,Aisha Nwosu,2.34819E+12,ngozi.nwosu@yahoo.com
+220,Restaurant 220,Abeokuta,Nigerian,Moi Moi,3438.71,1572.71,3.1,141,13,10:00 AM,9:00 PM,No,Yes,No,38,Musa Abubakar,2.34872E+12,uche.onyeka@yahoo.com
+221,Restaurant 221,Abeokuta,Nigerian,Efo Riro,622.23,2568.8,4.5,39,18,7:00 AM,9:00 PM,No,Yes,Yes,32,Adebayo Ibrahim,2.34776E+12,obinna.ibrahim@yahoo.com
+222,Restaurant 222,Lagos,Nigerian,Pepper Soup,964.85,2968.94,4.6,44,45,6:00 AM,10:00 PM,Yes,No,No,20,Musa Abubakar,2.34726E+12,emeka.nwosu@hotmail.com
+223,Restaurant 223,Port Harcourt,Nigerian,Moi Moi,4987.47,1637.16,1.7,941,23,10:00 AM,8:00 PM,No,No,Yes,97,Emeka Okafor,2.34869E+12,fatima.ibrahim@outlook.com
+224,Restaurant 224,Kaduna,Nigerian,Fried Rice,1556.5,359.5,3.7,312,36,9:00 AM,9:00 PM,No,No,No,22,Uche Ahmed,2.34836E+12,ngozi.eze@gmail.com
+225,Restaurant 225,Enugu,Nigerian,Akara,4090.31,949.99,4,485,31,7:00 AM,11:00 PM,No,Yes,No,85,Emeka Eze,2.34703E+12,obinna.nwosu@hotmail.com
+226,Restaurant 226,Kaduna,Nigerian,Suya,1008.7,2173.42,4.4,355,30,6:00 AM,10:00 PM,Yes,No,No,21,Fatima Ojo,2.34869E+12,ngozi.ibrahim@hotmail.com
+227,Restaurant 227,Enugu,Nigerian,Efo Riro,3398.53,1733.51,4.4,961,19,10:00 AM,8:00 PM,No,Yes,No,94,Emeka Balogun,2.34752E+12,emeka.eze@gmail.com
+228,Restaurant 228,Ibadan,Nigerian,Ofada Rice,650.63,2875.7,1.5,986,17,7:00 AM,10:00 PM,No,No,No,25,Aisha Abubakar,2.34716E+12,tolu.ojo@hotmail.com
+229,Restaurant 229,Kano,Nigerian,Efo Riro,4122.97,1732.6,1,781,33,10:00 AM,10:00 PM,Yes,Yes,No,42,Chinedu Ahmed,2.34842E+12,emeka.nwosu@gmail.com
+230,Restaurant 230,Jos,Nigerian,Ofada Rice,839.94,2554.76,2.6,873,5,7:00 AM,11:00 PM,No,Yes,No,26,Adebayo Abubakar,2.34761E+12,fatima.balogun@yahoo.com
+231,Restaurant 231,Port Harcourt,Nigerian,Suya,3658.45,1216.92,4.3,976,16,9:00 AM,9:00 PM,Yes,No,Yes,40,Adebayo Abubakar,2.34707E+12,adebayo.okafor@hotmail.com
+232,Restaurant 232,Lagos,Nigerian,Fried Rice,2178.35,662.51,3.8,618,10,6:00 AM,10:00 PM,Yes,No,Yes,27,Adebayo Balogun,2.34867E+12,musa.ojo@yahoo.com
+233,Restaurant 233,Lagos,Nigerian,Jollof Rice,616.52,2077.87,1.3,672,38,7:00 AM,11:00 PM,No,No,Yes,68,Chinedu Onyeka,2.34843E+12,emeka.ahmed@yahoo.com
+234,Restaurant 234,Abeokuta,Nigerian,Suya,2783.13,603.66,3.9,524,20,9:00 AM,8:00 PM,Yes,Yes,No,28,Musa Balogun,2.34783E+12,uche.adeniyi@yahoo.com
+235,Restaurant 235,Jos,Nigerian,Jollof Rice,4513.27,2260.52,1.1,884,21,9:00 AM,10:00 PM,No,Yes,Yes,74,Musa Ojo,2.3489E+12,chinedu.abubakar@gmail.com
+236,Restaurant 236,Ibadan,Nigerian,Egusi Soup,3785.3,474.61,1.8,513,24,8:00 AM,9:00 PM,No,No,No,75,Adebayo Ojo,2.34722E+12,ngozi.adeniyi@outlook.com
+237,Restaurant 237,Ibadan,Nigerian,Akara,2298.46,1967.71,4.3,405,26,10:00 AM,9:00 PM,No,Yes,No,72,Ngozi Adeniyi,2.34721E+12,aisha.nwosu@hotmail.com
+238,Restaurant 238,Port Harcourt,Nigerian,Suya,4954.77,2856.17,2.1,765,48,7:00 AM,11:00 PM,Yes,Yes,No,47,Uche Eze,2.34816E+12,chinedu.balogun@yahoo.com
+239,Restaurant 239,Kano,Nigerian,Akara,3819.33,2607.55,4.8,124,5,8:00 AM,9:00 PM,Yes,No,Yes,85,Uche Nwosu,2.34702E+12,emeka.balogun@outlook.com
+240,Restaurant 240,Lagos,Nigerian,Moi Moi,2096.2,2405.1,2.6,989,22,7:00 AM,8:00 PM,Yes,Yes,No,82,Musa Onyeka,2.34782E+12,aisha.adeniyi@hotmail.com
+241,Restaurant 241,Kaduna,Nigerian,Pounded Yam,1385.29,1816.76,1.2,312,14,6:00 AM,9:00 PM,Yes,No,Yes,57,Obinna Abubakar,2.34747E+12,aisha.nwosu@gmail.com
+242,Restaurant 242,Enugu,Nigerian,Suya,782.67,1145.56,2.7,962,5,10:00 AM,8:00 PM,No,No,Yes,85,Adebayo Nwosu,2.34758E+12,aisha.eze@gmail.com
+243,Restaurant 243,Ibadan,Nigerian,Efo Riro,4674.39,629.06,1.5,276,39,6:00 AM,10:00 PM,No,Yes,No,57,Emeka Abubakar,2.34896E+12,ngozi.ahmed@hotmail.com
+244,Restaurant 244,Jos,Nigerian,Egusi Soup,3371.44,1726.17,1.9,980,34,10:00 AM,10:00 PM,No,No,No,58,Tolu Adeniyi,2.3479E+12,ngozi.abubakar@outlook.com
+245,Restaurant 245,Jos,Nigerian,Pounded Yam,778.99,1070.68,1.2,488,17,7:00 AM,9:00 PM,Yes,Yes,No,47,Fatima Ahmed,2.349E+12,tolu.ahmed@hotmail.com
+246,Restaurant 246,Benin City,Nigerian,Fried Rice,3607.23,1849.66,1.9,977,32,7:00 AM,9:00 PM,Yes,No,No,63,Tolu Eze,2.34707E+12,tolu.adeniyi@outlook.com
+247,Restaurant 247,Enugu,Nigerian,Pepper Soup,2053.81,363.03,4.3,403,46,8:00 AM,10:00 PM,Yes,No,No,34,Chinedu Adeniyi,2.34856E+12,fatima.adeniyi@outlook.com
+248,Restaurant 248,Benin City,Nigerian,Egusi Soup,2943.93,2481.69,3.5,636,34,8:00 AM,11:00 PM,Yes,Yes,Yes,31,Adebayo Ojo,2.3478E+12,adebayo.okafor@hotmail.com
+249,Restaurant 249,Lagos,Nigerian,Jollof Rice,4067.32,2380.22,2.7,922,32,7:00 AM,8:00 PM,Yes,No,No,33,Emeka Ahmed,2.3485E+12,ngozi.eze@hotmail.com
+250,Restaurant 250,Kaduna,Nigerian,Efo Riro,4709.51,2346.14,1,124,34,9:00 AM,9:00 PM,Yes,Yes,Yes,45,Fatima Eze,2.34768E+12,fatima.ojo@gmail.com
+251,Restaurant 251,Port Harcourt,Nigerian,Suya,1794.2,2786.68,4.2,711,11,7:00 AM,8:00 PM,Yes,No,No,67,Emeka Onyeka,2.34764E+12,uche.nwosu@outlook.com
+252,Restaurant 252,Benin City,Nigerian,Efo Riro,3462.12,2514.43,1.4,407,47,7:00 AM,8:00 PM,Yes,Yes,Yes,76,Obinna Okafor,2.34884E+12,chinedu.ahmed@hotmail.com
+253,Restaurant 253,Port Harcourt,Nigerian,Pepper Soup,3150.96,1941.46,2.3,194,32,10:00 AM,11:00 PM,Yes,Yes,Yes,53,Chinedu Onyeka,2.34744E+12,uche.onyeka@yahoo.com
+254,Restaurant 254,Benin City,Nigerian,Efo Riro,2070.66,1140.27,4.5,503,35,7:00 AM,11:00 PM,No,No,Yes,46,Chinedu Balogun,2.34721E+12,ngozi.ibrahim@hotmail.com
+255,Restaurant 255,Kano,Nigerian,Suya,1604.82,2874.06,1.4,665,27,10:00 AM,10:00 PM,No,No,Yes,82,Aisha Onyeka,2.34766E+12,obinna.eze@hotmail.com
+256,Restaurant 256,Abeokuta,Nigerian,Pepper Soup,4156.42,309.57,4.7,644,50,7:00 AM,11:00 PM,Yes,No,No,38,Musa Ahmed,2.34727E+12,emeka.nwosu@outlook.com
+257,Restaurant 257,Abeokuta,Nigerian,Fried Rice,2334.66,1005.23,1.8,23,5,6:00 AM,11:00 PM,No,Yes,No,96,Tolu Okafor,2.34894E+12,fatima.ibrahim@gmail.com
+258,Restaurant 258,Abeokuta,Nigerian,Fried Rice,871.76,1726.82,2.2,203,8,10:00 AM,11:00 PM,No,Yes,No,84,Chinedu Onyeka,2.3479E+12,uche.ojo@outlook.com
+259,Restaurant 259,Enugu,Nigerian,Jollof Rice,1325.75,420.83,1.1,967,33,7:00 AM,11:00 PM,No,No,Yes,57,Fatima Ojo,2.34882E+12,emeka.ojo@hotmail.com
+260,Restaurant 260,Benin City,Nigerian,Efo Riro,2662.37,1111.72,2.7,513,34,6:00 AM,8:00 PM,Yes,Yes,No,41,Musa Okafor,2.34809E+12,aisha.ahmed@gmail.com
+261,Restaurant 261,Ibadan,Nigerian,Akara,3507.57,1281.38,1.3,621,25,9:00 AM,9:00 PM,Yes,No,Yes,25,Obinna Ibrahim,2.34769E+12,musa.nwosu@gmail.com
+262,Restaurant 262,Abeokuta,Nigerian,Akara,2160.43,2591.28,1.1,948,5,7:00 AM,8:00 PM,No,Yes,Yes,45,Ngozi Onyeka,2.34731E+12,ngozi.onyeka@hotmail.com
+263,Restaurant 263,Lagos,Nigerian,Egusi Soup,3271.48,2535.47,3,502,47,9:00 AM,8:00 PM,No,Yes,Yes,77,Ngozi Eze,2.34708E+12,fatima.ibrahim@hotmail.com
+264,Restaurant 264,Jos,Nigerian,Pounded Yam,4287.8,2066.79,2.6,71,7,8:00 AM,11:00 PM,No,No,No,29,Aisha Adeniyi,2.34819E+12,musa.ojo@gmail.com
+265,Restaurant 265,Benin City,Nigerian,Ofada Rice,529.79,2195.44,1.2,214,30,7:00 AM,11:00 PM,Yes,No,Yes,93,Tolu Balogun,2.34866E+12,emeka.nwosu@outlook.com
+266,Restaurant 266,Abuja,Nigerian,Efo Riro,4322.93,342.51,1.6,25,36,10:00 AM,11:00 PM,No,No,No,22,Fatima Ibrahim,2.34795E+12,ngozi.onyeka@gmail.com
+267,Restaurant 267,Jos,Nigerian,Pounded Yam,1273.77,1785.5,3.9,395,31,8:00 AM,9:00 PM,Yes,Yes,No,26,Ngozi Okafor,2.34756E+12,aisha.eze@gmail.com
+268,Restaurant 268,Kaduna,Nigerian,Pounded Yam,4255,1617.22,3.4,842,41,9:00 AM,8:00 PM,No,Yes,Yes,87,Musa Okafor,2.34781E+12,fatima.nwosu@hotmail.com
+269,Restaurant 269,Ibadan,Nigerian,Suya,2748.77,1825.77,2.1,970,23,10:00 AM,8:00 PM,No,Yes,Yes,44,Musa Eze,2.34711E+12,emeka.abubakar@hotmail.com
+270,Restaurant 270,Abuja,Nigerian,Egusi Soup,4741.43,1891.62,3.1,261,5,10:00 AM,8:00 PM,No,Yes,No,21,Chinedu Abubakar,2.34779E+12,obinna.okafor@outlook.com
+271,Restaurant 271,Jos,Nigerian,Akara,4374.85,1864.38,1.2,975,48,10:00 AM,9:00 PM,No,No,Yes,53,Tolu Onyeka,2.34707E+12,emeka.abubakar@outlook.com
+272,Restaurant 272,Benin City,Nigerian,Jollof Rice,4423.27,1527.99,4,771,11,10:00 AM,8:00 PM,Yes,Yes,Yes,94,Obinna Adeniyi,2.34845E+12,emeka.onyeka@yahoo.com
+273,Restaurant 273,Jos,Nigerian,Akara,3603.21,371.76,1.5,155,18,9:00 AM,9:00 PM,Yes,No,No,28,Obinna Onyeka,2.34891E+12,musa.nwosu@hotmail.com
+274,Restaurant 274,Ibadan,Nigerian,Akara,3889.13,837.49,1.2,297,49,10:00 AM,10:00 PM,No,Yes,No,96,Ngozi Balogun,2.34826E+12,chinedu.nwosu@gmail.com
+275,Restaurant 275,Port Harcourt,Nigerian,Suya,3584.14,2164.18,4.2,746,17,8:00 AM,11:00 PM,No,Yes,No,58,Musa Adeniyi,2.34882E+12,ngozi.okafor@outlook.com
+276,Restaurant 276,Ibadan,Nigerian,Akara,1519.99,721.43,3.9,931,40,8:00 AM,8:00 PM,Yes,Yes,No,93,Obinna Nwosu,2.34879E+12,aisha.onyeka@gmail.com
+277,Restaurant 277,Benin City,Nigerian,Efo Riro,4808.95,2868.83,1.3,62,31,6:00 AM,11:00 PM,Yes,Yes,Yes,94,Tolu Nwosu,2.34888E+12,uche.adeniyi@yahoo.com
+278,Restaurant 278,Port Harcourt,Nigerian,Akara,1626.3,892.48,3.2,648,43,7:00 AM,11:00 PM,No,No,Yes,95,Chinedu Abubakar,2.34748E+12,adebayo.nwosu@gmail.com
+279,Restaurant 279,Lagos,Nigerian,Ofada Rice,4493.91,762.37,3.1,698,47,8:00 AM,9:00 PM,No,No,No,55,Uche Balogun,2.34898E+12,emeka.adeniyi@gmail.com
+280,Restaurant 280,Ibadan,Nigerian,Moi Moi,2306.6,1420.1,3.3,916,23,9:00 AM,8:00 PM,Yes,No,No,34,Tolu Nwosu,2.34738E+12,uche.ojo@gmail.com
+281,Restaurant 281,Jos,Nigerian,Akara,4942.34,2438.31,1.6,745,33,8:00 AM,9:00 PM,No,No,No,42,Emeka Eze,2.34763E+12,emeka.eze@yahoo.com
+282,Restaurant 282,Kano,Nigerian,Pounded Yam,3016.7,2363.62,3.7,261,19,9:00 AM,10:00 PM,No,No,Yes,63,Musa Ahmed,2.34845E+12,fatima.ojo@hotmail.com
+283,Restaurant 283,Ibadan,Nigerian,Jollof Rice,1609.51,1829.93,4.9,90,13,8:00 AM,9:00 PM,Yes,Yes,No,71,Uche Abubakar,2.34774E+12,emeka.nwosu@gmail.com
+284,Restaurant 284,Ibadan,Nigerian,Fried Rice,1369.49,1936.87,4.1,999,44,9:00 AM,8:00 PM,No,Yes,No,81,Uche Abubakar,2.34884E+12,chinedu.balogun@hotmail.com
+285,Restaurant 285,Benin City,Nigerian,Fried Rice,4984.67,933.24,1.7,316,11,6:00 AM,9:00 PM,No,Yes,Yes,53,Aisha Okafor,2.34801E+12,ngozi.onyeka@yahoo.com
+286,Restaurant 286,Ibadan,Nigerian,Ofada Rice,4611.92,1822.05,2.8,391,49,7:00 AM,11:00 PM,No,Yes,Yes,79,Fatima Eze,2.34869E+12,aisha.nwosu@outlook.com
+287,Restaurant 287,Lagos,Nigerian,Pepper Soup,1924.71,2868.3,3.4,37,41,9:00 AM,8:00 PM,No,No,No,22,Tolu Okafor,2.34824E+12,adebayo.onyeka@outlook.com
+288,Restaurant 288,Enugu,Nigerian,Moi Moi,603.36,824.11,4.3,129,14,7:00 AM,10:00 PM,Yes,No,Yes,42,Adebayo Ahmed,2.34877E+12,obinna.adeniyi@outlook.com
+289,Restaurant 289,Ibadan,Nigerian,Moi Moi,3256.2,1923.2,3.8,615,38,8:00 AM,9:00 PM,Yes,No,Yes,46,Musa Ahmed,2.34805E+12,obinna.abubakar@hotmail.com
+290,Restaurant 290,Benin City,Nigerian,Moi Moi,3310.79,2296.85,3.5,941,33,7:00 AM,10:00 PM,Yes,No,No,86,Uche Balogun,2.34825E+12,ngozi.ahmed@gmail.com
+291,Restaurant 291,Abuja,Nigerian,Suya,4327.2,1543.71,2.5,80,10,8:00 AM,11:00 PM,No,Yes,No,23,Aisha Adeniyi,2.3487E+12,fatima.ojo@hotmail.com
+292,Restaurant 292,Enugu,Nigerian,Ofada Rice,4663.73,2501.43,1.9,917,37,9:00 AM,8:00 PM,No,Yes,Yes,23,Adebayo Onyeka,2.34794E+12,adebayo.balogun@gmail.com
+293,Restaurant 293,Abuja,Nigerian,Egusi Soup,2288.97,2251.27,1.8,188,39,9:00 AM,11:00 PM,Yes,Yes,Yes,50,Chinedu Balogun,2.3481E+12,obinna.okafor@yahoo.com
+294,Restaurant 294,Enugu,Nigerian,Egusi Soup,1823.98,407.4,3,682,39,7:00 AM,11:00 PM,No,Yes,Yes,43,Musa Onyeka,2.34807E+12,uche.eze@outlook.com
+295,Restaurant 295,Abeokuta,Nigerian,Egusi Soup,2796.65,1072.53,3.4,28,18,7:00 AM,9:00 PM,Yes,No,No,41,Emeka Adeniyi,2.34867E+12,emeka.adeniyi@hotmail.com
+296,Restaurant 296,Benin City,Nigerian,Fried Rice,3996.63,373.56,4.7,115,36,9:00 AM,10:00 PM,No,Yes,No,56,Adebayo Ibrahim,2.34722E+12,uche.ibrahim@yahoo.com
+297,Restaurant 297,Abeokuta,Nigerian,Pounded Yam,961.07,629.39,1.6,337,50,9:00 AM,11:00 PM,Yes,No,Yes,58,Chinedu Ibrahim,2.34882E+12,ngozi.adeniyi@yahoo.com
+298,Restaurant 298,Abeokuta,Nigerian,Efo Riro,4086.93,1513.32,1.1,74,8,8:00 AM,9:00 PM,No,No,Yes,97,Ngozi Abubakar,2.34785E+12,uche.abubakar@gmail.com
+299,Restaurant 299,Abeokuta,Nigerian,Jollof Rice,4727.55,2318.22,2.8,638,6,9:00 AM,11:00 PM,Yes,Yes,Yes,56,Emeka Balogun,2.34782E+12,tolu.ahmed@hotmail.com
+300,Restaurant 300,Benin City,Nigerian,Egusi Soup,3896.15,1454.17,3.5,914,9,9:00 AM,11:00 PM,Yes,No,Yes,91,Ngozi Onyeka,2.34806E+12,emeka.nwosu@outlook.com
